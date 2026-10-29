@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Local Sinhala and English news image verification demo">
+  <title>Verity · News image verification</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <script defer src="/static/app.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Verity home">
+        <span class="brand-mark">V</span>
+        <span><strong>VERITY</strong><small>news image verification lab</small></span>
+      </a>
+      <div class="service-pill"><span class="status-dot" id="service-dot"></span><span id="service-status">Checking local service…</span></div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="eyebrow">NEWS IMAGE VERIFICATION · SINHALA + ENGLISH</div>
+        <h1>See what an image says.<br><em>Check what it supports.</em></h1>
+        <p>Upload a news image and follow every signal from headline extraction to visual consistency, context, and evidence.</p>
+        <div class="hero-tags"><span>Sinhala &amp; English headlines</span><span>Visual analysis</span><span>Evidence-based review</span></div>
+      </section>
+
+      <ol class="workflow" aria-label="How verification works">
+        <li><span>01</span><div><strong>Upload</strong><small>Choose one PNG, JPG or JPEG</small></div></li>
+        <li><span>02</span><div><strong>Check the preview</strong><small>Make sure the headline is readable</small></div></li>
+        <li><span>03</span><div><strong>Review the results</strong><small>Explore the available verification signals</small></div></li>
+      </ol>
+
+      <section class="workspace-grid" aria-label="Analysis setup">
+        <div class="card setup-card">
+          <div class="card-heading"><span class="step-tag">01</span><div><h2>Upload your news image</h2><p>One image. A clearer picture of the story.</p></div></div>
+          <form id="analysis-form">
+            <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Choose a PNG, JPG or JPEG news image" aria-describedby="upload-help setup-notice">
+              <input id="file-input" type="file" accept=".png,.jpg,.jpeg" aria-label="News image file" hidden>
+              <div class="upload-icon">↑</div>
+              <strong id="dropzone-title">Drop a news image here</strong>
+              <span>or <u>browse from your computer</u></span>
+              <div class="format-tags" aria-label="Supported file extensions"><span>PNG</span><span>JPG</span><span>JPEG</span></div>
+            </div>
+            <p class="upload-help" id="upload-help">PNG, JPG and JPEG only · up to 12 MB · 16 megapixels</p>
+            <div class="validation-checks" aria-label="Image upload checks">
+              <div id="check-format" class="validation-check" data-state="waiting"><span class="check-icon" aria-hidden="true">○</span><div><strong>File type</strong><small>PNG, JPG or JPEG</small></div></div>
+              <div id="check-size" class="validation-check" data-state="waiting"><span class="check-icon" aria-hidden="true">○</span><div><strong>File size</strong><small>Up to 12 MB</small></div></div>
+              <div id="check-content" class="validation-check" data-state="waiting"><span class="check-icon" aria-hidden="true">○</span><div><strong>Image readable</strong><small>Checked after selection</small></div></div>
+              <div id="check-dimensions" class="validation-check" data-state="waiting"><span class="check-icon" aria-hidden="true">○</span><div><strong>Dimensions</strong><small>Up to 16 megapixels</small></div></div>
+            </div>
+            <div class="selected-file hidden" id="selected-file">
+              <div class="file-indicator" aria-hidden="true">✓</div>
+              <div class="selected-file-copy"><strong id="file-name"></strong><span id="file-meta"></span></div>
+              <button type="button" class="text-button" id="remove-file" aria-label="Remove selected image">Remove</button>
+            </div>
+            <button class="primary-button" id="analyze-button" type="submit" disabled><span id="analyze-label">Select an image to begin</span><span aria-hidden="true">→</span></button>
+          </form>
+          <div class="notice" id="setup-notice" role="status" aria-live="polite"></div>
+          <div class="upload-tip"><strong>For a clearer result</strong><p>Keep the main headline and photograph visible. Use a sharp image with readable Sinhala or English text.</p></div>
+        </div>
+
+        <div class="card preview-card">
+          <div class="card-heading preview-heading"><span class="step-tag">02</span><div><h2>Preview</h2><p>Check your image before analysis</p></div><span class="preview-status" id="preview-status">No image</span></div>
+          <div class="preview-frame" id="preview-frame">
+            <div class="preview-empty" id="preview-empty"><span class="preview-cross">＋</span><strong>No image selected</strong><small>The preview appears here before analysis</small></div>
+            <img id="preview-image" alt="Selected news image preview" hidden>
+          </div>
+          <div class="privacy-note"><span>▣</span><span>Your original stays unchanged. Review the image here before running verification.</span></div>
+        </div>
+      </section>
+
+      <section class="analysis-section hidden" id="analysis-panel" aria-live="polite">
+        <div class="analysis-header">
+          <div><div class="eyebrow">LIVE ANALYSIS</div><h2 id="analysis-title">Verification run</h2><p id="analysis-subtitle">Preparing the pipeline…</p></div>
+          <div class="analysis-actions"><a class="secondary-button hidden" id="report-link" href="#" download>Download report <span>↓</span></a><button class="text-button" type="button" id="reset-button">New image</button></div>
+        </div>
+        <div class="progress-shell"><div class="progress-track"><div class="progress-bar" id="progress-bar"></div></div><div class="progress-meta"><span id="progress-label">Queued</span><strong id="progress-value">0%</strong></div></div>
+        <div class="stage-grid" id="stage-list"></div>
+        <div class="results-heading"><div><div class="eyebrow">RESULTS</div><h2>What the system found</h2></div><span class="result-disclaimer">Model indicators are not proof of truth.</span></div>
+        <div class="results-grid" id="results-grid"></div>
+      </section>
+    </main>
+
+    <footer><span>VERITY / local image verification</span><span>Designed for transparent review · uncertainty is shown</span></footer>
+  </div>
+</body>
+</html>

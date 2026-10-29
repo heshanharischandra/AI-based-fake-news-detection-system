@@ -1,0 +1,5 @@
+{
+  "schema_version": "ground-truth/v1",
+  "annotation_instructions": "Add independent labels described in docs/evaluation_system.md. Do not use the evaluated model's output as ground truth.",
+  "samples": []
+}

@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Image Verification System",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"C:\\Users\\VICTUS\\Desktop\\ImageVerificationSystem\\run_ui.ps1"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
