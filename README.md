@@ -242,7 +242,5 @@ Image-Content-Verification-and-Authenticity-Analysis
 
 ## Author
 
-**[Your Name]**
-
 AI-Based Fake News Detection System  
 Image Content Verification and Authenticity Analysis Component
