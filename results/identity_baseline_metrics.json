@@ -1,0 +1,13 @@
+{
+  "experiment": "name_similarity_baseline",
+  "threshold": 0.75,
+  "threshold_selection": "predefined_not_tuned",
+  "total_pairs": 12,
+  "reviewed_labeled_pairs": 3,
+  "positive_labels": 1,
+  "negative_labels": 2,
+  "unlabeled_or_uncertain": 9,
+  "prediction_meaning": "Candidate match based on account-handle name similarity, not verified ownership",
+  "evaluation_status": "insufficient_reviewed_labels",
+  "required_next_action": "Review more independently established same-publisher and different-publisher pairs"
+}

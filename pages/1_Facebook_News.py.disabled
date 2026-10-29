@@ -1,0 +1,523 @@
+
+import html
+import os
+from datetime import datetime
+from urllib.parse import urlsplit
+
+import requests
+import streamlit as st
+
+
+API_URL = os.getenv(
+    "SOURCE_API_URL",
+    "http://127.0.0.1:8001"
+).rstrip("/")
+
+
+st.set_page_config(
+    page_title="Facebook News | SourceCredibility",
+    page_icon="📰",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+
+st.markdown(
+    """
+    <style>
+    .stApp,[data-testid="stAppViewContainer"] {
+        background:#101B29;
+        color:#F2F8FC;
+    }
+
+    [data-testid="stHeader"] {
+        background:#101B29;
+    }
+
+    .block-container {
+        max-width:1050px;
+        padding-top:2rem;
+    }
+
+    .stApp,.stApp *:not(svg):not(path) {
+        font-family:"Nirmala UI","Segoe UI",Arial,sans-serif!important;
+    }
+
+    .stApp h1,.stApp h2,.stApp h3,
+    .stApp p,.stApp label {
+        color:#F2F8FC!important;
+    }
+
+    [data-testid="stForm"] {
+        background:#1A2D41;
+        border:1px solid #43647C;
+        border-radius:18px;
+        padding:20px;
+    }
+
+    [data-testid="stTextInput"] input {
+        background:#102336!important;
+        color:#fff!important;
+        border:1px solid #64849A!important;
+    }
+
+    [data-testid="stTextInput"] input::placeholder {
+        color:#ABC3D4!important;
+    }
+
+    [data-testid="stFormSubmitButton"] button {
+        background:#86E7D0!important;
+        border:0!important;
+        border-radius:10px!important;
+        font-weight:750!important;
+    }
+
+    [data-testid="stFormSubmitButton"] button p {
+        color:#102B35!important;
+    }
+
+    [data-testid="stLinkButton"] a {
+        background:#24566A!important;
+        color:#fff!important;
+        border:1px solid #79E4D0!important;
+        border-radius:10px!important;
+    }
+
+    [data-testid="stCaptionContainer"] p {
+        color:#BBCFDE!important;
+    }
+
+    .fb-kicker {
+        color:#86E7D0;
+        font-weight:800;
+        letter-spacing:.08em;
+        font-size:.82rem;
+    }
+
+    .fb-hero {
+        color:white;
+        font-size:clamp(1.9rem,3vw,2.75rem);
+        font-weight:800;
+        margin:.5rem 0;
+    }
+
+    .fb-sub {
+        color:#C3D7E5;
+        line-height:1.8;
+        margin-bottom:1.6rem;
+    }
+
+    .fb-card {
+        background:#1A3043;
+        border:1px solid #416179;
+        border-radius:14px;
+        padding:20px;
+        margin:15px 0;
+    }
+
+    .fb-card-title {
+        color:#90F3DA;
+        font-weight:750;
+        font-size:.82rem;
+        letter-spacing:.06em;
+        margin-bottom:9px;
+    }
+
+    .fb-card-body {
+        color:#F2F8FC;
+        font-size:1rem;
+        line-height:1.8;
+        overflow-wrap:anywhere;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
+LANG = {
+    "en": {
+        "title": "Facebook News Source Analysis",
+        "sub": (
+            "Submit a Facebook news post or video URL "
+            "to inspect available text, publication metadata "
+            "and possible publisher associations."
+        ),
+        "input": "Facebook news post / video URL",
+        "hint": "Paste a direct Facebook news post or video URL",
+        "button": "Analyze Facebook news URL",
+        "waiting": "Checking accessible Facebook post information...",
+        "invalid": (
+            "Please use a Facebook post or video URL, "
+            "not just a Facebook Page URL."
+        ),
+        "error": "The Facebook assessment could not be completed.",
+        "post": "Facebook post information",
+        "post_title": "Post headline / preview",
+        "post_text": "Available post text",
+        "date": "Publication date",
+        "unknown_date": "Not available",
+        "no_text": (
+            "Post text was not accessible. "
+            "This does not mean the post is false."
+        ),
+        "method": "Extraction method",
+        "status": "Extraction status",
+        "publisher": "Possible publisher association",
+        "none": (
+            "No publisher association could be established "
+            "from the URL and local dataset."
+        ),
+        "candidate": "Candidate relationship from your research dataset",
+        "review": "Dataset review status",
+        "website": "Publisher website",
+        "image": "Public post preview image",
+        "explanation": "Result explanation",
+        "source": "Open original Facebook post",
+        "restricted": (
+            "Facebook did not provide readable post content "
+            "through this connection. This result cannot be "
+            "used as a news or source reliability verdict."
+        ),
+        "partial": (
+            "Only public preview metadata was accessible, "
+            "not a verified full post."
+        ),
+        "success": (
+            "Post details were retrieved with authorized "
+            "Meta API access."
+        ),
+        "note": (
+            "This page extracts Facebook news-post evidence. "
+            "Source reliability and factual accuracy require "
+            "separate validated analysis."
+        )
+    },
+    "si": {
+        "title": "Facebook පුවත් මූලාශ්‍ර විශ්ලේෂණය",
+        "sub": (
+            "Facebook පුවත් පෝස්ට් හෝ වීඩියෝ සබැඳියක් "
+            "ඇතුළත් කර ලබාගත හැකි පාඨ, දිනය සහ "
+            "ප්‍රකාශක සම්බන්ධතා පරීක්ෂා කරන්න."
+        ),
+        "input": "Facebook පුවත් පෝස්ට් / වීඩියෝ URL",
+        "hint": (
+            "Facebook පුවත් පෝස්ට් හෝ වීඩියෝ සබැඳිය "
+            "මෙහි ඇතුළත් කරන්න"
+        ),
+        "button": "Facebook පුවත විශ්ලේෂණය කරන්න",
+        "waiting": "Facebook පුවතේ තොරතුරු පරීක්ෂා කරමින්...",
+        "invalid": (
+            "Facebook පිටුවේ මුල් සබැඳිය නොව "
+            "පෝස්ට් හෝ වීඩියෝ සබැඳියක් ඇතුළත් කරන්න."
+        ),
+        "error": "Facebook පුවත විශ්ලේෂණය කිරීමට නොහැකි විය.",
+        "post": "Facebook පුවතේ තොරතුරු",
+        "post_title": "පුවත් ශීර්ෂය / පෙරදසුන",
+        "post_text": "ලබාගත් පෝස්ට් පාඨය",
+        "date": "පළ කළ දිනය",
+        "unknown_date": "ලබාගත නොහැක",
+        "no_text": (
+            "පෝස්ට් පාඨය ලබාගත නොහැකි විය. "
+            "එයින් පුවත අසත්‍ය බව තීරණය නොවේ."
+        ),
+        "method": "තොරතුරු ලබාගත් ක්‍රමය",
+        "status": "තොරතුරු ලබාගැනීමේ තත්ත්වය",
+        "publisher": "අපේක්ෂිත ප්‍රකාශක සම්බන්ධතාව",
+        "none": (
+            "URL සහ පර්යේෂණ දත්ත අනුව "
+            "ප්‍රකාශක සම්බන්ධතාව තහවුරු කළ නොහැකි විය."
+        ),
+        "candidate": "පර්යේෂණ දත්තවල අපේක්ෂිත සම්බන්ධතාවකි",
+        "review": "දත්ත සමාලෝචන තත්ත්වය",
+        "website": "ප්‍රකාශක වෙබ් අඩවිය",
+        "image": "Facebook පෝස්ට් රූප පෙරදසුන",
+        "explanation": "ප්‍රතිඵලයේ පැහැදිලි කිරීම",
+        "source": "මුල් Facebook පෝස්ට් එක බලන්න",
+        "restricted": (
+            "Facebook වෙතින් පෝස්ට් අන්තර්ගතය "
+            "ලබාගත නොහැකි විය. මෙම ප්‍රතිඵලයෙන් "
+            "පුවතේ හෝ මූලාශ්‍රයේ විශ්වසනීයත්වය "
+            "තීරණය කළ නොහැක."
+        ),
+        "partial": (
+            "සම්පූර්ණ පෝස්ට් එක නොව පොදු "
+            "පෙරදසුන් තොරතුරු පමණක් ලබාගත හැකි විය."
+        ),
+        "success": (
+            "අවසරලත් Meta API මගින් පෝස්ට් "
+            "තොරතුරු ලබාගන්නා ලදී."
+        ),
+        "note": (
+            "මෙය Facebook පෝස්ට් සාක්ෂි ලබාගන්නා "
+            "මූලාකෘතියකි. විශ්වසනීයත්වය සහ සත්‍යතාව "
+            "තහවුරු කිරීමට වෙනම ඇගයීමක් අවශ්‍යයි."
+        )
+    }
+}
+
+
+def card(title, content):
+    st.markdown(
+        (
+            '<div class="fb-card">'
+            '<div class="fb-card-title">'
+            + html.escape(str(title))
+            + '</div>'
+            '<div class="fb-card-body">'
+            + html.escape(str(content))
+            + '</div>'
+            '</div>'
+        ),
+        unsafe_allow_html=True
+    )
+
+
+def date_value(value):
+    if (
+        not isinstance(value, str)
+        or not value.strip()
+    ):
+        return ""
+
+    try:
+        return datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        ).strftime("%Y-%m-%d · %H:%M")
+
+    except ValueError:
+        return value[:60]
+
+
+language = st.selectbox(
+    "Language / භාෂාව",
+    ["en", "si"],
+    format_func=lambda x: (
+        "English" if x == "en" else "සිංහල"
+    )
+)
+
+t = LANG[language]
+
+st.markdown(
+    '<div class="fb-kicker">SOURCECREDIBILITY · FACEBOOK</div>',
+    unsafe_allow_html=True
+)
+
+st.markdown(
+    (
+        '<div class="fb-hero">'
+        + html.escape(t["title"])
+        + '</div>'
+    ),
+    unsafe_allow_html=True
+)
+
+st.markdown(
+    (
+        '<div class="fb-sub">'
+        + html.escape(t["sub"])
+        + '</div>'
+    ),
+    unsafe_allow_html=True
+)
+
+
+with st.form("facebook_input"):
+    url = st.text_input(
+        t["input"],
+        value="",
+        placeholder=t["hint"]
+    )
+
+    clicked = st.form_submit_button(
+        t["button"],
+        use_container_width=True,
+        type="primary"
+    )
+
+
+if clicked:
+    st.session_state.pop(
+        "facebook_report",
+        None
+    )
+
+    with st.spinner(t["waiting"]):
+        try:
+            response = requests.post(
+                API_URL + "/facebook-assess",
+                json={
+                    "url": url.strip(),
+                    "output_language": language
+                },
+                timeout=(5, 35)
+            )
+
+            if response.status_code == 400:
+                st.error(t["invalid"])
+
+            else:
+                response.raise_for_status()
+
+                result = response.json()
+
+                if not isinstance(result, dict):
+                    raise ValueError(
+                        "Invalid JSON response"
+                    )
+
+                st.session_state[
+                    "facebook_report"
+                ] = result
+
+        except (
+            requests.RequestException,
+            ValueError
+        ) as error:
+            st.error(
+                f'{t["error"]} {error}'
+            )
+
+
+if "facebook_report" in st.session_state:
+    result = st.session_state[
+        "facebook_report"
+    ]
+
+    post = result.get("post") or {}
+    publisher = result.get("publisher") or {}
+
+    extraction = result.get(
+        "extraction_status"
+    )
+
+    st.divider()
+
+    st.subheader(t["post"])
+
+    if extraction == "extracted":
+        st.success(t["success"])
+
+    elif extraction == "partial_public_metadata":
+        st.warning(t["partial"])
+
+    else:
+        st.warning(t["restricted"])
+
+    left, right = st.columns(2)
+
+    with left:
+        card(
+            t["status"],
+            extraction.replace("_", " ")
+        )
+
+    with right:
+        card(
+            t["method"],
+            result.get(
+                "extraction_method"
+            ) or "none"
+        )
+
+    if post.get("title"):
+        card(
+            t["post_title"],
+            post["title"]
+        )
+
+    card(
+        t["post_text"],
+        post.get("text") or t["no_text"]
+    )
+
+    card(
+        t["date"],
+        date_value(
+            post.get("published_at")
+        ) or t["unknown_date"]
+    )
+
+    picture = (
+        post.get("image_url")
+        or ""
+    )
+
+    image_host = (
+        urlsplit(picture)
+        .hostname or ""
+    ).lower()
+
+    if (
+        picture.startswith("https://")
+        and (
+            image_host == "facebook.com"
+            or image_host.endswith(".facebook.com")
+            or image_host == "fbcdn.net"
+            or image_host.endswith(".fbcdn.net")
+        )
+    ):
+        st.subheader(t["image"])
+
+        st.image(
+            picture,
+            width="stretch"
+        )
+
+    st.subheader(t["publisher"])
+
+    if (
+        publisher.get("association_status")
+        == "research_dataset_candidate"
+    ):
+        card(
+            t["candidate"],
+            publisher.get("name", "")
+        )
+
+        card(
+            t["review"],
+            publisher.get(
+                "human_review_status",
+                "pending"
+            )
+            + " · "
+            + publisher.get(
+                "human_review_label",
+                "unknown"
+            )
+        )
+
+        website = (
+            publisher.get("website_url")
+            or ""
+        )
+
+        if website.startswith("https://"):
+            st.link_button(
+                t["website"],
+                website
+            )
+
+    else:
+        st.info(t["none"])
+
+    st.subheader(t["explanation"])
+
+    st.write(
+        result.get("explanation", "")
+    )
+
+    original = result.get(
+        "submitted_url",
+        ""
+    )
+
+    if original.startswith("https://"):
+        st.link_button(
+            t["source"],
+            original
+        )
+
+    st.caption(t["note"])

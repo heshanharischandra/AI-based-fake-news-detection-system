@@ -1,0 +1,20 @@
+﻿publisher_id,publisher_name,website_url,platform,account_url,identity_label,numeric_label,name_handle_similarity,domain_handle_similarity,name_in_handle,domain_in_handle
+PUB001,Ada Derana,https://sinhala.adaderana.lk/,facebook,https://www.facebook.com/sinhala.adaderana.lk,same_publisher,1,0.6667,0.6667,1,1
+PUB002,Hiru News,https://www.hirunews.lk/,youtube,https://www.youtube.com/@HiruNewsOfficial,same_publisher,1,0.6667,0.6667,1,1
+PUB007,EconomyNext,https://economynext.com/,facebook,https://www.facebook.com/economynxt,same_publisher,1,0.9524,0.9524,0,0
+PUB008,Newswire,https://www.newswire.lk/,facebook,https://www.facebook.com/newswireLK,same_publisher,1,0.8889,0.8889,1,1
+PUB024,Sri Lanka Rupavahini,https://www.rupavahini.lk/,facebook,https://www.facebook.com/srilankarupavahini,same_publisher,1,1.0,0.7143,1,1
+PUB024,Sri Lanka Rupavahini,https://www.rupavahini.lk/,youtube,https://www.youtube.com/c/SriLankaRupavahinitv,same_publisher,1,0.9474,0.6667,1,1
+PUB024,Sri Lanka Rupavahini,https://www.rupavahini.lk/,youtube,https://www.youtube.com/@Rupavahini_News,same_publisher,1,0.625,0.8333,0,1
+PUB001,Ada Derana,https://sinhala.adaderana.lk/,facebook,https://www.facebook.com/hirunews,different_publisher,0,0.1176,0.1176,0,0
+PUB002,Hiru News,https://www.hirunews.lk/,facebook,https://www.facebook.com/sinhala.adaderana.lk,different_publisher,0,0.2308,0.2308,0,0
+PUB001,Ada Derana,https://sinhala.adaderana.lk/,youtube,https://www.youtube.com/@HiruNewsOfficial,different_publisher,0,0.08,0.08,0,0
+PUB001,Ada Derana,https://sinhala.adaderana.lk/,youtube,https://www.youtube.com/c/SriLankaRupavahinitv,different_publisher,0,0.2759,0.2759,0,0
+PUB002,Hiru News,https://www.hirunews.lk/,youtube,https://www.youtube.com/@AdaDeranaNews,different_publisher,0,0.4762,0.4762,0,0
+PUB002,Hiru News,https://www.hirunews.lk/,facebook,https://www.facebook.com/srilankarupavahini,different_publisher,0,0.2308,0.2308,0,0
+PUB003,Newsfirst,https://www.newsfirst.lk/,facebook,https://www.facebook.com/hirunews,different_publisher,0,0.4706,0.4706,0,0
+PUB003,Newsfirst,https://www.newsfirst.lk/,facebook,https://www.facebook.com/newswireLK,different_publisher,0,0.6316,0.6316,0,0
+PUB005,Daily Mirror,https://www.dailymirror.lk/,facebook,https://www.facebook.com/economynxt,different_publisher,0,0.0952,0.0952,0,0
+PUB005,Daily Mirror,https://www.dailymirror.lk/,youtube,https://www.youtube.com/c/SriLankaRupavahinitv,different_publisher,0,0.1935,0.1935,0,0
+PUB007,EconomyNext,https://economynext.com/,youtube,https://www.youtube.com/@newsfirstsrilanka,different_publisher,0,0.2143,0.2143,0,0
+PUB007,EconomyNext,https://economynext.com/,facebook,https://www.facebook.com/sinhala.adaderana.lk,different_publisher,0,0.1379,0.1379,0,0

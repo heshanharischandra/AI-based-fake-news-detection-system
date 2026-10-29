@@ -1,0 +1,36 @@
+publisher_id,publisher_name,website_url,language,media_type,website_status
+PUB001,Ada Derana,https://sinhala.adaderana.lk/,si,broadcast_digital,observed
+PUB002,Hiru News,https://www.hirunews.lk/,si_en,broadcast_digital,observed
+PUB003,Newsfirst,https://www.newsfirst.lk/,si_en,broadcast_digital,observed
+PUB004,Lankadeepa,https://www.lankadeepa.lk/,si,newspaper_digital,observed
+PUB005,Daily Mirror,https://www.dailymirror.lk/,en,newspaper_digital,observed
+PUB006,Daily FT,https://www.ft.lk/,en,newspaper_digital,directory_listed
+PUB007,EconomyNext,https://economynext.com/,en,digital_news,observed
+PUB008,Newswire,https://www.newswire.lk/,en,digital_news,observed
+PUB009,Ceylon Today,https://ceylontoday.lk/,en,newspaper_digital,directory_listed
+PUB010,Daily News,https://www.dailynews.lk/,en,newspaper_digital,directory_listed
+PUB011,Dinamina,https://www.dinamina.lk/,si,newspaper_digital,directory_listed
+PUB012,Silumina,https://www.silumina.lk/,si,newspaper_digital,directory_listed
+PUB013,Sunday Observer,https://www.sundayobserver.lk/,en,newspaper_digital,directory_listed
+PUB014,Sunday Times,https://www.sundaytimes.lk/,en,newspaper_digital,directory_listed
+PUB015,Divaina,https://www.divaina.lk/,si,newspaper_digital,observed
+PUB016,Mawbima,https://mawbima.lk/,si,newspaper_digital,observed
+PUB017,Ada,https://www.ada.lk/,si,newspaper_digital,observed
+PUB018,Deshaya,https://www.deshaya.lk/,si,newspaper_digital,directory_listed
+PUB019,The Island,https://island.lk/,en,newspaper_digital,observed
+PUB020,Colombo Telegraph,https://www.colombotelegraph.com/,en,digital_news,directory_listed
+PUB021,Groundviews,https://groundviews.org/,en,civic_media,directory_listed
+PUB022,Lanka News Web,https://lankanewsweb.net/,si_en,digital_news,directory_listed
+PUB023,Lanka Truth,https://lankatruth.com/si/,si,digital_news,directory_listed
+PUB024,Sri Lanka Rupavahini,https://www.rupavahini.lk/,si,broadcast_digital,observed
+PUB025,ITN News,https://www.itnnews.lk/,si,broadcast_digital,observed
+PUB026,The Morning,https://www.themorning.lk/,en,newspaper_digital,observed
+PUB027,Sri Lanka Mirror,https://srilankamirror.com/,en,digital_news,observed
+PUB028,Asian Mirror,https://sinhala.asianmirror.lk/,si,digital_news,observed
+PUB029,Neth News,https://www.nethnews.lk/,si,broadcast_digital,site_found_needs_api_test
+PUB030,Siyatha News,https://siyathanews.lk/,si,broadcast_digital,site_found_needs_api_test
+PUB031,Dasatha Lanka News,https://dasathalankanews.com/,si,digital_news,site_found_needs_api_test
+PUB032,The Leader,https://theleader.lk/,si,digital_news,site_found_needs_api_test
+PUB033,Colombo Gazette,https://colombogazette.com/,en,digital_news,site_found_needs_api_test
+PUB034,Counterpoint,https://www.counterpoint.lk/,en,digital_news,site_found_needs_api_test
+PUB035,Ceylon Wire,https://www.ceylonwire.lk/,si,digital_news,site_found_needs_api_test

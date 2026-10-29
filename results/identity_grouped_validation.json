@@ -1,0 +1,43 @@
+{
+  "validation": "exploratory_leave_one_publisher_out",
+  "reviewed_labeled_pairs": 19,
+  "tested_pairs": 19,
+  "tested_publishers": 7,
+  "skipped_publisher_groups": [],
+  "pairs_with_account_leakage": 16,
+  "logistic_regression": {
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        0,
+        7
+      ]
+    ]
+  },
+  "name_similarity_baseline": {
+    "accuracy": 0.8421,
+    "balanced_accuracy": 0.7857,
+    "precision": 1.0,
+    "recall": 0.5714,
+    "f1": 0.7273,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "limitation": "Exploratory small-sample validation. Shared accounts between training and test groups and similarity-derived manual labels can bias evaluation results."
+}

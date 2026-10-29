@@ -1,0 +1,20 @@
+publisher_id,publisher_name,platform,account_url,actual,logistic_prediction,baseline_prediction,social_account_seen_in_other_train_group
+PUB001,Ada Derana,facebook,https://www.facebook.com/sinhala.adaderana.lk,1,1,0,True
+PUB001,Ada Derana,facebook,https://www.facebook.com/hirunews,0,0,0,True
+PUB001,Ada Derana,youtube,https://www.youtube.com/@hirunewsofficial,0,0,0,True
+PUB001,Ada Derana,youtube,https://www.youtube.com/c/srilankarupavahinitv,0,0,0,True
+PUB002,Hiru News,youtube,https://www.youtube.com/@hirunewsofficial,1,1,0,True
+PUB002,Hiru News,facebook,https://www.facebook.com/sinhala.adaderana.lk,0,0,0,True
+PUB002,Hiru News,youtube,https://www.youtube.com/@adaderananews,0,0,0,False
+PUB002,Hiru News,facebook,https://www.facebook.com/srilankarupavahini,0,0,0,True
+PUB003,Newsfirst,facebook,https://www.facebook.com/hirunews,0,0,0,True
+PUB003,Newsfirst,facebook,https://www.facebook.com/newswirelk,0,0,0,True
+PUB005,Daily Mirror,facebook,https://www.facebook.com/economynxt,0,0,0,True
+PUB005,Daily Mirror,youtube,https://www.youtube.com/c/srilankarupavahinitv,0,0,0,True
+PUB007,EconomyNext,facebook,https://www.facebook.com/economynxt,1,1,1,True
+PUB007,EconomyNext,youtube,https://www.youtube.com/@newsfirstsrilanka,0,0,0,False
+PUB007,EconomyNext,facebook,https://www.facebook.com/sinhala.adaderana.lk,0,0,0,True
+PUB008,Newswire,facebook,https://www.facebook.com/newswirelk,1,1,1,True
+PUB024,Sri Lanka Rupavahini,facebook,https://www.facebook.com/srilankarupavahini,1,1,1,True
+PUB024,Sri Lanka Rupavahini,youtube,https://www.youtube.com/c/srilankarupavahinitv,1,1,1,True
+PUB024,Sri Lanka Rupavahini,youtube,https://www.youtube.com/@rupavahini_news,1,1,0,False

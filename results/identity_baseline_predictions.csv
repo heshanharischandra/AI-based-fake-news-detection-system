@@ -1,0 +1,13 @@
+publisher_id,publisher_name,platform,account_url,name_similarity,baseline_candidate_match,human_label,review_status,included_in_evaluation
+PUB001,Ada Derana,facebook,https://www.facebook.com/sinhala.adaderana.lk,0.6667,0,same_publisher,reviewed,True
+PUB001,Ada Derana,youtube,https://www.youtube.com/@AdaDeranaNews,0.8182,1,unknown,reviewed,False
+PUB002,Hiru News,facebook,https://www.facebook.com/hirunews,1.0,1,unknown,reviewed,False
+PUB002,Hiru News,youtube,https://www.youtube.com/@HiruNewsOfficial,0.6667,0,unknown,pending,False
+PUB003,Newsfirst,youtube,https://www.youtube.com/@newsfirstsrilanka,0.6923,0,unknown,pending,False
+PUB007,EconomyNext,facebook,https://www.facebook.com/economynxt,0.9524,1,unknown,pending,False
+PUB008,Newswire,facebook,https://www.facebook.com/newswireLK,0.8889,1,unknown,pending,False
+PUB024,Sri Lanka Rupavahini,facebook,https://www.facebook.com/srilankarupavahini,1.0,1,unknown,pending,False
+PUB024,Sri Lanka Rupavahini,youtube,https://www.youtube.com/c/SriLankaRupavahinitv,0.9474,1,unknown,pending,False
+PUB024,Sri Lanka Rupavahini,youtube,https://www.youtube.com/@Rupavahini_News,0.625,0,unknown,pending,False
+PUB001,Ada Derana,facebook,https://www.facebook.com/hirunews,0.1176,0,different_publisher,reviewed,True
+PUB002,Hiru News,facebook,https://www.facebook.com/sinhala.adaderana.lk,0.2308,0,different_publisher,reviewed,True

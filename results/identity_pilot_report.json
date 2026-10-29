@@ -1,0 +1,9 @@
+{
+  "status": "pipeline_smoke_test_only",
+  "training_rows": 19,
+  "same_publisher": 7,
+  "different_publisher": 12,
+  "publishers_represented": 7,
+  "held_out_evaluation": "not_performed_too_few_independent_examples",
+  "warning": "Do not report training-set performance as model accuracy."
+}

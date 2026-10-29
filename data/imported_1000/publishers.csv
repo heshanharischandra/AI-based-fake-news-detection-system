@@ -1,0 +1,1001 @@
+﻿publisher_id,publisher_name,website_url,language,media_type,website_status,country,original_outlet_id,source_dataset_url,original_website_url
+EXT000001,Alaska Journal of Commerce,https://alaskajournal.com,unknown,historical_us_local_news,not_live_checked,US,1,https://github.com/sTechLab/local-news-dataset,alaskajournal.com
+EXT000002,Sand Mountain Reporter,https://sandmountainreporter.com,unknown,historical_us_local_news,not_live_checked,US,45,https://github.com/sTechLab/local-news-dataset,sandmountainreporter.com
+EXT000003,Standard,https://thesouthernstandard.com,unknown,historical_us_local_news,not_live_checked,US,204,https://github.com/sTechLab/local-news-dataset,thesouthernstandard.com
+EXT000004,Ajo Copper News,https://cunews.info,unknown,historical_us_local_news,not_live_checked,US,365,https://github.com/sTechLab/local-news-dataset,cunews.info
+EXT000005,Acorn,https://theacornonline.com,unknown,historical_us_local_news,not_live_checked,US,502,https://github.com/sTechLab/local-news-dataset,theacornonline.com
+EXT000006,Akron News-Reporter,https://akronnewsreporter.com,unknown,historical_us_local_news,not_live_checked,US,1225,https://github.com/sTechLab/local-news-dataset,akronnewsreporter.com
+EXT000007,Berlin Citizen,https://berlincitizen.com,unknown,historical_us_local_news,not_live_checked,US,1440,https://github.com/sTechLab/local-news-dataset,berlincitizen.com
+EXT000008,American Bazaar,https://americanbazaaronline.com,unknown,historical_us_local_news,not_live_checked,US,1591,https://github.com/sTechLab/local-news-dataset,americanbazaaronline.com
+EXT000009,Beachcomber Newspaper,https://delmarvanow.com/entertainment,unknown,historical_us_local_news,not_live_checked,US,1617,https://github.com/sTechLab/local-news-dataset,delmarvanow.com/entertainment
+EXT000010,ACT NEWS,https://alachuatoday.com,unknown,historical_us_local_news,not_live_checked,US,1645,https://github.com/sTechLab/local-news-dataset,alachuatoday.com
+EXT000011,Adel News-Tribune,https://adelnewstribune.com,unknown,historical_us_local_news,not_live_checked,US,1901,https://github.com/sTechLab/local-news-dataset,adelnewstribune.com
+EXT000012,Hawaii Reporter,https://hawaiireporter.com,unknown,historical_us_local_news,not_live_checked,US,2180,https://github.com/sTechLab/local-news-dataset,hawaiireporter.com
+EXT000013,Dallas County News,https://adelnews.com,unknown,historical_us_local_news,not_live_checked,US,2201,https://github.com/sTechLab/local-news-dataset,adelnews.com
+EXT000014,Aberdeen Times,https://press-times.com,unknown,historical_us_local_news,not_live_checked,US,2430,https://github.com/sTechLab/local-news-dataset,press-times.com
+EXT000015,Addison Press,https://mysuburbanlife.com/addison,unknown,historical_us_local_news,not_live_checked,US,2494,https://github.com/sTechLab/local-news-dataset,mysuburbanlife.com/addison
+EXT000016,Albion New Era,https://kpcnews.com/news/latest/new_era,unknown,historical_us_local_news,not_live_checked,US,2942,https://github.com/sTechLab/local-news-dataset,kpcnews.com/news/latest/new_era
+EXT000017,St. John News,https://sjnewsonline.com,unknown,historical_us_local_news,not_live_checked,US,3184,https://github.com/sTechLab/local-news-dataset,sjnewsonline.com
+EXT000018,Clinton County News,https://clintonnews.net,unknown,historical_us_local_news,not_live_checked,US,3329,https://github.com/sTechLab/local-news-dataset,clintonnews.net
+EXT000019,Abbeville Meridional,https://vermiliontoday.com,unknown,historical_us_local_news,not_live_checked,US,3524,https://github.com/sTechLab/local-news-dataset,vermiliontoday.com
+EXT000020,Abington Mariner,https://abington.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3648,https://github.com/sTechLab/local-news-dataset,abington.wickedlocal.com
+EXT000021,Bargaineer,https://thebargaineeronline.com,unknown,historical_us_local_news,not_live_checked,US,4007,https://github.com/sTechLab/local-news-dataset,thebargaineeronline.com
+EXT000022,Piscataquis Observer,https://observer-me.com,unknown,historical_us_local_news,not_live_checked,US,4100,https://github.com/sTechLab/local-news-dataset,observer-me.com
+EXT000023,Daily Telegram,https://lenconnect.com,unknown,historical_us_local_news,not_live_checked,US,4181,https://github.com/sTechLab/local-news-dataset,lenconnect.com
+EXT000024,Nobles County Review,https://noblescountyreview.net,unknown,historical_us_local_news,not_live_checked,US,4438,https://github.com/sTechLab/local-news-dataset,noblescountyreview.net
+EXT000025,Aurora Advertiser,https://auroraadvertiser.net,unknown,historical_us_local_news,not_live_checked,US,4753,https://github.com/sTechLab/local-news-dataset,auroraadvertiser.net
+EXT000026,Panolian,https://panolian.com,unknown,historical_us_local_news,not_live_checked,US,5011,https://github.com/sTechLab/local-news-dataset,panolian.com
+EXT000027,Yellowstone Net Newspaper,https://yellowstone.net/newspaper,unknown,historical_us_local_news,not_live_checked,US,5146,https://github.com/sTechLab/local-news-dataset,yellowstone.net/newspaper
+EXT000028,Roanoke-Chowan News Herald,https://roanoke-chowannewsherald.com,unknown,historical_us_local_news,not_live_checked,US,5229,https://github.com/sTechLab/local-news-dataset,roanoke-chowannewsherald.com
+EXT000029,Beulah Beacon,https://bhgnews.com/?id=1048,unknown,historical_us_local_news,not_live_checked,US,5466,https://github.com/sTechLab/local-news-dataset,bhgnews.com/?id=1048
+EXT000030,Ainsworth Star-Journal,https://ainsworthnews.com,unknown,historical_us_local_news,not_live_checked,US,5501,https://github.com/sTechLab/local-news-dataset,ainsworthnews.com
+EXT000031,Alton Baysider,https://newhampshirelakesandmountains.com/118968.113119body.lasso?publication=bay,unknown,historical_us_local_news,not_live_checked,US,5646,https://github.com/sTechLab/local-news-dataset,newhampshirelakesandmountains.com/118968.113119body.lasso?publication=bay
+EXT000032,Township Journal,https://townshipjournal.com,unknown,historical_us_local_news,not_live_checked,US,5720,https://github.com/sTechLab/local-news-dataset,townshipjournal.com
+EXT000033,Alamogordo Daily News,https://alamogordonews.com,unknown,historical_us_local_news,not_live_checked,US,5915,https://github.com/sTechLab/local-news-dataset,alamogordonews.com
+EXT000034,Battle Mountain Bugle,https://news4nevada.com,unknown,historical_us_local_news,not_live_checked,US,5971,https://github.com/sTechLab/local-news-dataset,news4nevada.com
+EXT000035,Albany Business Review,https://bizjournals.com/albany,unknown,historical_us_local_news,not_live_checked,US,6026,https://github.com/sTechLab/local-news-dataset,bizjournals.com/albany
+EXT000036,Ada Herald,https://adaherald.com,unknown,historical_us_local_news,not_live_checked,US,6429,https://github.com/sTechLab/local-news-dataset,adaherald.com
+EXT000037,Ada Evening News,https://theadanews.com,unknown,historical_us_local_news,not_live_checked,US,6675,https://github.com/sTechLab/local-news-dataset,theadanews.com
+EXT000038,Albany Democrat-Herald,https://democratherald.com,unknown,historical_us_local_news,not_live_checked,US,6780,https://github.com/sTechLab/local-news-dataset,democratherald.com
+EXT000039,Morning Call,https://mcall.com,unknown,historical_us_local_news,not_live_checked,US,6898,https://github.com/sTechLab/local-news-dataset,mcall.com
+EXT000040,Bristol Phoenix,https://eastbayri.com,unknown,historical_us_local_news,not_live_checked,US,7083,https://github.com/sTechLab/local-news-dataset,eastbayri.com
+EXT000041,Aiken Standard,https://aikenstandard.com,unknown,historical_us_local_news,not_live_checked,US,7117,https://github.com/sTechLab/local-news-dataset,aikenstandard.com
+EXT000042,Aberdeen American News,https://aberdeennews.com,unknown,historical_us_local_news,not_live_checked,US,7213,https://github.com/sTechLab/local-news-dataset,aberdeennews.com
+EXT000043,Ashland City Times,https://tennessean.com/counties/cheatham,unknown,historical_us_local_news,not_live_checked,US,7262,https://github.com/sTechLab/local-news-dataset,tennessean.com/counties/cheatham
+EXT000044,Abilene Reporter News,https://reporternews.com,unknown,historical_us_local_news,not_live_checked,US,7429,https://github.com/sTechLab/local-news-dataset,reporternews.com
+EXT000045,Davis Clipper News,https://davisclipper.com,unknown,historical_us_local_news,not_live_checked,US,7903,https://github.com/sTechLab/local-news-dataset,davisclipper.com
+EXT000046,Alexandria Gazette Packet,https://alexandriagazette.com,unknown,historical_us_local_news,not_live_checked,US,7957,https://github.com/sTechLab/local-news-dataset,alexandriagazette.com
+EXT000047,Caledonian Record,https://caledonianrecord.com,unknown,historical_us_local_news,not_live_checked,US,8124,https://github.com/sTechLab/local-news-dataset,caledonianrecord.com
+EXT000048,The Daily World,https://thedailyworld.com,unknown,historical_us_local_news,not_live_checked,US,8162,https://github.com/sTechLab/local-news-dataset,thedailyworld.com
+EXT000049,Tribune-Phonograph,https://centralwinews.com/tribune-phonograph,unknown,historical_us_local_news,not_live_checked,US,8324,https://github.com/sTechLab/local-news-dataset,centralwinews.com/tribune-phonograph
+EXT000050,Morgan Messenger,https://morganmessenger.com,unknown,historical_us_local_news,not_live_checked,US,8480,https://github.com/sTechLab/local-news-dataset,morganmessenger.com
+EXT000051,Alaska Star,https://alaskastar.com,unknown,historical_us_local_news,not_live_checked,US,2,https://github.com/sTechLab/local-news-dataset,alaskastar.com
+EXT000052,Alexander City Outlook,https://alexcityoutlook.com,unknown,historical_us_local_news,not_live_checked,US,47,https://github.com/sTechLab/local-news-dataset,alexcityoutlook.com
+EXT000053,Daily Siftings Herald,https://siftingsherald.com,unknown,historical_us_local_news,not_live_checked,US,206,https://github.com/sTechLab/local-news-dataset,siftingsherald.com
+EXT000054,Arizona City Independent,https://trivalleycentral.com/arizona_city_independent,unknown,historical_us_local_news,not_live_checked,US,367,https://github.com/sTechLab/local-news-dataset,trivalleycentral.com/arizona_city_independent
+EXT000055,Alameda Journal,https://eastbaytimes.com/alameda,unknown,historical_us_local_news,not_live_checked,US,504,https://github.com/sTechLab/local-news-dataset,eastbaytimes.com/alameda
+EXT000056,Alamosa Valley Courier,https://alamosanews.com,unknown,historical_us_local_news,not_live_checked,US,1226,https://github.com/sTechLab/local-news-dataset,alamosanews.com
+EXT000057,Hamlet Hub,https://news.hamlethub.com/bethel,unknown,historical_us_local_news,not_live_checked,US,1441,https://github.com/sTechLab/local-news-dataset,news.hamlethub.com/bethel
+EXT000058,Builder Magazine,https://builderonline.com,unknown,historical_us_local_news,not_live_checked,US,1592,https://github.com/sTechLab/local-news-dataset,builderonline.com
+EXT000059,Delaware State News,https://delawarestatenews.net,unknown,historical_us_local_news,not_live_checked,US,1619,https://github.com/sTechLab/local-news-dataset,delawarestatenews.net
+EXT000060,Anna Maria Island Sun,https://amisun.com,unknown,historical_us_local_news,not_live_checked,US,1647,https://github.com/sTechLab/local-news-dataset,amisun.com
+EXT000061,Albany Herald,https://albanyherald.com,unknown,historical_us_local_news,not_live_checked,US,1903,https://github.com/sTechLab/local-news-dataset,albanyherald.com
+EXT000062,HawaiiStar.com,https://hawaiistar.com,unknown,historical_us_local_news,not_live_checked,US,2181,https://github.com/sTechLab/local-news-dataset,hawaiistar.com
+EXT000063,Hometowner,https://akronhometowner.com,unknown,historical_us_local_news,not_live_checked,US,2202,https://github.com/sTechLab/local-news-dataset,akronhometowner.com
+EXT000064,CBS 2 Boise,https://idahonews.com,unknown,historical_us_local_news,not_live_checked,US,2432,https://github.com/sTechLab/local-news-dataset,idahonews.com
+EXT000065,Aledo Times Record,https://aledotimesrecord.com,unknown,historical_us_local_news,not_live_checked,US,2496,https://github.com/sTechLab/local-news-dataset,aledotimesrecord.com
+EXT000066,Alexandria Times-Tribune,https://elwoodpublishing.com,unknown,historical_us_local_news,not_live_checked,US,2943,https://github.com/sTechLab/local-news-dataset,elwoodpublishing.com
+EXT000067,The Clarion,https://clarionpaper.com,unknown,historical_us_local_news,not_live_checked,US,3186,https://github.com/sTechLab/local-news-dataset,clarionpaper.com
+EXT000068,The Daily Independent,https://dailyindependent.com,unknown,historical_us_local_news,not_live_checked,US,3330,https://github.com/sTechLab/local-news-dataset,dailyindependent.com
+EXT000069,Alexandria Daily Town Talk,https://thetowntalk.com,unknown,historical_us_local_news,not_live_checked,US,3525,https://github.com/sTechLab/local-news-dataset,thetowntalk.com
+EXT000070,Acton Beacon,https://acton.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3649,https://github.com/sTechLab/local-news-dataset,acton.wickedlocal.com
+EXT000071,Annapolis Creative,https://annapoliscreative.com,unknown,historical_us_local_news,not_live_checked,US,4008,https://github.com/sTechLab/local-news-dataset,annapoliscreative.com
+EXT000072,LA Metro Magazine,https://lametromagazine.com,unknown,historical_us_local_news,not_live_checked,US,4101,https://github.com/sTechLab/local-news-dataset,lametromagazine.com
+EXT000073,ThumbPrint News,https://thumbprintnews.com,unknown,historical_us_local_news,not_live_checked,US,4183,https://github.com/sTechLab/local-news-dataset,thumbprintnews.com
+EXT000074,St. James Plaindealer,https://stjamesnews.com,unknown,historical_us_local_news,not_live_checked,US,4439,https://github.com/sTechLab/local-news-dataset,stjamesnews.com
+EXT000075,Maries County Advocate,https://mariescountyadvocate.com,unknown,historical_us_local_news,not_live_checked,US,4756,https://github.com/sTechLab/local-news-dataset,mariescountyadvocate.com
+EXT000076,The Sea Coast Echo,https://seacoastecho.com,unknown,historical_us_local_news,not_live_checked,US,5013,https://github.com/sTechLab/local-news-dataset,seacoastecho.com
+EXT000077,Anaconda Leader,https://facebook.com/pages/anaconda-leader/153849391344489,unknown,historical_us_local_news,not_live_checked,US,5147,https://github.com/sTechLab/local-news-dataset,facebook.com/pages/anaconda-leader/153849391344489
+EXT000078,Stanly News & Press,https://thesnaponline.com,unknown,historical_us_local_news,not_live_checked,US,5231,https://github.com/sTechLab/local-news-dataset,thesnaponline.com
+EXT000079,Bismarck Tribune,https://bismarcktribune.com,unknown,historical_us_local_news,not_live_checked,US,5467,https://github.com/sTechLab/local-news-dataset,bismarcktribune.com
+EXT000080,Alliance Times-Herald,https://alliancetimes.com,unknown,historical_us_local_news,not_live_checked,US,5503,https://github.com/sTechLab/local-news-dataset,alliancetimes.com
+EXT000081,Amherst Citizen,https://amherstcitizen.com,unknown,historical_us_local_news,not_live_checked,US,5647,https://github.com/sTechLab/local-news-dataset,amherstcitizen.com
+EXT000082,The Coaster,https://thecoaster.net,unknown,historical_us_local_news,not_live_checked,US,5721,https://github.com/sTechLab/local-news-dataset,thecoaster.net
+EXT000083,Albuquerque Journal,https://abqjournal.com,unknown,historical_us_local_news,not_live_checked,US,5917,https://github.com/sTechLab/local-news-dataset,abqjournal.com
+EXT000084,Boulder City Review,https://bouldercityreview.com,unknown,historical_us_local_news,not_live_checked,US,5973,https://github.com/sTechLab/local-news-dataset,bouldercityreview.com
+EXT000085,Journal  Courier,https://jconline.com,unknown,historical_us_local_news,not_live_checked,US,6028,https://github.com/sTechLab/local-news-dataset,jconline.com
+EXT000086,Akron Beacon Journal,https://ohio.com,unknown,historical_us_local_news,not_live_checked,US,6431,https://github.com/sTechLab/local-news-dataset,ohio.com
+EXT000087,Altus Times,https://altustimes.com,unknown,historical_us_local_news,not_live_checked,US,6676,https://github.com/sTechLab/local-news-dataset,altustimes.com
+EXT000088,Ashland Daily Tidings,https://dailytidings.com,unknown,historical_us_local_news,not_live_checked,US,6782,https://github.com/sTechLab/local-news-dataset,dailytidings.com
+EXT000089,The Altoona Mirror,https://altoonamirror.com,unknown,historical_us_local_news,not_live_checked,US,6900,https://github.com/sTechLab/local-news-dataset,altoonamirror.com
+EXT000090,Rhode Island Small Business Journal,https://risbj.com,unknown,historical_us_local_news,not_live_checked,US,7087,https://github.com/sTechLab/local-news-dataset,risbj.com
+EXT000091,Anderson Independent Mail,https://independentmail.com,unknown,historical_us_local_news,not_live_checked,US,7118,https://github.com/sTechLab/local-news-dataset,independentmail.com
+EXT000092,Brookings Register,https://brookingsregister.com,unknown,historical_us_local_news,not_live_checked,US,7216,https://github.com/sTechLab/local-news-dataset,brookingsregister.com
+EXT000093,Daily Post Athenian,https://dailypostathenian.com,unknown,historical_us_local_news,not_live_checked,US,7264,https://github.com/sTechLab/local-news-dataset,dailypostathenian.com
+EXT000094,Albany News,https://thealbanynews.net,unknown,historical_us_local_news,not_live_checked,US,7431,https://github.com/sTechLab/local-news-dataset,thealbanynews.net
+EXT000095,Box Elder News Journal,https://benewsjournal.com,unknown,historical_us_local_news,not_live_checked,US,7905,https://github.com/sTechLab/local-news-dataset,benewsjournal.com
+EXT000096,Alexandria Living Magazine,https://alexandrialivingmagazine.com,unknown,historical_us_local_news,not_live_checked,US,7958,https://github.com/sTechLab/local-news-dataset,alexandrialivingmagazine.com
+EXT000097,The Times Argus,https://timesargus.com,unknown,historical_us_local_news,not_live_checked,US,8125,https://github.com/sTechLab/local-news-dataset,timesargus.com
+EXT000098,Arlington Times,https://arlingtontimes.com,unknown,historical_us_local_news,not_live_checked,US,8163,https://github.com/sTechLab/local-news-dataset,arlingtontimes.com
+EXT000099,Amery Free Press,https://theameryfreepress.com,unknown,historical_us_local_news,not_live_checked,US,8325,https://github.com/sTechLab/local-news-dataset,theameryfreepress.com
+EXT000100,Bluefield Daily Telegraph,https://bdtonline.com,unknown,historical_us_local_news,not_live_checked,US,8481,https://github.com/sTechLab/local-news-dataset,bdtonline.com
+EXT000101,Anchorage Press,https://anchoragepress.com,unknown,historical_us_local_news,not_live_checked,US,3,https://github.com/sTechLab/local-news-dataset,anchoragepress.com
+EXT000102,Chambers County Bugle,https://albugle.com,unknown,historical_us_local_news,not_live_checked,US,48,https://github.com/sTechLab/local-news-dataset,albugle.com
+EXT000103,The Gurdon Times,https://thegurdontimes.com,unknown,historical_us_local_news,not_live_checked,US,208,https://github.com/sTechLab/local-news-dataset,thegurdontimes.com
+EXT000104,San Pedro Valley News-Sun,https://bensonnews-sun.com,unknown,historical_us_local_news,not_live_checked,US,368,https://github.com/sTechLab/local-news-dataset,bensonnews-sun.com
+EXT000105,Vision Hispana,https://visionhispanausa.com,unknown,historical_us_local_news,not_live_checked,US,507,https://github.com/sTechLab/local-news-dataset,visionhispanausa.com
+EXT000106,The Flume,https://theflume.com,unknown,historical_us_local_news,not_live_checked,US,1229,https://github.com/sTechLab/local-news-dataset,theflume.com
+EXT000107,Branford News,https://zip06.com/section/branford,unknown,historical_us_local_news,not_live_checked,US,1443,https://github.com/sTechLab/local-news-dataset,zip06.com/section/branford
+EXT000108,Edible DC,https://edibledc.com,unknown,historical_us_local_news,not_live_checked,US,1594,https://github.com/sTechLab/local-news-dataset,edibledc.com
+EXT000109,Dover Post,https://doverpost.com,unknown,historical_us_local_news,not_live_checked,US,1620,https://github.com/sTechLab/local-news-dataset,doverpost.com
+EXT000110,Apalachicola Times,https://apalachtimes.com,unknown,historical_us_local_news,not_live_checked,US,1648,https://github.com/sTechLab/local-news-dataset,apalachtimes.com
+EXT000111,Southwest Georgia Living,https://swgaliving.com,unknown,historical_us_local_news,not_live_checked,US,1904,https://github.com/sTechLab/local-news-dataset,swgaliving.com
+EXT000112,Honolulu Civil Beat,https://civilbeat.org,unknown,historical_us_local_news,not_live_checked,US,2182,https://github.com/sTechLab/local-news-dataset,civilbeat.org
+EXT000113,"Albia Newspapers, Inc.",https://albianews.com,unknown,historical_us_local_news,not_live_checked,US,2204,https://github.com/sTechLab/local-news-dataset,albianews.com
+EXT000114,Idaho Magazine,https://idahomagazine.com,unknown,historical_us_local_news,not_live_checked,US,2433,https://github.com/sTechLab/local-news-dataset,idahomagazine.com
+EXT000115,Riverbender.com,https://riverbender.com,unknown,historical_us_local_news,not_live_checked,US,2499,https://github.com/sTechLab/local-news-dataset,riverbender.com
+EXT000116,Anderson Herald Bulletin,https://heraldbulletin.com,unknown,historical_us_local_news,not_live_checked,US,2944,https://github.com/sTechLab/local-news-dataset,heraldbulletin.com
+EXT000117,Anthony Republican,https://anthonyrepublicannews.com,unknown,historical_us_local_news,not_live_checked,US,3187,https://github.com/sTechLab/local-news-dataset,anthonyrepublicannews.com
+EXT000118,Mountain Advocate,https://mountainadvocate.com,unknown,historical_us_local_news,not_live_checked,US,3331,https://github.com/sTechLab/local-news-dataset,mountainadvocate.com
+EXT000119,Amite Tangi Digest,https://tangilena.com,unknown,historical_us_local_news,not_live_checked,US,3527,https://github.com/sTechLab/local-news-dataset,tangilena.com
+EXT000120,Agawam Advertiser News,https://agawamadvertisernews.turley.com,unknown,historical_us_local_news,not_live_checked,US,3650,https://github.com/sTechLab/local-news-dataset,agawamadvertisernews.turley.com
+EXT000121,Bay Weekly,https://bayweekly.com,unknown,historical_us_local_news,not_live_checked,US,4009,https://github.com/sTechLab/local-news-dataset,bayweekly.com
+EXT000122,Bangor Daily News,https://bangordailynews.com,unknown,historical_us_local_news,not_live_checked,US,4103,https://github.com/sTechLab/local-news-dataset,bangordailynews.com
+EXT000123,Allegan County News,https://allegannews.com,unknown,historical_us_local_news,not_live_checked,US,4184,https://github.com/sTechLab/local-news-dataset,allegannews.com
+EXT000124,Aitkin Independent Age,https://messagemedia.co/aitkin,unknown,historical_us_local_news,not_live_checked,US,4440,https://github.com/sTechLab/local-news-dataset,messagemedia.co/aitkin
+EXT000125,North Cass Herald,https://northcassherald.com,unknown,historical_us_local_news,not_live_checked,US,4757,https://github.com/sTechLab/local-news-dataset,northcassherald.com
+EXT000126,Jasper County News,https://impact601.com,unknown,historical_us_local_news,not_live_checked,US,5014,https://github.com/sTechLab/local-news-dataset,impact601.com
+EXT000127,Fallon County Times,https://falloncountyextra.com,unknown,historical_us_local_news,not_live_checked,US,5148,https://github.com/sTechLab/local-news-dataset,falloncountyextra.com
+EXT000128,Andrews Journal,https://myandrewsjournal.com,unknown,historical_us_local_news,not_live_checked,US,5233,https://github.com/sTechLab/local-news-dataset,myandrewsjournal.com
+EXT000129,Farm  Ranch Guide,https://farmandranchguide.com,unknown,historical_us_local_news,not_live_checked,US,5468,https://github.com/sTechLab/local-news-dataset,farmandranchguide.com
+EXT000130,Ashland Gazette,https://wahoo-ashland-waverly.com,unknown,historical_us_local_news,not_live_checked,US,5506,https://github.com/sTechLab/local-news-dataset,wahoo-ashland-waverly.com
+EXT000131,Fosters Daily Democrat,https://fosters.com,unknown,historical_us_local_news,not_live_checked,US,5648,https://github.com/sTechLab/local-news-dataset,fosters.com
+EXT000132,Atlantic Highlands Herald,https://ahherald.com,unknown,historical_us_local_news,not_live_checked,US,5722,https://github.com/sTechLab/local-news-dataset,ahherald.com
+EXT000133,Weekly Alibi,https://alibi.com,unknown,historical_us_local_news,not_live_checked,US,5920,https://github.com/sTechLab/local-news-dataset,alibi.com
+EXT000134,Lincoln County Record,https://lccentral.com,unknown,historical_us_local_news,not_live_checked,US,5974,https://github.com/sTechLab/local-news-dataset,lccentral.com
+EXT000135,Legislative Star,https://legislativestar.com,unknown,historical_us_local_news,not_live_checked,US,6029,https://github.com/sTechLab/local-news-dataset,legislativestar.com
+EXT000136,Akron.com,https://akron.com,unknown,historical_us_local_news,not_live_checked,US,6433,https://github.com/sTechLab/local-news-dataset,akron.com
+EXT000137,Alva Review Courier,https://alvareviewcourier.com,unknown,historical_us_local_news,not_live_checked,US,6677,https://github.com/sTechLab/local-news-dataset,alvareviewcourier.com
+EXT000138,Coast Weekend,https://coastweekend.com,unknown,historical_us_local_news,not_live_checked,US,6783,https://github.com/sTechLab/local-news-dataset,coastweekend.com
+EXT000139,Main Line Times,https://mainlinemedianews.com/mainlinetimes,unknown,historical_us_local_news,not_live_checked,US,6901,https://github.com/sTechLab/local-news-dataset,mainlinemedianews.com/mainlinetimes
+EXT000140,Valley Breeze,https://valleybreeze.com,unknown,historical_us_local_news,not_live_checked,US,7088,https://github.com/sTechLab/local-news-dataset,valleybreeze.com
+EXT000141,People-Sentinel,https://thepeoplesentinel.com,unknown,historical_us_local_news,not_live_checked,US,7120,https://github.com/sTechLab/local-news-dataset,thepeoplesentinel.com
+EXT000142,Central Dakota Times,https://centraldakotatimes.org,unknown,historical_us_local_news,not_live_checked,US,7218,https://github.com/sTechLab/local-news-dataset,centraldakotatimes.org
+EXT000143,The Millington Star Newspaper,https://millington-news.com,unknown,historical_us_local_news,not_live_checked,US,7266,https://github.com/sTechLab/local-news-dataset,millington-news.com
+EXT000144,Alice Echo-News,https://alicetx.com,unknown,historical_us_local_news,not_live_checked,US,7433,https://github.com/sTechLab/local-news-dataset,alicetx.com
+EXT000145,Emery County Progress,https://ecprogress.com,unknown,historical_us_local_news,not_live_checked,US,7906,https://github.com/sTechLab/local-news-dataset,ecprogress.com
+EXT000146,Alexandria Times,https://alextimes.com,unknown,historical_us_local_news,not_live_checked,US,7959,https://github.com/sTechLab/local-news-dataset,alextimes.com
+EXT000147,"the Chronicle, Inc.",https://bartonchronicle.com,unknown,historical_us_local_news,not_live_checked,US,8127,https://github.com/sTechLab/local-news-dataset,bartonchronicle.com
+EXT000148,Bainbridge Island Review,https://bainbridgereview.com,unknown,historical_us_local_news,not_live_checked,US,8164,https://github.com/sTechLab/local-news-dataset,bainbridgereview.com
+EXT000149,Post-Crescent,https://postcrescent.com,unknown,historical_us_local_news,not_live_checked,US,8327,https://github.com/sTechLab/local-news-dataset,postcrescent.com
+EXT000150,Princeton Times,https://ptonline.net,unknown,historical_us_local_news,not_live_checked,US,8482,https://github.com/sTechLab/local-news-dataset,ptonline.net
+EXT000151,Dutch Harbor Fisherman,https://thedutchharborfisherman.com,unknown,historical_us_local_news,not_live_checked,US,4,https://github.com/sTechLab/local-news-dataset,thedutchharborfisherman.com
+EXT000152,Andalusia Star-News,https://andalusiastarnews.com,unknown,historical_us_local_news,not_live_checked,US,50,https://github.com/sTechLab/local-news-dataset,andalusiastarnews.com
+EXT000153,Atkins Chronicle,https://atkinschronicle.com,unknown,historical_us_local_news,not_live_checked,US,209,https://github.com/sTechLab/local-news-dataset,atkinschronicle.com
+EXT000154,Mohave Daily News,https://mohavedailynews.com,unknown,historical_us_local_news,not_live_checked,US,372,https://github.com/sTechLab/local-news-dataset,mohavedailynews.com
+EXT000155,Alamo Today  Danville Today News,https://yourmonthlypaper.com,unknown,historical_us_local_news,not_live_checked,US,508,https://github.com/sTechLab/local-news-dataset,yourmonthlypaper.com
+EXT000156,Arvada Press,https://arvadapress.com,unknown,historical_us_local_news,not_live_checked,US,1230,https://github.com/sTechLab/local-news-dataset,arvadapress.com
+EXT000157,Connecticut Post,https://ctpost.com,unknown,historical_us_local_news,not_live_checked,US,1445,https://github.com/sTechLab/local-news-dataset,ctpost.com
+EXT000158,Government Executive,https://govexec.com,unknown,historical_us_local_news,not_live_checked,US,1595,https://github.com/sTechLab/local-news-dataset,govexec.com
+EXT000159,Sussex Countian,https://sussexcountian.com,unknown,historical_us_local_news,not_live_checked,US,1621,https://github.com/sTechLab/local-news-dataset,sussexcountian.com
+EXT000160,Apopka Chief,https://theapopkachief.com,unknown,historical_us_local_news,not_live_checked,US,1649,https://github.com/sTechLab/local-news-dataset,theapopkachief.com
+EXT000161,Alma Times,https://thealmatimes.com,unknown,historical_us_local_news,not_live_checked,US,1905,https://github.com/sTechLab/local-news-dataset,thealmatimes.com
+EXT000162,Honolulu Star Advertiser,https://staradvertiser.com,unknown,historical_us_local_news,not_live_checked,US,2183,https://github.com/sTechLab/local-news-dataset,staradvertiser.com
+EXT000163,Butler County Tribune-Journal,https://butlercountytribune.com,unknown,historical_us_local_news,not_live_checked,US,2207,https://github.com/sTechLab/local-news-dataset,butlercountytribune.com
+EXT000164,The Idaho World,https://idahoworld.com,unknown,historical_us_local_news,not_live_checked,US,2434,https://github.com/sTechLab/local-news-dataset,idahoworld.com
+EXT000165,The Telegraph,https://thetelegraph.com,unknown,historical_us_local_news,not_live_checked,US,2500,https://github.com/sTechLab/local-news-dataset,thetelegraph.com
+EXT000166,"Anderson, Indiana Local - News Break",https://newsbreak.com/indiana/anderson,unknown,historical_us_local_news,not_live_checked,US,2945,https://github.com/sTechLab/local-news-dataset,newsbreak.com/indiana/anderson
+EXT000167,Cowley Courier Traveler,https://ctnewsonline.com,unknown,historical_us_local_news,not_live_checked,US,3189,https://github.com/sTechLab/local-news-dataset,ctnewsonline.com
+EXT000168,Kentucky Standard,https://kystandard.com,unknown,historical_us_local_news,not_live_checked,US,3333,https://github.com/sTechLab/local-news-dataset,kystandard.com
+EXT000169,Basile Weekly,https://evangelinetoday.com,unknown,historical_us_local_news,not_live_checked,US,3531,https://github.com/sTechLab/local-news-dataset,evangelinetoday.com
+EXT000170,Andover Townsman,https://andovertownsman.com,unknown,historical_us_local_news,not_live_checked,US,3652,https://github.com/sTechLab/local-news-dataset,andovertownsman.com
+EXT000171,Capital Gazette,https://capitalgazette.com,unknown,historical_us_local_news,not_live_checked,US,4011,https://github.com/sTechLab/local-news-dataset,capitalgazette.com
+EXT000172,NEWS CENTER Maine,https://newscentermaine.com,unknown,historical_us_local_news,not_live_checked,US,4104,https://github.com/sTechLab/local-news-dataset,newscentermaine.com
+EXT000173,The Commercial Record,https://wilcoxnewspapers.com,unknown,historical_us_local_news,not_live_checked,US,4185,https://github.com/sTechLab/local-news-dataset,wilcoxnewspapers.com
+EXT000174,Albany Enterprise,https://albanyenterprise.com,unknown,historical_us_local_news,not_live_checked,US,4441,https://github.com/sTechLab/local-news-dataset,albanyenterprise.com
+EXT000175,Bethany Republican-Clipper,https://bethanyclipper.com,unknown,historical_us_local_news,not_live_checked,US,4758,https://github.com/sTechLab/local-news-dataset,bethanyclipper.com
+EXT000176,Belzoni Banner,https://thebelzonibanner.com,unknown,historical_us_local_news,not_live_checked,US,5016,https://github.com/sTechLab/local-news-dataset,thebelzonibanner.com
+EXT000177,Belgrade News,https://belgrade-news.com,unknown,historical_us_local_news,not_live_checked,US,5149,https://github.com/sTechLab/local-news-dataset,belgrade-news.com
+EXT000178,Courier Tribune,https://courier-tribune.com,unknown,historical_us_local_news,not_live_checked,US,5234,https://github.com/sTechLab/local-news-dataset,courier-tribune.com
+EXT000179,The Prairie Star,https://theprairiestar.com,unknown,historical_us_local_news,not_live_checked,US,5471,https://github.com/sTechLab/local-news-dataset,theprairiestar.com
+EXT000180,Atkinson Graphic,https://atkinsongraphic.com,unknown,historical_us_local_news,not_live_checked,US,5508,https://github.com/sTechLab/local-news-dataset,atkinsongraphic.com
+EXT000181,Bedford (NH) Community Television,https://bedfordtv.com,unknown,historical_us_local_news,not_live_checked,US,5649,https://github.com/sTechLab/local-news-dataset,bedfordtv.com
+EXT000182,TAPinto Basking Ridge,https://tapintobaskingridge.net,unknown,historical_us_local_news,not_live_checked,US,5723,https://github.com/sTechLab/local-news-dataset,tapintobaskingridge.net
+EXT000183,Artesia Daily Press,https://artesianews.com,unknown,historical_us_local_news,not_live_checked,US,5922,https://github.com/sTechLab/local-news-dataset,artesianews.com
+EXT000184,Nevada Appeal,https://nevadaappeal.com,unknown,historical_us_local_news,not_live_checked,US,5975,https://github.com/sTechLab/local-news-dataset,nevadaappeal.com
+EXT000185,River Valley Beacon,https://rivervalleybeacon.com,unknown,historical_us_local_news,not_live_checked,US,6030,https://github.com/sTechLab/local-news-dataset,rivervalleybeacon.com
+EXT000186,The A.V. Club,https://avclub.com,unknown,historical_us_local_news,not_live_checked,US,6434,https://github.com/sTechLab/local-news-dataset,avclub.com
+EXT000187,Antlers American,https://theantlersamerican.com,unknown,historical_us_local_news,not_live_checked,US,6679,https://github.com/sTechLab/local-news-dataset,theantlersamerican.com
+EXT000188,Daily Astorian,https://dailyastorian.com,unknown,historical_us_local_news,not_live_checked,US,6784,https://github.com/sTechLab/local-news-dataset,dailyastorian.com
+EXT000189,Beaver County Times,https://timesonline.com,unknown,historical_us_local_news,not_live_checked,US,6902,https://github.com/sTechLab/local-news-dataset,timesonline.com
+EXT000190,East Greenwich News,https://eastgreenwichnews.com,unknown,historical_us_local_news,not_live_checked,US,7089,https://github.com/sTechLab/local-news-dataset,eastgreenwichnews.com
+EXT000191,The Twin-City News,https://twin-citynews.com,unknown,historical_us_local_news,not_live_checked,US,7122,https://github.com/sTechLab/local-news-dataset,twin-citynews.com
+EXT000192,Chamberlain/Oacoma Sun,https://chamberlainsun.com,unknown,historical_us_local_news,not_live_checked,US,7219,https://github.com/sTechLab/local-news-dataset,chamberlainsun.com
+EXT000193,Tri-Cities Business Journal,https://bjournal.com,unknown,historical_us_local_news,not_live_checked,US,7267,https://github.com/sTechLab/local-news-dataset,bjournal.com
+EXT000194,Allen American,https://starlocalmedia.com/allenamerican,unknown,historical_us_local_news,not_live_checked,US,7435,https://github.com/sTechLab/local-news-dataset,starlocalmedia.com/allenamerican
+EXT000195,Millard County Chronicle Progress,https://millardccp.com,unknown,historical_us_local_news,not_live_checked,US,7907,https://github.com/sTechLab/local-news-dataset,millardccp.com
+EXT000196,"The Zebra Press - GOOD News in Alexandria, VA",https://thezebra.org,unknown,historical_us_local_news,not_live_checked,US,7962,https://github.com/sTechLab/local-news-dataset,thezebra.org
+EXT000197,Bennington Banner,https://benningtonbanner.com,unknown,historical_us_local_news,not_live_checked,US,8128,https://github.com/sTechLab/local-news-dataset,benningtonbanner.com
+EXT000198,Bainbridge Islander,https://kitsapsun.com/bainbridge,unknown,historical_us_local_news,not_live_checked,US,8165,https://github.com/sTechLab/local-news-dataset,kitsapsun.com/bainbridge
+EXT000199,Ashland Daily Press,https://ashlandwi.com,unknown,historical_us_local_news,not_live_checked,US,8330,https://github.com/sTechLab/local-news-dataset,ashlandwi.com
+EXT000200,Connect-Bridgeport,https://connect-bridgeport.com,unknown,historical_us_local_news,not_live_checked,US,8483,https://github.com/sTechLab/local-news-dataset,connect-bridgeport.com
+EXT000201,Petroleum News,https://petroleumnews.com,unknown,historical_us_local_news,not_live_checked,US,5,https://github.com/sTechLab/local-news-dataset,petroleumnews.com
+EXT000202,Anniston Star,https://annistonstar.com,unknown,historical_us_local_news,not_live_checked,US,51,https://github.com/sTechLab/local-news-dataset,annistonstar.com
+EXT000203,Batesville Daily Guard,https://guardonline.com,unknown,historical_us_local_news,not_live_checked,US,212,https://github.com/sTechLab/local-news-dataset,guardonline.com
+EXT000204,Images Arizona,https://imagesarizona.com,unknown,historical_us_local_news,not_live_checked,US,376,https://github.com/sTechLab/local-news-dataset,imagesarizona.com
+EXT000205,Boyle Heights Beat,https://boyleheightsbeat.com,unknown,historical_us_local_news,not_live_checked,US,509,https://github.com/sTechLab/local-news-dataset,boyleheightsbeat.com
+EXT000206,Aspen Daily News,https://aspendailynews.com,unknown,historical_us_local_news,not_live_checked,US,1231,https://github.com/sTechLab/local-news-dataset,aspendailynews.com
+EXT000207,The Trumbull Times,https://trumbulltimes.com,unknown,historical_us_local_news,not_live_checked,US,1446,https://github.com/sTechLab/local-news-dataset,trumbulltimes.com
+EXT000208,Gray Television Washington News Bureau,https://graydc.com,unknown,historical_us_local_news,not_live_checked,US,1596,https://github.com/sTechLab/local-news-dataset,graydc.com
+EXT000209,Community News,https://hockessincommunitynews.com,unknown,historical_us_local_news,not_live_checked,US,1622,https://github.com/sTechLab/local-news-dataset,hockessincommunitynews.com
+EXT000210,The Arcadian,https://yoursun.com,unknown,historical_us_local_news,not_live_checked,US,1651,https://github.com/sTechLab/local-news-dataset,yoursun.com
+EXT000211,Alpharetta Neighbor,https://mdjonline.com/neighbor_newspapers/north_fulton,unknown,historical_us_local_news,not_live_checked,US,1907,https://github.com/sTechLab/local-news-dataset,mdjonline.com/neighbor_newspapers/north_fulton
+EXT000212,MidWeek,https://midweek.com,unknown,historical_us_local_news,not_live_checked,US,2184,https://github.com/sTechLab/local-news-dataset,midweek.com
+EXT000213,Altoona Herald-Index,https://desmoinesregister.com/communities/altoona,unknown,historical_us_local_news,not_live_checked,US,2208,https://github.com/sTechLab/local-news-dataset,desmoinesregister.com/communities/altoona
+EXT000214,Varsity Extra by Idaho Statesman,https://idahostatesman.com/sports/high-school,unknown,historical_us_local_news,not_live_checked,US,2435,https://github.com/sTechLab/local-news-dataset,idahostatesman.com/sports/high-school
+EXT000215,Anna Gazette Democrat,https://annanews.com,unknown,historical_us_local_news,not_live_checked,US,2502,https://github.com/sTechLab/local-news-dataset,annanews.com
+EXT000216,Fountain County Neighbor,https://newsbug.info/fountain_county_neighbor,unknown,historical_us_local_news,not_live_checked,US,2949,https://github.com/sTechLab/local-news-dataset,newsbug.info/fountain_county_neighbor
+EXT000217,Kansas City Kansan,https://kckansan.com,unknown,historical_us_local_news,not_live_checked,US,3190,https://github.com/sTechLab/local-news-dataset,kckansan.com
+EXT000218,Trimble Banner,https://mytrimblenews.com,unknown,historical_us_local_news,not_live_checked,US,3335,https://github.com/sTechLab/local-news-dataset,mytrimblenews.com
+EXT000219,Business Report,https://businessreport.com,unknown,historical_us_local_news,not_live_checked,US,3533,https://github.com/sTechLab/local-news-dataset,businessreport.com
+EXT000220,Dover-Sherborn Press,https://dover.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3653,https://github.com/sTechLab/local-news-dataset,dover.wickedlocal.com
+EXT000221,Afro-American Newspapers,https://afro.com,unknown,historical_us_local_news,not_live_checked,US,4012,https://github.com/sTechLab/local-news-dataset,afro.com
+EXT000222,The Maine Edge,https://themaineedge.com,unknown,historical_us_local_news,not_live_checked,US,4106,https://github.com/sTechLab/local-news-dataset,themaineedge.com
+EXT000223,Grand Valley Lanthorn,https://lanthorn.com,unknown,historical_us_local_news,not_live_checked,US,4187,https://github.com/sTechLab/local-news-dataset,lanthorn.com
+EXT000224,Albert Lea Tribune,https://albertleatribune.com,unknown,historical_us_local_news,not_live_checked,US,4443,https://github.com/sTechLab/local-news-dataset,albertleatribune.com
+EXT000225,Bolivar Herald-Free Press,https://bolivarmonews.com,unknown,historical_us_local_news,not_live_checked,US,4760,https://github.com/sTechLab/local-news-dataset,bolivarmonews.com
+EXT000226,Sun Herald,https://sunherald.com,unknown,historical_us_local_news,not_live_checked,US,5020,https://github.com/sTechLab/local-news-dataset,sunherald.com
+EXT000227,Explore Big Sky,https://explorebigsky.com,unknown,historical_us_local_news,not_live_checked,US,5150,https://github.com/sTechLab/local-news-dataset,explorebigsky.com
+EXT000228,Asheville Citizen Times,https://citizen-times.com,unknown,historical_us_local_news,not_live_checked,US,5235,https://github.com/sTechLab/local-news-dataset,citizen-times.com
+EXT000229,Bottineau Courant,https://bottineaunewspaper.com,unknown,historical_us_local_news,not_live_checked,US,5472,https://github.com/sTechLab/local-news-dataset,bottineaunewspaper.com
+EXT000230,Aurora News-Register,https://auroranewsregister.com,unknown,historical_us_local_news,not_live_checked,US,5509,https://github.com/sTechLab/local-news-dataset,auroranewsregister.com
+EXT000231,Bedford Journal,https://cabinet.com/cp/bedfordjournal,unknown,historical_us_local_news,not_live_checked,US,5650,https://github.com/sTechLab/local-news-dataset,cabinet.com/cp/bedfordjournal
+EXT000232,Bayonne Community News,https://hudsonreporter.com/pages/bayonne,unknown,historical_us_local_news,not_live_checked,US,5725,https://github.com/sTechLab/local-news-dataset,hudsonreporter.com/pages/bayonne
+EXT000233,Valencia County News,https://news-bulletin.com,unknown,historical_us_local_news,not_live_checked,US,5923,https://github.com/sTechLab/local-news-dataset,news-bulletin.com
+EXT000234,Dayton Valley Dispatch,https://daytonvalleydispatch.news,unknown,historical_us_local_news,not_live_checked,US,5976,https://github.com/sTechLab/local-news-dataset,daytonvalleydispatch.news
+EXT000235,Spotlight Newspapers,https://spotlightnews.com,unknown,historical_us_local_news,not_live_checked,US,6032,https://github.com/sTechLab/local-news-dataset,spotlightnews.com
+EXT000236,Alliance Review,https://the-review.com,unknown,historical_us_local_news,not_live_checked,US,6435,https://github.com/sTechLab/local-news-dataset,the-review.com
+EXT000237,Daily Ardmoreite,https://ardmoreite.com,unknown,historical_us_local_news,not_live_checked,US,6681,https://github.com/sTechLab/local-news-dataset,ardmoreite.com
+EXT000238,Baker City Herald,https://bakercityherald.com,unknown,historical_us_local_news,not_live_checked,US,6786,https://github.com/sTechLab/local-news-dataset,bakercityherald.com
+EXT000239,Press Enterprise,https://pressenterpriseonline.com,unknown,historical_us_local_news,not_live_checked,US,6903,https://github.com/sTechLab/local-news-dataset,pressenterpriseonline.com
+EXT000240,East Greenwich Patch,https://patch.com/rhodeisland/eastgreenwich,unknown,historical_us_local_news,not_live_checked,US,7090,https://github.com/sTechLab/local-news-dataset,patch.com/rhodeisland/eastgreenwich
+EXT000241,Beaufort Gazette,https://islandpacket.com/news/local/community/beaufort-news,unknown,historical_us_local_news,not_live_checked,US,7124,https://github.com/sTechLab/local-news-dataset,islandpacket.com/news/local/community/beaufort-news
+EXT000242,Siouxland News,https://siouxlandnews.com,unknown,historical_us_local_news,not_live_checked,US,7220,https://github.com/sTechLab/local-news-dataset,siouxlandnews.com
+EXT000243,Bulletin Times,https://bulletintimesnews.com,unknown,historical_us_local_news,not_live_checked,US,7268,https://github.com/sTechLab/local-news-dataset,bulletintimesnews.com
+EXT000244,Alpine Avalanche,https://alpineavalanche.com,unknown,historical_us_local_news,not_live_checked,US,7436,https://github.com/sTechLab/local-news-dataset,alpineavalanche.com
+EXT000245,Draper Journal,https://draperjournal.com,unknown,historical_us_local_news,not_live_checked,US,7908,https://github.com/sTechLab/local-news-dataset,draperjournal.com
+EXT000246,VIP Alexandria Magazine,https://vipalexandriamag.com,unknown,historical_us_local_news,not_live_checked,US,7963,https://github.com/sTechLab/local-news-dataset,vipalexandriamag.com
+EXT000247,Journal Opinion,https://jonews.com,unknown,historical_us_local_news,not_live_checked,US,8129,https://github.com/sTechLab/local-news-dataset,jonews.com
+EXT000248,Reflector,https://thereflector.com,unknown,historical_us_local_news,not_live_checked,US,8167,https://github.com/sTechLab/local-news-dataset,thereflector.com
+EXT000249,Augusta Area Times,https://augustatimes.net,unknown,historical_us_local_news,not_live_checked,US,8331,https://github.com/sTechLab/local-news-dataset,augustatimes.net
+EXT000250,The Record Delta,https://therecorddelta.com,unknown,historical_us_local_news,not_live_checked,US,8484,https://github.com/sTechLab/local-news-dataset,therecorddelta.com
+EXT000251,Delta Discovery,https://deltadiscovery.com,unknown,historical_us_local_news,not_live_checked,US,7,https://github.com/sTechLab/local-news-dataset,deltadiscovery.com
+EXT000252,WHMA,https://whmabig95.com,unknown,historical_us_local_news,not_live_checked,US,53,https://github.com/sTechLab/local-news-dataset,whmabig95.com
+EXT000253,White River Now,https://whiterivernow.com,unknown,historical_us_local_news,not_live_checked,US,214,https://github.com/sTechLab/local-news-dataset,whiterivernow.com
+EXT000254,Pinal Central,https://pinalcentral.com,unknown,historical_us_local_news,not_live_checked,US,378,https://github.com/sTechLab/local-news-dataset,pinalcentral.com
+EXT000255,Alpine Sun,https://thealpinesun.com,unknown,historical_us_local_news,not_live_checked,US,510,https://github.com/sTechLab/local-news-dataset,thealpinesun.com
+EXT000256,Aspen Local,https://aspen82.com,unknown,historical_us_local_news,not_live_checked,US,1232,https://github.com/sTechLab/local-news-dataset,aspen82.com
+EXT000257,Bristol Observer,https://bristolobserver.com,unknown,historical_us_local_news,not_live_checked,US,1447,https://github.com/sTechLab/local-news-dataset,bristolobserver.com
+EXT000258,National Journal,https://nationaljournal.com,unknown,historical_us_local_news,not_live_checked,US,1597,https://github.com/sTechLab/local-news-dataset,nationaljournal.com
+EXT000259,Laurel Star,https://laurelstar.com,unknown,historical_us_local_news,not_live_checked,US,1623,https://github.com/sTechLab/local-news-dataset,laurelstar.com
+EXT000260,Aventura News,https://communitynewspapers.com/aventura,unknown,historical_us_local_news,not_live_checked,US,1652,https://github.com/sTechLab/local-news-dataset,communitynewspapers.com/aventura
+EXT000261,Appen Media Group,https://appenmediagroup.com,unknown,historical_us_local_news,not_live_checked,US,1908,https://github.com/sTechLab/local-news-dataset,appenmediagroup.com
+EXT000262,North Shore News,https://northshorenews.com,unknown,historical_us_local_news,not_live_checked,US,2186,https://github.com/sTechLab/local-news-dataset,northshorenews.com
+EXT000263,Iowa State Daily,https://iowastatedaily.com,unknown,historical_us_local_news,not_live_checked,US,2209,https://github.com/sTechLab/local-news-dataset,iowastatedaily.com
+EXT000264,Boise Weekly,https://boiseweekly.com,unknown,historical_us_local_news,not_live_checked,US,2436,https://github.com/sTechLab/local-news-dataset,boiseweekly.com
+EXT000265,Arcola Record Herald,https://arcolarecordherald.com,unknown,historical_us_local_news,not_live_checked,US,2504,https://github.com/sTechLab/local-news-dataset,arcolarecordherald.com
+EXT000266,The Review Republican,https://wcinews.info,unknown,historical_us_local_news,not_live_checked,US,2951,https://github.com/sTechLab/local-news-dataset,wcinews.info
+EXT000267,Kansas City Star,https://kansascity.com,unknown,historical_us_local_news,not_live_checked,US,3191,https://github.com/sTechLab/local-news-dataset,kansascity.com
+EXT000268,Marshall County Daily,https://marshallcountydaily.com,unknown,historical_us_local_news,not_live_checked,US,3336,https://github.com/sTechLab/local-news-dataset,marshallcountydaily.com
+EXT000269,"The Advocate (Baton Rouge, LA)",https://theadvocate.com,unknown,historical_us_local_news,not_live_checked,US,3535,https://github.com/sTechLab/local-news-dataset,theadvocate.com
+EXT000270,Arlington Advocate,https://arlington.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3654,https://github.com/sTechLab/local-news-dataset,arlington.wickedlocal.com
+EXT000271,Authority Magazine,https://authoritymag.co,unknown,historical_us_local_news,not_live_checked,US,4013,https://github.com/sTechLab/local-news-dataset,authoritymag.co
+EXT000272,Coastal Journal,https://coastaljournal.com,unknown,historical_us_local_news,not_live_checked,US,4107,https://github.com/sTechLab/local-news-dataset,coastaljournal.com
+EXT000273,Alpena News,https://thealpenanews.com,unknown,historical_us_local_news,not_live_checked,US,4188,https://github.com/sTechLab/local-news-dataset,thealpenanews.com
+EXT000274,Echo Press,https://echopress.com,unknown,historical_us_local_news,not_live_checked,US,4445,https://github.com/sTechLab/local-news-dataset,echopress.com
+EXT000275,Boonville Daily News,https://boonvilledailynews.com,unknown,historical_us_local_news,not_live_checked,US,4761,https://github.com/sTechLab/local-news-dataset,boonvilledailynews.com
+EXT000276,WLOX First Alert Weather,https://wlox.com/weather,unknown,historical_us_local_news,not_live_checked,US,5021,https://github.com/sTechLab/local-news-dataset,wlox.com/weather
+EXT000277,Big Timber Pioneer,https://bigtimberpioneer.net,unknown,historical_us_local_news,not_live_checked,US,5151,https://github.com/sTechLab/local-news-dataset,bigtimberpioneer.net
+EXT000278,Mountain Xpress,https://mountainx.com,unknown,historical_us_local_news,not_live_checked,US,5237,https://github.com/sTechLab/local-news-dataset,mountainx.com
+EXT000279,Devils Lake Journal,https://devilslakejournal.com,unknown,historical_us_local_news,not_live_checked,US,5474,https://github.com/sTechLab/local-news-dataset,devilslakejournal.com
+EXT000280,Beatrice Daily Sun,https://beatricedailysun.com,unknown,historical_us_local_news,not_live_checked,US,5510,https://github.com/sTechLab/local-news-dataset,beatricedailysun.com
+EXT000281,Berlin Daily Sun,https://berlindailysun.com,unknown,historical_us_local_news,not_live_checked,US,5651,https://github.com/sTechLab/local-news-dataset,berlindailysun.com
+EXT000282,Montgomery News,https://montynews.com,unknown,historical_us_local_news,not_live_checked,US,5727,https://github.com/sTechLab/local-news-dataset,montynews.com
+EXT000283,Carlsbad Current-Argus,https://currentargus.com,unknown,historical_us_local_news,not_live_checked,US,5925,https://github.com/sTechLab/local-news-dataset,currentargus.com
+EXT000284,Leader Courier,https://rgj.com/news/leader-courier-news,unknown,historical_us_local_news,not_live_checked,US,5977,https://github.com/sTechLab/local-news-dataset,rgj.com/news/leader-courier-news
+EXT000285,The Columbian,https://columbian.com,unknown,historical_us_local_news,not_live_checked,US,6033,https://github.com/sTechLab/local-news-dataset,columbian.com
+EXT000286,West Bend News,https://westbendnews.net,unknown,historical_us_local_news,not_live_checked,US,6437,https://github.com/sTechLab/local-news-dataset,westbendnews.net
+EXT000287,Bartlesville Examiner-Enterprise,https://examiner-enterprise.com,unknown,historical_us_local_news,not_live_checked,US,6683,https://github.com/sTechLab/local-news-dataset,examiner-enterprise.com
+EXT000288,Beaverton Leader,https://beavertonleader.com,unknown,historical_us_local_news,not_live_checked,US,6787,https://github.com/sTechLab/local-news-dataset,beavertonleader.com
+EXT000289,Bradford Era,https://bradfordera.com,unknown,historical_us_local_news,not_live_checked,US,6904,https://github.com/sTechLab/local-news-dataset,bradfordera.com
+EXT000290,Providence Business News,https://pbn.com,unknown,historical_us_local_news,not_live_checked,US,7092,https://github.com/sTechLab/local-news-dataset,pbn.com
+EXT000291,The Island News,https://yourislandnews.com,unknown,historical_us_local_news,not_live_checked,US,7125,https://github.com/sTechLab/local-news-dataset,yourislandnews.com
+EXT000292,Moody County Enterprise,https://moodycountyenterprise.com,unknown,historical_us_local_news,not_live_checked,US,7221,https://github.com/sTechLab/local-news-dataset,moodycountyenterprise.com
+EXT000293,Nolensville Home Page,https://nolensvillehomepage.com,unknown,historical_us_local_news,not_live_checked,US,7269,https://github.com/sTechLab/local-news-dataset,nolensvillehomepage.com
+EXT000294,Alvin Sun-Advertiser,https://alvinsun.net,unknown,historical_us_local_news,not_live_checked,US,7437,https://github.com/sTechLab/local-news-dataset,alvinsun.net
+EXT000295,Wasatch Wave,https://wasatchwave.com,unknown,historical_us_local_news,not_live_checked,US,7909,https://github.com/sTechLab/local-news-dataset,wasatchwave.com
+EXT000296,The Altavista Journal,https://altavistajournal.com,unknown,historical_us_local_news,not_live_checked,US,7964,https://github.com/sTechLab/local-news-dataset,altavistajournal.com
+EXT000297,Brattleboro Reformer,https://reformer.com,unknown,historical_us_local_news,not_live_checked,US,8130,https://github.com/sTechLab/local-news-dataset,reformer.com
+EXT000298,425 Magazine,https://425magazine.com,unknown,historical_us_local_news,not_live_checked,US,8169,https://github.com/sTechLab/local-news-dataset,425magazine.com
+EXT000299,Door County Living,https://doorcountypulse.com,unknown,historical_us_local_news,not_live_checked,US,8332,https://github.com/sTechLab/local-news-dataset,doorcountypulse.com
+EXT000300,Spirit of Jefferson,https://spiritofjefferson.com,unknown,historical_us_local_news,not_live_checked,US,8485,https://github.com/sTechLab/local-news-dataset,spiritofjefferson.com
+EXT000301,Tundra Drums,https://thetundradrums.com,unknown,historical_us_local_news,not_live_checked,US,9,https://github.com/sTechLab/local-news-dataset,thetundradrums.com
+EXT000302,Arab Tribune,https://thearabtribune.com,unknown,historical_us_local_news,not_live_checked,US,54,https://github.com/sTechLab/local-news-dataset,thearabtribune.com
+EXT000303,El Tiempo Hispano,https://eltiempohispano.com,unknown,historical_us_local_news,not_live_checked,US,215,https://github.com/sTechLab/local-news-dataset,eltiempohispano.com
+EXT000304,Sonoran News,https://sonorannews.com,unknown,historical_us_local_news,not_live_checked,US,381,https://github.com/sTechLab/local-news-dataset,sonorannews.com
+EXT000305,Eagle,https://napavalleyregister.com/eagle,unknown,historical_us_local_news,not_live_checked,US,513,https://github.com/sTechLab/local-news-dataset,napavalleyregister.com/eagle
+EXT000306,Aspen Times,https://aspentimes.com,unknown,historical_us_local_news,not_live_checked,US,1233,https://github.com/sTechLab/local-news-dataset,aspentimes.com
+EXT000307,Bristol Press,https://centralctcommunications.com/bristolpress,unknown,historical_us_local_news,not_live_checked,US,1448,https://github.com/sTechLab/local-news-dataset,centralctcommunications.com/bristolpress
+EXT000308,Politico,https://politico.com,unknown,historical_us_local_news,not_live_checked,US,1598,https://github.com/sTechLab/local-news-dataset,politico.com
+EXT000309,Beach Paper,https://beachpaper.com,unknown,historical_us_local_news,not_live_checked,US,1624,https://github.com/sTechLab/local-news-dataset,beachpaper.com
+EXT000310,Tidbits,https://tidbitsflorida.com,unknown,historical_us_local_news,not_live_checked,US,1653,https://github.com/sTechLab/local-news-dataset,tidbitsflorida.com
+EXT000311,Dunwoody Crier Newspaper,https://thecrier.net,unknown,historical_us_local_news,not_live_checked,US,1910,https://github.com/sTechLab/local-news-dataset,thecrier.net
+EXT000312,Hawaii Tribune-Herald,https://hawaiitribune-herald.com,unknown,historical_us_local_news,not_live_checked,US,2187,https://github.com/sTechLab/local-news-dataset,hawaiitribune-herald.com
+EXT000313,Story City Herald,https://storycityherald.com,unknown,historical_us_local_news,not_live_checked,US,2210,https://github.com/sTechLab/local-news-dataset,storycityherald.com
+EXT000314,Idaho Business Review,https://idahobusinessreview.com,unknown,historical_us_local_news,not_live_checked,US,2437,https://github.com/sTechLab/local-news-dataset,idahobusinessreview.com
+EXT000315,Daily Herald,https://dailyherald.com,unknown,historical_us_local_news,not_live_checked,US,2506,https://github.com/sTechLab/local-news-dataset,dailyherald.com
+EXT000316,"Batesville, Indiana",https://batesvilleindiana.us,unknown,historical_us_local_news,not_live_checked,US,2954,https://github.com/sTechLab/local-news-dataset,batesvilleindiana.us
+EXT000317,Atchison Globe,https://atchisonglobenow.com,unknown,historical_us_local_news,not_live_checked,US,3192,https://github.com/sTechLab/local-news-dataset,atchisonglobenow.com
+EXT000318,The Marshall County Tribune-Courier,https://tribunecourier.com,unknown,historical_us_local_news,not_live_checked,US,3337,https://github.com/sTechLab/local-news-dataset,tribunecourier.com
+EXT000319,The Catholic Commentator,https://thecatholiccommentator.org,unknown,historical_us_local_news,not_live_checked,US,3536,https://github.com/sTechLab/local-news-dataset,thecatholiccommentator.org
+EXT000320,Athol Daily News,https://atholdailynews.com,unknown,historical_us_local_news,not_live_checked,US,3657,https://github.com/sTechLab/local-news-dataset,atholdailynews.com
+EXT000321,Baltimore City Paper,https://citypaper.com,unknown,historical_us_local_news,not_live_checked,US,4017,https://github.com/sTechLab/local-news-dataset,citypaper.com
+EXT000322,Republican Journal,https://waldo.villagesoup.com,unknown,historical_us_local_news,not_live_checked,US,4108,https://github.com/sTechLab/local-news-dataset,waldo.villagesoup.com
+EXT000323,Ann Arbor News,https://mlive.com/ann-arbor,unknown,historical_us_local_news,not_live_checked,US,4189,https://github.com/sTechLab/local-news-dataset,mlive.com/ann-arbor
+EXT000324,Anoka County Union,https://abcnewspapers.com/anoka,unknown,historical_us_local_news,not_live_checked,US,4447,https://github.com/sTechLab/local-news-dataset,abcnewspapers.com/anoka
+EXT000325,Bowling Green Times,https://bowlinggreentimes.com,unknown,historical_us_local_news,not_live_checked,US,4762,https://github.com/sTechLab/local-news-dataset,bowlinggreentimes.com
+EXT000326,Carthaginian,https://thecarthaginian.com,unknown,historical_us_local_news,not_live_checked,US,5025,https://github.com/sTechLab/local-news-dataset,thecarthaginian.com
+EXT000327,Bigfork Eagle,https://bigforkeagle.com,unknown,historical_us_local_news,not_live_checked,US,5153,https://github.com/sTechLab/local-news-dataset,bigforkeagle.com
+EXT000328,WNC magazine,https://wncmagazine.com,unknown,historical_us_local_news,not_live_checked,US,5238,https://github.com/sTechLab/local-news-dataset,wncmagazine.com
+EXT000329,The Dickinson Press,https://thedickinsonpress.com,unknown,historical_us_local_news,not_live_checked,US,5475,https://github.com/sTechLab/local-news-dataset,thedickinsonpress.com
+EXT000330,Bellevue Leader,https://omaha.com/sarpy/bellevue,unknown,historical_us_local_news,not_live_checked,US,5512,https://github.com/sTechLab/local-news-dataset,omaha.com/sarpy/bellevue
+EXT000331,Bow Times,https://thebowtimes.com/news,unknown,historical_us_local_news,not_live_checked,US,5654,https://github.com/sTechLab/local-news-dataset,thebowtimes.com/news
+EXT000332,Berkeley Times,https://micromediapubs.com/category/berkeley,unknown,historical_us_local_news,not_live_checked,US,5728,https://github.com/sTechLab/local-news-dataset,micromediapubs.com/category/berkeley
+EXT000333,Mountain Monthly,https://mountainmonthly.com,unknown,historical_us_local_news,not_live_checked,US,5928,https://github.com/sTechLab/local-news-dataset,mountainmonthly.com
+EXT000334,Elko Daily Free Press,https://elkodaily.com,unknown,historical_us_local_news,not_live_checked,US,5978,https://github.com/sTechLab/local-news-dataset,elkodaily.com
+EXT000335,The Commerce News,https://commercenewstoday.com,unknown,historical_us_local_news,not_live_checked,US,6034,https://github.com/sTechLab/local-news-dataset,commercenewstoday.com
+EXT000336,Archbold Buckeye,https://archboldbuckeye.com,unknown,historical_us_local_news,not_live_checked,US,6439,https://github.com/sTechLab/local-news-dataset,archboldbuckeye.com
+EXT000337,Blackwell Journal-Tribune,https://blackwelljournaltribune.net,unknown,historical_us_local_news,not_live_checked,US,6685,https://github.com/sTechLab/local-news-dataset,blackwelljournaltribune.net
+EXT000338,Beaverton Valley Times,https://portlandtribune.com/beaverton-valley-times-news,unknown,historical_us_local_news,not_live_checked,US,6788,https://github.com/sTechLab/local-news-dataset,portlandtribune.com/beaverton-valley-times-news
+EXT000339,Jeffersonian Democrat,https://thecourierexpress.com/jeffersonian_democrat,unknown,historical_us_local_news,not_live_checked,US,6906,https://github.com/sTechLab/local-news-dataset,thecourierexpress.com/jeffersonian_democrat
+EXT000340,Providence Journal,https://providencejournal.com,unknown,historical_us_local_news,not_live_checked,US,7093,https://github.com/sTechLab/local-news-dataset,providencejournal.com
+EXT000341,Belton-Honea Path News-Chronicle,https://bhpnc.com,unknown,historical_us_local_news,not_live_checked,US,7126,https://github.com/sTechLab/local-news-dataset,bhpnc.com
+EXT000342,Pierre Capital Journal,https://capjournal.com,unknown,historical_us_local_news,not_live_checked,US,7222,https://github.com/sTechLab/local-news-dataset,capjournal.com
+EXT000343,Pickett County Press,https://pickettcountypress.com,unknown,historical_us_local_news,not_live_checked,US,7270,https://github.com/sTechLab/local-news-dataset,pickettcountypress.com
+EXT000344,Amarillo Globe-News,https://amarillo.com,unknown,historical_us_local_news,not_live_checked,US,7439,https://github.com/sTechLab/local-news-dataset,amarillo.com
+EXT000345,Spectrum,https://thespectrum.com,unknown,historical_us_local_news,not_live_checked,US,7910,https://github.com/sTechLab/local-news-dataset,thespectrum.com
+EXT000346,Amelia Bulletin Monitor,https://ameliamonitor.com,unknown,historical_us_local_news,not_live_checked,US,7965,https://github.com/sTechLab/local-news-dataset,ameliamonitor.com
+EXT000347,Burlington Free Press,https://burlingtonfreepress.com,unknown,historical_us_local_news,not_live_checked,US,8131,https://github.com/sTechLab/local-news-dataset,burlingtonfreepress.com
+EXT000348,Bellevue Business Journal,https://bellevuebusinessjournal.com,unknown,historical_us_local_news,not_live_checked,US,8170,https://github.com/sTechLab/local-news-dataset,bellevuebusinessjournal.com
+EXT000349,Baraboo News Republic,https://wiscnews.com/baraboonewsrepublic,unknown,historical_us_local_news,not_live_checked,US,8334,https://github.com/sTechLab/local-news-dataset,wiscnews.com/baraboonewsrepublic
+EXT000350,Charleston Gazette-Mail,https://wvgazettemail.com,unknown,historical_us_local_news,not_live_checked,US,8486,https://github.com/sTechLab/local-news-dataset,wvgazettemail.com
+EXT000351,Cordova Times,https://thecordovatimes.com,unknown,historical_us_local_news,not_live_checked,US,11,https://github.com/sTechLab/local-news-dataset,thecordovatimes.com
+EXT000352,Applebees Tailgate Talk,https://tailgatetalk.net,unknown,historical_us_local_news,not_live_checked,US,56,https://github.com/sTechLab/local-news-dataset,tailgatetalk.net
+EXT000353,Weekly Vista,https://bvwv.nwaonline.com,unknown,historical_us_local_news,not_live_checked,US,217,https://github.com/sTechLab/local-news-dataset,bvwv.nwaonline.com
+EXT000354,Chino Valley Review,https://cvrnews.com,unknown,historical_us_local_news,not_live_checked,US,384,https://github.com/sTechLab/local-news-dataset,cvrnews.com
+EXT000355,Independent Coast Observer,https://mendonoma.com,unknown,historical_us_local_news,not_live_checked,US,514,https://github.com/sTechLab/local-news-dataset,mendonoma.com
+EXT000356,Snowmass Sun,https://snowmasssun.com,unknown,historical_us_local_news,not_live_checked,US,1235,https://github.com/sTechLab/local-news-dataset,snowmasssun.com
+EXT000357,Cheshire Herald,https://cheshireherald.com,unknown,historical_us_local_news,not_live_checked,US,1451,https://github.com/sTechLab/local-news-dataset,cheshireherald.com
+EXT000358,Reason Magazine,https://reason.com,unknown,historical_us_local_news,not_live_checked,US,1599,https://github.com/sTechLab/local-news-dataset,reason.com
+EXT000359,Cape Gazette,https://capegazette.com,unknown,historical_us_local_news,not_live_checked,US,1625,https://github.com/sTechLab/local-news-dataset,capegazette.com
+EXT000360,Polk County Democrat,https://polkcountydemocrat.com,unknown,historical_us_local_news,not_live_checked,US,1654,https://github.com/sTechLab/local-news-dataset,polkcountydemocrat.com
+EXT000361,Forsyth Herald,https://forsythherald.com,unknown,historical_us_local_news,not_live_checked,US,1911,https://github.com/sTechLab/local-news-dataset,forsythherald.com
+EXT000362,Fil-Am Voice,https://filamvoicemaui.com,unknown,historical_us_local_news,not_live_checked,US,2189,https://github.com/sTechLab/local-news-dataset,filamvoicemaui.com
+EXT000363,The Ames Tribune,https://amestrib.com,unknown,historical_us_local_news,not_live_checked,US,2211,https://github.com/sTechLab/local-news-dataset,amestrib.com
+EXT000364,Bonners Ferry Herald,https://bonnersferryherald.com,unknown,historical_us_local_news,not_live_checked,US,2441,https://github.com/sTechLab/local-news-dataset,bonnersferryherald.com
+EXT000365,Journal & Topics,https://journal-topics.com,unknown,historical_us_local_news,not_live_checked,US,2508,https://github.com/sTechLab/local-news-dataset,journal-topics.com
+EXT000366,Herald Tribune,https://batesvilleheraldtribune.com,unknown,historical_us_local_news,not_live_checked,US,2955,https://github.com/sTechLab/local-news-dataset,batesvilleheraldtribune.com
+EXT000367,Butler County Times-Gazette,https://butlercountytimesgazette.com,unknown,historical_us_local_news,not_live_checked,US,3193,https://github.com/sTechLab/local-news-dataset,butlercountytimesgazette.com
+EXT000368,BG Daily News,https://bg-daily-news.eu,unknown,historical_us_local_news,not_live_checked,US,3339,https://github.com/sTechLab/local-news-dataset,bg-daily-news.eu
+EXT000369,The Daily News,https://bogalusadailynews.com,unknown,historical_us_local_news,not_live_checked,US,3539,https://github.com/sTechLab/local-news-dataset,bogalusadailynews.com
+EXT000370,Sun Chronicle,https://thesunchronicle.com,unknown,historical_us_local_news,not_live_checked,US,3658,https://github.com/sTechLab/local-news-dataset,thesunchronicle.com
+EXT000371,Baltimore Post-Examiner,https://baltimorepostexaminer.com,unknown,historical_us_local_news,not_live_checked,US,4018,https://github.com/sTechLab/local-news-dataset,baltimorepostexaminer.com
+EXT000372,Biddeford-Saco-OOB Courier,https://courier.mainelymediallc.com,unknown,historical_us_local_news,not_live_checked,US,4111,https://github.com/sTechLab/local-news-dataset,courier.mainelymediallc.com
+EXT000373,Ann Arbor Observer,https://annarborobserver.com,unknown,historical_us_local_news,not_live_checked,US,4190,https://github.com/sTechLab/local-news-dataset,annarborobserver.com
+EXT000374,Sun Thisweek,https://sunthisweek.com,unknown,historical_us_local_news,not_live_checked,US,4448,https://github.com/sTechLab/local-news-dataset,sunthisweek.com
+EXT000375,The Peoples Tribune,https://thepeoplestribune.com,unknown,historical_us_local_news,not_live_checked,US,4764,https://github.com/sTechLab/local-news-dataset,thepeoplestribune.com
+EXT000376,Charleston Sun-Sentinel,https://tallahatchienews.ms,unknown,historical_us_local_news,not_live_checked,US,5027,https://github.com/sTechLab/local-news-dataset,tallahatchienews.ms
+EXT000377,Billings Gazette,https://billingsgazette.com,unknown,historical_us_local_news,not_live_checked,US,5154,https://github.com/sTechLab/local-news-dataset,billingsgazette.com
+EXT000378,Four Oaks-Benson News in Review,https://bensonfouroaksnews.com,unknown,historical_us_local_news,not_live_checked,US,5239,https://github.com/sTechLab/local-news-dataset,bensonfouroaksnews.com
+EXT000379,Valley News  Views,https://valleynewsandviews.com,unknown,historical_us_local_news,not_live_checked,US,5476,https://github.com/sTechLab/local-news-dataset,valleynewsandviews.com
+EXT000380,Papillion Times,https://papilliontimes.com,unknown,historical_us_local_news,not_live_checked,US,5513,https://github.com/sTechLab/local-news-dataset,papilliontimes.com
+EXT000381,Tri-Town Times,https://tritowntimes.net,unknown,historical_us_local_news,not_live_checked,US,5656,https://github.com/sTechLab/local-news-dataset,tritowntimes.net
+EXT000382,Exit 77 Scanner News,https://jerseyshorescannernews.com,unknown,historical_us_local_news,not_live_checked,US,5729,https://github.com/sTechLab/local-news-dataset,jerseyshorescannernews.com
+EXT000383,Deming Headlight,https://demingheadlight.com,unknown,historical_us_local_news,not_live_checked,US,5930,https://github.com/sTechLab/local-news-dataset,demingheadlight.com
+EXT000384,Ely Daily Times,https://elynews.com,unknown,historical_us_local_news,not_live_checked,US,5979,https://github.com/sTechLab/local-news-dataset,elynews.com
+EXT000385,The Legislative Gazette,https://legislativegazette.com,unknown,historical_us_local_news,not_live_checked,US,6035,https://github.com/sTechLab/local-news-dataset,legislativegazette.com
+EXT000386,Ashland Times-Gazette,https://times-gazette.com,unknown,historical_us_local_news,not_live_checked,US,6440,https://github.com/sTechLab/local-news-dataset,times-gazette.com
+EXT000387,The Boise City News,https://boisecitynews2.wordpress.com,unknown,historical_us_local_news,not_live_checked,US,6687,https://github.com/sTechLab/local-news-dataset,boisecitynews2.wordpress.com
+EXT000388,Bulletin,https://bendbulletin.com,unknown,historical_us_local_news,not_live_checked,US,6789,https://github.com/sTechLab/local-news-dataset,bendbulletin.com
+EXT000389,Bucks County Herald,https://buckscountyherald.com,unknown,historical_us_local_news,not_live_checked,US,6907,https://github.com/sTechLab/local-news-dataset,buckscountyherald.com
+EXT000390,The Newport Daily News,https://newportri.com,unknown,historical_us_local_news,not_live_checked,US,7096,https://github.com/sTechLab/local-news-dataset,newportri.com
+EXT000391,Herald-Advocate,https://heraldadvocate.com,unknown,historical_us_local_news,not_live_checked,US,7127,https://github.com/sTechLab/local-news-dataset,heraldadvocate.com
+EXT000392,Freeman Courier,https://freemansd.com,unknown,historical_us_local_news,not_live_checked,US,7223,https://github.com/sTechLab/local-news-dataset,freemansd.com
+EXT000393,Camden Chronicle,https://magicvalleypublishing.com,unknown,historical_us_local_news,not_live_checked,US,7271,https://github.com/sTechLab/local-news-dataset,magicvalleypublishing.com
+EXT000394,Andrews County News,https://andrewscountynews.com,unknown,historical_us_local_news,not_live_checked,US,7440,https://github.com/sTechLab/local-news-dataset,andrewscountynews.com
+EXT000395,St. George News,https://stgeorgeutah.com,unknown,historical_us_local_news,not_live_checked,US,7911,https://github.com/sTechLab/local-news-dataset,stgeorgeutah.com
+EXT000396,Amherst New Era-Progress,https://neweraprogress.com,unknown,historical_us_local_news,not_live_checked,US,7967,https://github.com/sTechLab/local-news-dataset,neweraprogress.com
+EXT000397,Seven Days,https://sevendaysvt.com,unknown,historical_us_local_news,not_live_checked,US,8132,https://github.com/sTechLab/local-news-dataset,sevendaysvt.com
+EXT000398,Bellevue Reporter,https://bellevuereporter.com,unknown,historical_us_local_news,not_live_checked,US,8171,https://github.com/sTechLab/local-news-dataset,bellevuereporter.com
+EXT000399,Madison Essentials,https://madisonessentials.com,unknown,historical_us_local_news,not_live_checked,US,8335,https://github.com/sTechLab/local-news-dataset,madisonessentials.com
+EXT000400,The State Journal,https://statejournal.com,unknown,historical_us_local_news,not_live_checked,US,8488,https://github.com/sTechLab/local-news-dataset,statejournal.com
+EXT000401,Delta News Web,https://deltanewsweb.com,unknown,historical_us_local_news,not_live_checked,US,13,https://github.com/sTechLab/local-news-dataset,deltanewsweb.com
+EXT000402,Athens News Courier,https://enewscourier.com,unknown,historical_us_local_news,not_live_checked,US,57,https://github.com/sTechLab/local-news-dataset,enewscourier.com
+EXT000403,Saline Courier,https://bentoncourier.com,unknown,historical_us_local_news,not_live_checked,US,218,https://github.com/sTechLab/local-news-dataset,bentoncourier.com
+EXT000404,Arizona Daily Star,https://tucson.com,unknown,historical_us_local_news,not_live_checked,US,387,https://github.com/sTechLab/local-news-dataset,tucson.com
+EXT000405,Antioch Press,https://thepress.net,unknown,historical_us_local_news,not_live_checked,US,516,https://github.com/sTechLab/local-news-dataset,thepress.net
+EXT000406,Aurora Sentinel,https://aurorasentinel.com,unknown,historical_us_local_news,not_live_checked,US,1239,https://github.com/sTechLab/local-news-dataset,aurorasentinel.com
+EXT000407,Danbury News-Times,https://newstimes.com,unknown,historical_us_local_news,not_live_checked,US,1453,https://github.com/sTechLab/local-news-dataset,newstimes.com
+EXT000408,Roll Call,https://rollcall.com,unknown,historical_us_local_news,not_live_checked,US,1600,https://github.com/sTechLab/local-news-dataset,rollcall.com
+EXT000409,Middletown Transcript,https://middletowntranscript.com,unknown,historical_us_local_news,not_live_checked,US,1627,https://github.com/sTechLab/local-news-dataset,middletowntranscript.com
+EXT000410,Belleair Bee,https://tbnweekly.com/pubs/belleair_bee,unknown,historical_us_local_news,not_live_checked,US,1655,https://github.com/sTechLab/local-news-dataset,tbnweekly.com/pubs/belleair_bee
+EXT000411,Johns Creek Herald,https://johnscreekherald.com,unknown,historical_us_local_news,not_live_checked,US,1912,https://github.com/sTechLab/local-news-dataset,johnscreekherald.com
+EXT000412,West Hawaii Today,https://westhawaiitoday.com,unknown,historical_us_local_news,not_live_checked,US,2190,https://github.com/sTechLab/local-news-dataset,westhawaiitoday.com
+EXT000413,Journal-Eureka,https://journal-eureka.com,unknown,historical_us_local_news,not_live_checked,US,2212,https://github.com/sTechLab/local-news-dataset,journal-eureka.com
+EXT000414,Kootenai Valley Times,https://kvt.news,unknown,historical_us_local_news,not_live_checked,US,2442,https://github.com/sTechLab/local-news-dataset,kvt.news
+EXT000415,Pro Builder Media,https://probuilder.com,unknown,historical_us_local_news,not_live_checked,US,2509,https://github.com/sTechLab/local-news-dataset,probuilder.com
+EXT000416,Bedford Times-Mail,https://tmnews.com,unknown,historical_us_local_news,not_live_checked,US,2956,https://github.com/sTechLab/local-news-dataset,tmnews.com
+EXT000417,Baldwin City Signal,https://signal.baldwincity.com,unknown,historical_us_local_news,not_live_checked,US,3194,https://github.com/sTechLab/local-news-dataset,signal.baldwincity.com
+EXT000418,The Bowling Green Daily News,https://bgdailynews.com,unknown,historical_us_local_news,not_live_checked,US,3340,https://github.com/sTechLab/local-news-dataset,bgdailynews.com
+EXT000419,Bossier Press-Tribune,https://bossierpress.com,unknown,historical_us_local_news,not_live_checked,US,3540,https://github.com/sTechLab/local-news-dataset,bossierpress.com
+EXT000420,Avon Messenger,https://avon.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3661,https://github.com/sTechLab/local-news-dataset,avon.wickedlocal.com
+EXT000421,Baltimore Sun,https://baltimoresun.com,unknown,historical_us_local_news,not_live_checked,US,4019,https://github.com/sTechLab/local-news-dataset,baltimoresun.com
+EXT000422,South Portland - Cape Elizabeth Sentry,https://mainelymediallc.com,unknown,historical_us_local_news,not_live_checked,US,4112,https://github.com/sTechLab/local-news-dataset,mainelymediallc.com
+EXT000423,The Michigan Daily,https://michigandaily.com,unknown,historical_us_local_news,not_live_checked,US,4193,https://github.com/sTechLab/local-news-dataset,michigandaily.com
+EXT000424,Crescent,https://star-herald.com/crescent,unknown,historical_us_local_news,not_live_checked,US,4449,https://github.com/sTechLab/local-news-dataset,star-herald.com/crescent
+EXT000425,Branson News  Weather,https://bransonwx.com,unknown,historical_us_local_news,not_live_checked,US,4765,https://github.com/sTechLab/local-news-dataset,bransonwx.com
+EXT000426,Clarksdale Press Register,https://pressregister.com,unknown,historical_us_local_news,not_live_checked,US,5029,https://github.com/sTechLab/local-news-dataset,pressregister.com
+EXT000427,Simply Local Magazine Billings,https://simplylocalbillings.com,unknown,historical_us_local_news,not_live_checked,US,5155,https://github.com/sTechLab/local-news-dataset,simplylocalbillings.com
+EXT000428,Black Mountain News,https://blackmountainnews.com,unknown,historical_us_local_news,not_live_checked,US,5240,https://github.com/sTechLab/local-news-dataset,blackmountainnews.com
+EXT000429,INForum,https://inforum.com,unknown,historical_us_local_news,not_live_checked,US,5477,https://github.com/sTechLab/local-news-dataset,inforum.com
+EXT000430,Enterprise Media Group,https://enterprisepub.com,unknown,historical_us_local_news,not_live_checked,US,5515,https://github.com/sTechLab/local-news-dataset,enterprisepub.com
+EXT000431,Claremont Eagle Times,https://eagletimes.com,unknown,historical_us_local_news,not_live_checked,US,5657,https://github.com/sTechLab/local-news-dataset,eagletimes.com
+EXT000432,Bernardsville News,https://newjerseyhills.com/bernardsville_news,unknown,historical_us_local_news,not_live_checked,US,5730,https://github.com/sTechLab/local-news-dataset,newjerseyhills.com/bernardsville_news
+EXT000433,Rio Grande Sun,https://riograndesun.com,unknown,historical_us_local_news,not_live_checked,US,5932,https://github.com/sTechLab/local-news-dataset,riograndesun.com
+EXT000434,The Eureka Sentinel,https://eurekasentinel.com,unknown,historical_us_local_news,not_live_checked,US,5981,https://github.com/sTechLab/local-news-dataset,eurekasentinel.com
+EXT000435,The Southwest Times,https://southwesttimes.com,unknown,historical_us_local_news,not_live_checked,US,6036,https://github.com/sTechLab/local-news-dataset,southwesttimes.com
+EXT000436,Ashtabula Star Beacon,https://starbeacon.com,unknown,historical_us_local_news,not_live_checked,US,6442,https://github.com/sTechLab/local-news-dataset,starbeacon.com
+EXT000437,Broken Arrow Ledger,https://baledger.com,unknown,historical_us_local_news,not_live_checked,US,6688,https://github.com/sTechLab/local-news-dataset,baledger.com
+EXT000438,Cascade Business News,https://cascadebusnews.com,unknown,historical_us_local_news,not_live_checked,US,6790,https://github.com/sTechLab/local-news-dataset,cascadebusnews.com
+EXT000439,Butler Eagle,https://butlereagle.com,unknown,historical_us_local_news,not_live_checked,US,6908,https://github.com/sTechLab/local-news-dataset,butlereagle.com
+EXT000440,Newport This Week,https://newportthisweek.com,unknown,historical_us_local_news,not_live_checked,US,7098,https://github.com/sTechLab/local-news-dataset,newportthisweek.com
+EXT000441,Bluffton Today,https://blufftontoday.com,unknown,historical_us_local_news,not_live_checked,US,7129,https://github.com/sTechLab/local-news-dataset,blufftontoday.com
+EXT000442,Plainsman,https://plainsman.com,unknown,historical_us_local_news,not_live_checked,US,7226,https://github.com/sTechLab/local-news-dataset,plainsman.com
+EXT000443,Carthage Courier,https://carthagecourier.com,unknown,historical_us_local_news,not_live_checked,US,7272,https://github.com/sTechLab/local-news-dataset,carthagecourier.com
+EXT000444,Arlington Citizen-Journal,https://arlingtoncitizen-journal.com,unknown,historical_us_local_news,not_live_checked,US,7442,https://github.com/sTechLab/local-news-dataset,arlingtoncitizen-journal.com
+EXT000445,News Talk KVNU,https://kvnutalk.com,unknown,historical_us_local_news,not_live_checked,US,7914,https://github.com/sTechLab/local-news-dataset,kvnutalk.com
+EXT000446,Nelson County Times,https://nelsoncountytimes.com,unknown,historical_us_local_news,not_live_checked,US,7968,https://github.com/sTechLab/local-news-dataset,nelsoncountytimes.com
+EXT000447,Chester Telegraph,https://chestertelegraph.org,unknown,historical_us_local_news,not_live_checked,US,8133,https://github.com/sTechLab/local-news-dataset,chestertelegraph.org
+EXT000448,El Siete Dias,https://elsietedias.com,unknown,historical_us_local_news,not_live_checked,US,8172,https://github.com/sTechLab/local-news-dataset,elsietedias.com
+EXT000449,Barron News-Shield,https://news-shield.com,unknown,historical_us_local_news,not_live_checked,US,8336,https://github.com/sTechLab/local-news-dataset,news-shield.com
+EXT000450,Exponent Telegram,https://theet.com,unknown,historical_us_local_news,not_live_checked,US,8489,https://github.com/sTechLab/local-news-dataset,theet.com
+EXT000451,Delta Wind,https://deltawindonline.com,unknown,historical_us_local_news,not_live_checked,US,14,https://github.com/sTechLab/local-news-dataset,deltawindonline.com
+EXT000452,Atmore Advance,https://atmoreadvance.com,unknown,historical_us_local_news,not_live_checked,US,59,https://github.com/sTechLab/local-news-dataset,atmoreadvance.com
+EXT000453,Democrat Gazette,https://nwaonline.com,unknown,historical_us_local_news,not_live_checked,US,219,https://github.com/sTechLab/local-news-dataset,nwaonline.com
+EXT000454,Explorer Newspapers,https://tucsonlocalmedia.com,unknown,historical_us_local_news,not_live_checked,US,388,https://github.com/sTechLab/local-news-dataset,tucsonlocalmedia.com
+EXT000455,Lucerne Valley Leader,https://lucernevalleyleader.com,unknown,historical_us_local_news,not_live_checked,US,518,https://github.com/sTechLab/local-news-dataset,lucernevalleyleader.com
+EXT000456,Pine River Times,https://pinerivertimes.com,unknown,historical_us_local_news,not_live_checked,US,1241,https://github.com/sTechLab/local-news-dataset,pinerivertimes.com
+EXT000457,The Ridgefield Press,https://theridgefieldpress.com,unknown,historical_us_local_news,not_live_checked,US,1455,https://github.com/sTechLab/local-news-dataset,theridgefieldpress.com
+EXT000458,Route Fifty,https://routefifty.com,unknown,historical_us_local_news,not_live_checked,US,1601,https://github.com/sTechLab/local-news-dataset,routefifty.com
+EXT000459,Smyrna/Clayton Sun-Times,https://scsuntimes.com,unknown,historical_us_local_news,not_live_checked,US,1628,https://github.com/sTechLab/local-news-dataset,scsuntimes.com
+EXT000460,Voice of South Marion,https://thevosm.net,unknown,historical_us_local_news,not_live_checked,US,1657,https://github.com/sTechLab/local-news-dataset,thevosm.net
+EXT000461,Americus Sumter Observer Newspaper,https://americusumterobserver.com,unknown,historical_us_local_news,not_live_checked,US,1913,https://github.com/sTechLab/local-news-dataset,americusumterobserver.com
+EXT000462,"The Voice of Kapolei, LLC.",https://thevoiceofkapolei.com,unknown,historical_us_local_news,not_live_checked,US,2191,https://github.com/sTechLab/local-news-dataset,thevoiceofkapolei.com
+EXT000463,Atlantic News Telegraph,https://swiowanewssource.com/atlantic,unknown,historical_us_local_news,not_live_checked,US,2213,https://github.com/sTechLab/local-news-dataset,swiowanewssource.com/atlantic
+EXT000464,The Weekly Mailer,https://minicassia.com,unknown,historical_us_local_news,not_live_checked,US,2444,https://github.com/sTechLab/local-news-dataset,minicassia.com
+EXT000465,Reflejos Bilingual Newspaper,https://reflejos.com,unknown,historical_us_local_news,not_live_checked,US,2510,https://github.com/sTechLab/local-news-dataset,reflejos.com
+EXT000466,Berne Tri-Weekly News,https://bernewitness.com,unknown,historical_us_local_news,not_live_checked,US,2958,https://github.com/sTechLab/local-news-dataset,bernewitness.com
+EXT000467,Cherokee County News-Advocate,https://sekvoice.com,unknown,historical_us_local_news,not_live_checked,US,3195,https://github.com/sTechLab/local-news-dataset,sekvoice.com
+EXT000468,The Sporting Times,https://stfanclub.com,unknown,historical_us_local_news,not_live_checked,US,3341,https://github.com/sTechLab/local-news-dataset,stfanclub.com
+EXT000469,Herald-Guide,https://heraldguide.com,unknown,historical_us_local_news,not_live_checked,US,3542,https://github.com/sTechLab/local-news-dataset,heraldguide.com
+EXT000470,Ayer News,https://nashobavalleyvoice.com/ayer_news,unknown,historical_us_local_news,not_live_checked,US,3662,https://github.com/sTechLab/local-news-dataset,nashobavalleyvoice.com/ayer_news
+EXT000471,Baltimore Times,https://baltimoretimes-online.com,unknown,historical_us_local_news,not_live_checked,US,4021,https://github.com/sTechLab/local-news-dataset,baltimoretimes-online.com
+EXT000472,Boothbay Register,https://boothbayregister.com,unknown,historical_us_local_news,not_live_checked,US,4114,https://github.com/sTechLab/local-news-dataset,boothbayregister.com
+EXT000473,LAnse Sentinel,https://lansesentinel.com,unknown,historical_us_local_news,not_live_checked,US,4194,https://github.com/sTechLab/local-news-dataset,lansesentinel.com
+EXT000474,Arlington Enterprise,https://arlingtonmnnews.com,unknown,historical_us_local_news,not_live_checked,US,4450,https://github.com/sTechLab/local-news-dataset,arlingtonmnnews.com
+EXT000475,Branson Tri-Lakes News,https://bransontrilakesnews.com,unknown,historical_us_local_news,not_live_checked,US,4766,https://github.com/sTechLab/local-news-dataset,bransontrilakesnews.com
+EXT000476,Clarion-Ledger Hinds County,https://clarionledger.com/news/hinds-county,unknown,historical_us_local_news,not_live_checked,US,5033,https://github.com/sTechLab/local-news-dataset,clarionledger.com/news/hinds-county
+EXT000477,Bozeman Daily Chronicle,https://bozemandailychronicle.com,unknown,historical_us_local_news,not_live_checked,US,5157,https://github.com/sTechLab/local-news-dataset,bozemandailychronicle.com
+EXT000478,High Country Press,https://hcpress.com,unknown,historical_us_local_news,not_live_checked,US,5241,https://github.com/sTechLab/local-news-dataset,hcpress.com
+EXT000479,The Walsh County Record,https://wcrecord.com,unknown,historical_us_local_news,not_live_checked,US,5478,https://github.com/sTechLab/local-news-dataset,wcrecord.com
+EXT000480,Wymore Arbor State,https://wymorearborstate.com,unknown,historical_us_local_news,not_live_checked,US,5517,https://github.com/sTechLab/local-news-dataset,wymorearborstate.com
+EXT000481,The Colebrook Chronicle,https://colebrookchronicle.com,unknown,historical_us_local_news,not_live_checked,US,5659,https://github.com/sTechLab/local-news-dataset,colebrookchronicle.com
+EXT000482,Brick Shorebeat,https://brick.shorebeat.com,unknown,historical_us_local_news,not_live_checked,US,5734,https://github.com/sTechLab/local-news-dataset,brick.shorebeat.com
+EXT000483,Green Fire Times,https://greenfiretimes.com,unknown,historical_us_local_news,not_live_checked,US,5933,https://github.com/sTechLab/local-news-dataset,greenfiretimes.com
+EXT000484,Record-Courier,https://recordcourier.com,unknown,historical_us_local_news,not_live_checked,US,5984,https://github.com/sTechLab/local-news-dataset,recordcourier.com
+EXT000485,The Times Newspaper,https://mywebtimes.com,unknown,historical_us_local_news,not_live_checked,US,6037,https://github.com/sTechLab/local-news-dataset,mywebtimes.com
+EXT000486,Athens Messenger,https://athensmessenger.com,unknown,historical_us_local_news,not_live_checked,US,6444,https://github.com/sTechLab/local-news-dataset,athensmessenger.com
+EXT000487,Express-Star,https://chickashanews.com,unknown,historical_us_local_news,not_live_checked,US,6690,https://github.com/sTechLab/local-news-dataset,chickashanews.com
+EXT000488,Source Weekly,https://bendsource.com,unknown,historical_us_local_news,not_live_checked,US,6791,https://github.com/sTechLab/local-news-dataset,bendsource.com
+EXT000489,The Butler Soapbox,https://twitter.com/butler_soapbox,unknown,historical_us_local_news,not_live_checked,US,6909,https://github.com/sTechLab/local-news-dataset,twitter.com/butler_soapbox
+EXT000490,Only In Rhode Island,https://onlyinyourstate.com/states/rhode-island,unknown,historical_us_local_news,not_live_checked,US,7099,https://github.com/sTechLab/local-news-dataset,onlyinyourstate.com/states/rhode-island
+EXT000491,The Bluffton Sun,https://blufftonsun.com,unknown,historical_us_local_news,not_live_checked,US,7130,https://github.com/sTechLab/local-news-dataset,blufftonsun.com
+EXT000492,Madison Daily Leader,https://dailyleaderextra.com,unknown,historical_us_local_news,not_live_checked,US,7228,https://github.com/sTechLab/local-news-dataset,dailyleaderextra.com
+EXT000493,Chattanooga Times,https://timesfreepress.com,unknown,historical_us_local_news,not_live_checked,US,7273,https://github.com/sTechLab/local-news-dataset,timesfreepress.com
+EXT000494,Athens Daily Review,https://athensreview.com,unknown,historical_us_local_news,not_live_checked,US,7443,https://github.com/sTechLab/local-news-dataset,athensreview.com
+EXT000495,The Herald Journal,https://news.hjnews.com,unknown,historical_us_local_news,not_live_checked,US,7915,https://github.com/sTechLab/local-news-dataset,news.hjnews.com
+EXT000496,The Herald Progress,https://herald-progress.com,unknown,historical_us_local_news,not_live_checked,US,7971,https://github.com/sTechLab/local-news-dataset,herald-progress.com
+EXT000497,Deerfield Valley News,https://dvalnews.com,unknown,historical_us_local_news,not_live_checked,US,8134,https://github.com/sTechLab/local-news-dataset,dvalnews.com
+EXT000498,The Eastside Scene,https://theeastsidescene.com,unknown,historical_us_local_news,not_live_checked,US,8173,https://github.com/sTechLab/local-news-dataset,theeastsidescene.com
+EXT000499,Beloit Daily News,https://beloitdailynews.com,unknown,historical_us_local_news,not_live_checked,US,8338,https://github.com/sTechLab/local-news-dataset,beloitdailynews.com
+EXT000500,Morgantown News,https://morgantownnews.com,unknown,historical_us_local_news,not_live_checked,US,8490,https://github.com/sTechLab/local-news-dataset,morgantownnews.com
+EXT000501,Fairbanks Daily News-Miner,https://newsminer.com,unknown,historical_us_local_news,not_live_checked,US,16,https://github.com/sTechLab/local-news-dataset,newsminer.com
+EXT000502,Atmore News,https://atmorenews.com,unknown,historical_us_local_news,not_live_checked,US,60,https://github.com/sTechLab/local-news-dataset,atmorenews.com
+EXT000503,Carroll County News,https://carrollconews.com,unknown,historical_us_local_news,not_live_checked,US,221,https://github.com/sTechLab/local-news-dataset,carrollconews.com
+EXT000504,Inside Tucson Business,https://insidetucsonbusiness.com,unknown,historical_us_local_news,not_live_checked,US,389,https://github.com/sTechLab/local-news-dataset,insidetucsonbusiness.com
+EXT000505,Mad River Union,https://madriverunion.com,unknown,historical_us_local_news,not_live_checked,US,520,https://github.com/sTechLab/local-news-dataset,madriverunion.com
+EXT000506,Berthoud Weekly Surveyor,https://berthoudsurveyor.com,unknown,historical_us_local_news,not_live_checked,US,1243,https://github.com/sTechLab/local-news-dataset,berthoudsurveyor.com
+EXT000507,The Wilton Bulletin,https://wiltonbulletin.com,unknown,historical_us_local_news,not_live_checked,US,1456,https://github.com/sTechLab/local-news-dataset,wiltonbulletin.com
+EXT000508,Smithsonian Magazine,https://smithsonianmag.com,unknown,historical_us_local_news,not_live_checked,US,1602,https://github.com/sTechLab/local-news-dataset,smithsonianmag.com
+EXT000509,Milford Beacon,https://milfordbeacon.com,unknown,historical_us_local_news,not_live_checked,US,1630,https://github.com/sTechLab/local-news-dataset,milfordbeacon.com
+EXT000510,County Record,https://thecountyrecord.net,unknown,historical_us_local_news,not_live_checked,US,1658,https://github.com/sTechLab/local-news-dataset,thecountyrecord.net
+EXT000511,Americus Times-Recorder,https://americustimesrecorder.com,unknown,historical_us_local_news,not_live_checked,US,1914,https://github.com/sTechLab/local-news-dataset,americustimesrecorder.com
+EXT000512,Ke Ola Magazine Hawaii Island,https://keolamagazine.com,unknown,historical_us_local_news,not_live_checked,US,2194,https://github.com/sTechLab/local-news-dataset,keolamagazine.com
+EXT000513,Bedford Times-Press,https://bedfordtimes-press.com,unknown,historical_us_local_news,not_live_checked,US,2217,https://github.com/sTechLab/local-news-dataset,bedfordtimes-press.com
+EXT000514,Coeur dAlene Press,https://cdapress.com,unknown,historical_us_local_news,not_live_checked,US,2447,https://github.com/sTechLab/local-news-dataset,cdapress.com
+EXT000515,Southern Piatt Record Herald,https://southernpiattrecordherald.com,unknown,historical_us_local_news,not_live_checked,US,2511,https://github.com/sTechLab/local-news-dataset,southernpiattrecordherald.com
+EXT000516,Spencer County Leader,https://ferdinandnews.com/v2/content.aspx?id=22391&memberid=1995,unknown,historical_us_local_news,not_live_checked,US,2960,https://github.com/sTechLab/local-news-dataset,ferdinandnews.com/v2/content.aspx?id=22391&memberid=1995
+EXT000517,Oxford Register,https://belleplainenews.com,unknown,historical_us_local_news,not_live_checked,US,3196,https://github.com/sTechLab/local-news-dataset,belleplainenews.com
+EXT000518,Meade County Messenger,https://meadecountymessenger.com,unknown,historical_us_local_news,not_live_checked,US,3342,https://github.com/sTechLab/local-news-dataset,meadecountymessenger.com
+EXT000519,Teche News,https://techetoday.com,unknown,historical_us_local_news,not_live_checked,US,3545,https://github.com/sTechLab/local-news-dataset,techetoday.com
+EXT000520,Barnstable Patriot,https://barnstablepatriot.com,unknown,historical_us_local_news,not_live_checked,US,3664,https://github.com/sTechLab/local-news-dataset,barnstablepatriot.com
+EXT000521,Baltimore magazine,https://baltimoremagazine.com,unknown,historical_us_local_news,not_live_checked,US,4022,https://github.com/sTechLab/local-news-dataset,baltimoremagazine.com
+EXT000522,Bridgton News,https://bridgton.com,unknown,historical_us_local_news,not_live_checked,US,4115,https://github.com/sTechLab/local-news-dataset,bridgton.com
+EXT000523,Huron County View,https://huroncountyview.mihomepaper.com,unknown,historical_us_local_news,not_live_checked,US,4195,https://github.com/sTechLab/local-news-dataset,huroncountyview.mihomepaper.com
+EXT000524,Austin Daily Herald,https://austindailyherald.com,unknown,historical_us_local_news,not_live_checked,US,4452,https://github.com/sTechLab/local-news-dataset,austindailyherald.com
+EXT000525,Linn County Leader,https://linncountyleader.com,unknown,historical_us_local_news,not_live_checked,US,4767,https://github.com/sTechLab/local-news-dataset,linncountyleader.com
+EXT000526,Clinton Courier,https://theclintoncourier.net,unknown,historical_us_local_news,not_live_checked,US,5034,https://github.com/sTechLab/local-news-dataset,theclintoncourier.net
+EXT000527,Montana Standard,https://mtstandard.com,unknown,historical_us_local_news,not_live_checked,US,5159,https://github.com/sTechLab/local-news-dataset,mtstandard.com
+EXT000528,Mountain Times,https://wataugademocrat.com/mountaintimes,unknown,historical_us_local_news,not_live_checked,US,5242,https://github.com/sTechLab/local-news-dataset,wataugademocrat.com/mountaintimes
+EXT000529,Grand Forks Herald,https://grandforksherald.com,unknown,historical_us_local_news,not_live_checked,US,5479,https://github.com/sTechLab/local-news-dataset,grandforksherald.com
+EXT000530,Bridgeport News-Blade,https://newsblade.com,unknown,historical_us_local_news,not_live_checked,US,5518,https://github.com/sTechLab/local-news-dataset,newsblade.com
+EXT000531,News and Sentinel,https://colbsent.com,unknown,historical_us_local_news,not_live_checked,US,5662,https://github.com/sTechLab/local-news-dataset,colbsent.com
+EXT000532,Courier-News,https://mycentraljersey.com,unknown,historical_us_local_news,not_live_checked,US,5736,https://github.com/sTechLab/local-news-dataset,mycentraljersey.com
+EXT000533,Santa Fe New Mexican,https://santafenewmexican.com,unknown,historical_us_local_news,not_live_checked,US,5935,https://github.com/sTechLab/local-news-dataset,santafenewmexican.com
+EXT000534,Mineral County Independent-News,https://mcindependentnews.com,unknown,historical_us_local_news,not_live_checked,US,5986,https://github.com/sTechLab/local-news-dataset,mcindependentnews.com
+EXT000535,The Western News,https://thewesternnews.com,unknown,historical_us_local_news,not_live_checked,US,6038,https://github.com/sTechLab/local-news-dataset,thewesternnews.com
+EXT000536,Athens News,https://athensnews.com,unknown,historical_us_local_news,not_live_checked,US,6445,https://github.com/sTechLab/local-news-dataset,athensnews.com
+EXT000537,Claremore Daily Progress,https://claremoreprogress.com,unknown,historical_us_local_news,not_live_checked,US,6693,https://github.com/sTechLab/local-news-dataset,claremoreprogress.com
+EXT000538,Curry Coastal Pilot,https://currypilot.com,unknown,historical_us_local_news,not_live_checked,US,6794,https://github.com/sTechLab/local-news-dataset,currypilot.com
+EXT000539,YourCarlynton,https://triblive.com/neighborhoods/yourcarlynton,unknown,historical_us_local_news,not_live_checked,US,6910,https://github.com/sTechLab/local-news-dataset,triblive.com/neighborhoods/yourcarlynton
+EXT000540,Providence Monthly,https://providenceonline.com,unknown,historical_us_local_news,not_live_checked,US,7102,https://github.com/sTechLab/local-news-dataset,providenceonline.com
+EXT000541,Chronicle-Independent,https://chronicle-independent.com,unknown,historical_us_local_news,not_live_checked,US,7132,https://github.com/sTechLab/local-news-dataset,chronicle-independent.com
+EXT000542,Lennox Independent,https://lennoxnews.com,unknown,historical_us_local_news,not_live_checked,US,7229,https://github.com/sTechLab/local-news-dataset,lennoxnews.com
+EXT000543,Chattanoogan,https://chattanoogan.com,unknown,historical_us_local_news,not_live_checked,US,7274,https://github.com/sTechLab/local-news-dataset,chattanoogan.com
+EXT000544,Austin American Statesman,https://statesman.com,unknown,historical_us_local_news,not_live_checked,US,7444,https://github.com/sTechLab/local-news-dataset,statesman.com
+EXT000545,Utah Statesman,https://utahstatesman.com,unknown,historical_us_local_news,not_live_checked,US,7916,https://github.com/sTechLab/local-news-dataset,utahstatesman.com
+EXT000546,Bedford Bulletin,https://bedfordbulletin.com,unknown,historical_us_local_news,not_live_checked,US,7972,https://github.com/sTechLab/local-news-dataset,bedfordbulletin.com
+EXT000547,Addison Co. Independent,https://addisonindependent.com,unknown,historical_us_local_news,not_live_checked,US,8135,https://github.com/sTechLab/local-news-dataset,addisonindependent.com
+EXT000548,Bellingham Herald,https://bellinghamherald.com,unknown,historical_us_local_news,not_live_checked,US,8175,https://github.com/sTechLab/local-news-dataset,bellinghamherald.com
+EXT000549,Bloomer Advance,https://bloomeradvance.com,unknown,historical_us_local_news,not_live_checked,US,8341,https://github.com/sTechLab/local-news-dataset,bloomeradvance.com
+EXT000550,WV News,https://wvnews.com,unknown,historical_us_local_news,not_live_checked,US,8492,https://github.com/sTechLab/local-news-dataset,wvnews.com
+EXT000551,KTVF Fairbanks,https://webcenter11.com,unknown,historical_us_local_news,not_live_checked,US,17,https://github.com/sTechLab/local-news-dataset,webcenter11.com
+EXT000552,Auburn Plainsman,https://theplainsman.com,unknown,historical_us_local_news,not_live_checked,US,61,https://github.com/sTechLab/local-news-dataset,theplainsman.com
+EXT000553,Courier News,https://blythevillecourier.com,unknown,historical_us_local_news,not_live_checked,US,223,https://github.com/sTechLab/local-news-dataset,blythevillecourier.com
+EXT000554,Tucson Weekly,https://tucsonweekly.com,unknown,historical_us_local_news,not_live_checked,US,393,https://github.com/sTechLab/local-news-dataset,tucsonweekly.com
+EXT000555,North Coast Journal,https://northcoastjournal.com,unknown,historical_us_local_news,not_live_checked,US,521,https://github.com/sTechLab/local-news-dataset,northcoastjournal.com
+EXT000556,Loveland Reporter-Herald,https://reporterherald.com,unknown,historical_us_local_news,not_live_checked,US,1244,https://github.com/sTechLab/local-news-dataset,reporterherald.com
+EXT000557,Tribuna,https://tribunact.com,unknown,historical_us_local_news,not_live_checked,US,1457,https://github.com/sTechLab/local-news-dataset,tribunact.com
+EXT000558,The Chronicle of Philanthropy,https://philanthropy.com,unknown,historical_us_local_news,not_live_checked,US,1603,https://github.com/sTechLab/local-news-dataset,philanthropy.com
+EXT000559,Milford Chronicle,https://milfordchronicle.net,unknown,historical_us_local_news,not_live_checked,US,1631,https://github.com/sTechLab/local-news-dataset,milfordchronicle.net
+EXT000560,The Boca Beacon: The newspaper of Boca Grande/Gasparilla Island,https://bocabeacon.com,unknown,historical_us_local_news,not_live_checked,US,1660,https://github.com/sTechLab/local-news-dataset,bocabeacon.com
+EXT000561,The Wiregrass Farmer,https://thewiregrassfarmer.com,unknown,historical_us_local_news,not_live_checked,US,1916,https://github.com/sTechLab/local-news-dataset,thewiregrassfarmer.com
+EXT000562,Garden Island,https://thegardenisland.com,unknown,historical_us_local_news,not_live_checked,US,2196,https://github.com/sTechLab/local-news-dataset,thegardenisland.com
+EXT000563,Bellevue Herald-Leader,https://bellevueheraldleader.com,unknown,historical_us_local_news,not_live_checked,US,2219,https://github.com/sTechLab/local-news-dataset,bellevueheraldleader.com
+EXT000564,Spokesman Review,https://spokesman.com,unknown,historical_us_local_news,not_live_checked,US,2448,https://github.com/sTechLab/local-news-dataset,spokesman.com
+EXT000565,Ashton Gazette,https://ashtongazette.com,unknown,historical_us_local_news,not_live_checked,US,2512,https://github.com/sTechLab/local-news-dataset,ashtongazette.com
+EXT000566,Herald-Times,https://heraldtimesonline.com,unknown,historical_us_local_news,not_live_checked,US,2961,https://github.com/sTechLab/local-news-dataset,heraldtimesonline.com
+EXT000567,Belleville Telescope,https://thebellevilletelescope.com,unknown,historical_us_local_news,not_live_checked,US,3197,https://github.com/sTechLab/local-news-dataset,thebellevilletelescope.com
+EXT000568,Cumberland County News,https://cumberlandcountynewspaper.com,unknown,historical_us_local_news,not_live_checked,US,3345,https://github.com/sTechLab/local-news-dataset,cumberlandcountynewspaper.com
+EXT000569,Central City News,https://centralcitynews.net,unknown,historical_us_local_news,not_live_checked,US,3547,https://github.com/sTechLab/local-news-dataset,centralcitynews.net
+EXT000570,Cape Cod Times,https://capecodtimes.com,unknown,historical_us_local_news,not_live_checked,US,3665,https://github.com/sTechLab/local-news-dataset,capecodtimes.com
+EXT000571,The Aegis,https://theaegis.com,unknown,historical_us_local_news,not_live_checked,US,4025,https://github.com/sTechLab/local-news-dataset,theaegis.com
+EXT000572,Lakes Region Weekly,https://news.keepmecurrent.com/category/lakes-region-weekly/bridgton,unknown,historical_us_local_news,not_live_checked,US,4116,https://github.com/sTechLab/local-news-dataset,news.keepmecurrent.com/category/lakes-region-weekly/bridgton
+EXT000573,Huron Daily Tribune,https://michigansthumb.com,unknown,historical_us_local_news,not_live_checked,US,4196,https://github.com/sTechLab/local-news-dataset,michigansthumb.com
+EXT000574,Barnesville Record-Review,https://barnesvillerecordreview.net,unknown,historical_us_local_news,not_live_checked,US,4453,https://github.com/sTechLab/local-news-dataset,barnesvillerecordreview.net
+EXT000575,Buffalo Reflex,https://buffaloreflex.com,unknown,historical_us_local_news,not_live_checked,US,4768,https://github.com/sTechLab/local-news-dataset,buffaloreflex.com
+EXT000576,Columbian Progress,https://columbianprogress.com,unknown,historical_us_local_news,not_live_checked,US,5036,https://github.com/sTechLab/local-news-dataset,columbianprogress.com
+EXT000577,Choteau Acantha,https://choteauacantha.com,unknown,historical_us_local_news,not_live_checked,US,5163,https://github.com/sTechLab/local-news-dataset,choteauacantha.com
+EXT000578,The Transylvania Times,https://transylvaniatimes.com,unknown,historical_us_local_news,not_live_checked,US,5245,https://github.com/sTechLab/local-news-dataset,transylvaniatimes.com
+EXT000579,Jamestown Sun,https://jamestownsun.com,unknown,historical_us_local_news,not_live_checked,US,5481,https://github.com/sTechLab/local-news-dataset,jamestownsun.com
+EXT000580,Custer County Chief,https://custercountychief.com,unknown,historical_us_local_news,not_live_checked,US,5519,https://github.com/sTechLab/local-news-dataset,custercountychief.com
+EXT000581,Concord Monitor,https://concordmonitor.com,unknown,historical_us_local_news,not_live_checked,US,5663,https://github.com/sTechLab/local-news-dataset,concordmonitor.com
+EXT000582,Brigantine Beachcomber News,https://shorenewstoday.com/brigantine,unknown,historical_us_local_news,not_live_checked,US,5737,https://github.com/sTechLab/local-news-dataset,shorenewstoday.com/brigantine
+EXT000583,Santa Fe Reporter,https://sfreporter.com,unknown,historical_us_local_news,not_live_checked,US,5936,https://github.com/sTechLab/local-news-dataset,sfreporter.com
+EXT000584,Henderson View,https://reviewjournal.com/local/henderson,unknown,historical_us_local_news,not_live_checked,US,5988,https://github.com/sTechLab/local-news-dataset,reviewjournal.com/local/henderson
+EXT000585,Alden Advertiser,https://aldenadvertisernews.com,unknown,historical_us_local_news,not_live_checked,US,6039,https://github.com/sTechLab/local-news-dataset,aldenadvertisernews.com
+EXT000586,Aurora Advocate,https://auroraadvocate.com,unknown,historical_us_local_news,not_live_checked,US,6448,https://github.com/sTechLab/local-news-dataset,auroraadvocate.com
+EXT000587,Clinton Daily News,https://clintondailynews.com,unknown,historical_us_local_news,not_live_checked,US,6694,https://github.com/sTechLab/local-news-dataset,clintondailynews.com
+EXT000588,Burns Times Herald,https://btimesherald.com,unknown,historical_us_local_news,not_live_checked,US,6795,https://github.com/sTechLab/local-news-dataset,btimesherald.com
+EXT000589,Public Opinion Online,https://publicopiniononline.com,unknown,historical_us_local_news,not_live_checked,US,6911,https://github.com/sTechLab/local-news-dataset,publicopiniononline.com
+EXT000590,The Pawtucket Times,https://pawtuckettimes.com,unknown,historical_us_local_news,not_live_checked,US,7103,https://github.com/sTechLab/local-news-dataset,pawtuckettimes.com
+EXT000591,Kershaw County Current,https://kccurrent.com,unknown,historical_us_local_news,not_live_checked,US,7133,https://github.com/sTechLab/local-news-dataset,kccurrent.com
+EXT000592,Lakota Times,https://lakotatimes.com,unknown,historical_us_local_news,not_live_checked,US,7231,https://github.com/sTechLab/local-news-dataset,lakotatimes.com
+EXT000593,Pulse,https://chattanoogapulse.com,unknown,historical_us_local_news,not_live_checked,US,7276,https://github.com/sTechLab/local-news-dataset,chattanoogapulse.com
+EXT000594,Austin Chronicle,https://austinchronicle.com,unknown,historical_us_local_news,not_live_checked,US,7446,https://github.com/sTechLab/local-news-dataset,austinchronicle.com
+EXT000595,Magna Times,https://magnatimes.com,unknown,historical_us_local_news,not_live_checked,US,7917,https://github.com/sTechLab/local-news-dataset,magnatimes.com
+EXT000596,Coalfield Progress,https://thecoalfieldprogress.com,unknown,historical_us_local_news,not_live_checked,US,7973,https://github.com/sTechLab/local-news-dataset,thecoalfieldprogress.com
+EXT000597,County Courier,https://countycourier.net,unknown,historical_us_local_news,not_live_checked,US,8136,https://github.com/sTechLab/local-news-dataset,countycourier.net
+EXT000598,WhatcomTalk.com,https://whatcomtalk.com,unknown,historical_us_local_news,not_live_checked,US,8176,https://github.com/sTechLab/local-news-dataset,whatcomtalk.com
+EXT000599,FOX6 News Milwaukee,https://fox6now.com,unknown,historical_us_local_news,not_live_checked,US,8343,https://github.com/sTechLab/local-news-dataset,fox6now.com
+EXT000600,Inter-Mountain,https://theintermountain.com,unknown,historical_us_local_news,not_live_checked,US,8493,https://github.com/sTechLab/local-news-dataset,theintermountain.com
+EXT000601,Homer News,https://homernews.com,unknown,historical_us_local_news,not_live_checked,US,19,https://github.com/sTechLab/local-news-dataset,homernews.com
+EXT000602,Baldwin Times,https://gulfcoastnewstoday.com/the_baldwin_times,unknown,historical_us_local_news,not_live_checked,US,63,https://github.com/sTechLab/local-news-dataset,gulfcoastnewstoday.com/the_baldwin_times
+EXT000603,Booneville Democrat,https://boonevilledemocrat.com,unknown,historical_us_local_news,not_live_checked,US,224,https://github.com/sTechLab/local-news-dataset,boonevilledemocrat.com
+EXT000604,Cottonwood Journal Extra,https://journalaz.com/news/cottonwood.html,unknown,historical_us_local_news,not_live_checked,US,394,https://github.com/sTechLab/local-news-dataset,journalaz.com/news/cottonwood.html
+EXT000605,A-Town Daily News,https://atowndailynews.com,unknown,historical_us_local_news,not_live_checked,US,522,https://github.com/sTechLab/local-news-dataset,atowndailynews.com
+EXT000606,Black Forest News,https://blackforestnews-co.com,unknown,historical_us_local_news,not_live_checked,US,1246,https://github.com/sTechLab/local-news-dataset,blackforestnews-co.com
+EXT000607,Darien News-Review,https://dariennewsonline.com,unknown,historical_us_local_news,not_live_checked,US,1461,https://github.com/sTechLab/local-news-dataset,dariennewsonline.com
+EXT000608,The Daily Caller,https://dailycaller.com,unknown,historical_us_local_news,not_live_checked,US,1604,https://github.com/sTechLab/local-news-dataset,dailycaller.com
+EXT000609,Sussex County Post,https://sussexcountypost.com,unknown,historical_us_local_news,not_live_checked,US,1632,https://github.com/sTechLab/local-news-dataset,sussexcountypost.com
+EXT000610,Asianapost,https://asianapost.com,unknown,historical_us_local_news,not_live_checked,US,1661,https://github.com/sTechLab/local-news-dataset,asianapost.com
+EXT000611,Flagpole,https://flagpole.com,unknown,historical_us_local_news,not_live_checked,US,1920,https://github.com/sTechLab/local-news-dataset,flagpole.com
+EXT000612,Maui News,https://mauinews.com,unknown,historical_us_local_news,not_live_checked,US,2199,https://github.com/sTechLab/local-news-dataset,mauinews.com
+EXT000613,Belmond Independent,https://belmondnews.com,unknown,historical_us_local_news,not_live_checked,US,2220,https://github.com/sTechLab/local-news-dataset,belmondnews.com
+EXT000614,Teton Valley News,https://tetonvalleynews.net,unknown,historical_us_local_news,not_live_checked,US,2451,https://github.com/sTechLab/local-news-dataset,tetonvalleynews.net
+EXT000615,Auburn Citizen,https://southcountypublications.net,unknown,historical_us_local_news,not_live_checked,US,2514,https://github.com/sTechLab/local-news-dataset,southcountypublications.net
+EXT000616,Bluffton News-Banner,https://news-banner.com,unknown,historical_us_local_news,not_live_checked,US,2963,https://github.com/sTechLab/local-news-dataset,news-banner.com
+EXT000617,KR-92 Radio,https://kr92country.com,unknown,historical_us_local_news,not_live_checked,US,3198,https://github.com/sTechLab/local-news-dataset,kr92country.com
+EXT000618,Cadiz Record,https://cadizrecord.com,unknown,historical_us_local_news,not_live_checked,US,3346,https://github.com/sTechLab/local-news-dataset,cadizrecord.com
+EXT000619,Poche Post,https://pochepost.com,unknown,historical_us_local_news,not_live_checked,US,3549,https://github.com/sTechLab/local-news-dataset,pochepost.com
+EXT000620,Barre Gazette,https://turley.com/barre,unknown,historical_us_local_news,not_live_checked,US,3667,https://github.com/sTechLab/local-news-dataset,turley.com/barre
+EXT000621,The Avenue News,https://avenuenews.com,unknown,historical_us_local_news,not_live_checked,US,4026,https://github.com/sTechLab/local-news-dataset,avenuenews.com
+EXT000622,The Times Record,https://timesrecord.com,unknown,historical_us_local_news,not_live_checked,US,4118,https://github.com/sTechLab/local-news-dataset,timesrecord.com
+EXT000623,Lake County Star,https://news.pioneergroup.com/lakecountystar,unknown,historical_us_local_news,not_live_checked,US,4197,https://github.com/sTechLab/local-news-dataset,news.pioneergroup.com/lakecountystar
+EXT000624,St. Peter Herald,https://southernminn.com/st_peter_herald,unknown,historical_us_local_news,not_live_checked,US,4455,https://github.com/sTechLab/local-news-dataset,southernminn.com/st_peter_herald
+EXT000625,Mid America Live,https://midamericalive.com,unknown,historical_us_local_news,not_live_checked,US,4769,https://github.com/sTechLab/local-news-dataset,midamericalive.com
+EXT000626,Columbus Packet,https://packet-media.com,unknown,historical_us_local_news,not_live_checked,US,5038,https://github.com/sTechLab/local-news-dataset,packet-media.com
+EXT000627,Hungry Horse News,https://hungryhorsenews.com,unknown,historical_us_local_news,not_live_checked,US,5165,https://github.com/sTechLab/local-news-dataset,hungryhorsenews.com
+EXT000628,Smoky Mountain Times,https://thesmokymountaintimes.com,unknown,historical_us_local_news,not_live_checked,US,5246,https://github.com/sTechLab/local-news-dataset,thesmokymountaintimes.com
+EXT000629,Kenmare News,https://kenmarend.com,unknown,historical_us_local_news,not_live_checked,US,5484,https://github.com/sTechLab/local-news-dataset,kenmarend.com
+EXT000630,Chadron Record,https://rapidcityjournal.com/news/local/communities/chadron,unknown,historical_us_local_news,not_live_checked,US,5520,https://github.com/sTechLab/local-news-dataset,rapidcityjournal.com/news/local/communities/chadron
+EXT000631,Merrimack Valley Voice,https://merrimackvalleyvoice.com,unknown,historical_us_local_news,not_live_checked,US,5664,https://github.com/sTechLab/local-news-dataset,merrimackvalleyvoice.com
+EXT000632,Mt. Olive Life,https://mtolivelife.com,unknown,historical_us_local_news,not_live_checked,US,5738,https://github.com/sTechLab/local-news-dataset,mtolivelife.com
+EXT000633,The Daily Times,https://daily-times.com,unknown,historical_us_local_news,not_live_checked,US,5937,https://github.com/sTechLab/local-news-dataset,daily-times.com
+EXT000634,Las Vegas Magazine,https://lasvegasmagazine.com,unknown,historical_us_local_news,not_live_checked,US,5989,https://github.com/sTechLab/local-news-dataset,lasvegasmagazine.com
+EXT000635,Amherst Bee,https://amherstbee.com,unknown,historical_us_local_news,not_live_checked,US,6040,https://github.com/sTechLab/local-news-dataset,amherstbee.com
+EXT000636,Barberton Herald,https://barbertonherald.com,unknown,historical_us_local_news,not_live_checked,US,6449,https://github.com/sTechLab/local-news-dataset,barbertonherald.com
+EXT000637,The Cordell Beacon,https://cordellbeacon.com,unknown,historical_us_local_news,not_live_checked,US,6695,https://github.com/sTechLab/local-news-dataset,cordellbeacon.com
+EXT000638,Canby Herald,https://pamplinmedia.com/canby-herald-news,unknown,historical_us_local_news,not_live_checked,US,6797,https://github.com/sTechLab/local-news-dataset,pamplinmedia.com/canby-herald-news
+EXT000639,Explore Clarion,https://exploreclarion.com,unknown,historical_us_local_news,not_live_checked,US,6913,https://github.com/sTechLab/local-news-dataset,exploreclarion.com
+EXT000640,GoLocalProv,https://golocalprov.com,unknown,historical_us_local_news,not_live_checked,US,7104,https://github.com/sTechLab/local-news-dataset,golocalprov.com
+EXT000641,Charleston City Paper,https://charlestoncitypaper.com,unknown,historical_us_local_news,not_live_checked,US,7134,https://github.com/sTechLab/local-news-dataset,charlestoncitypaper.com
+EXT000642,Grant County Review,https://grantcountyreview.com,unknown,historical_us_local_news,not_live_checked,US,7232,https://github.com/sTechLab/local-news-dataset,grantcountyreview.com
+EXT000643,Leaf-Chronicle,https://theleafchronicle.com,unknown,historical_us_local_news,not_live_checked,US,7278,https://github.com/sTechLab/local-news-dataset,theleafchronicle.com
+EXT000644,KVUE,https://kvue.com,unknown,historical_us_local_news,not_live_checked,US,7447,https://github.com/sTechLab/local-news-dataset,kvue.com
+EXT000645,Sanpete Messenger,https://sanpetemessenger.com,unknown,historical_us_local_news,not_live_checked,US,7918,https://github.com/sTechLab/local-news-dataset,sanpetemessenger.com
+EXT000646,Bland County Messenger,https://swvatoday.com/news/bland_county,unknown,historical_us_local_news,not_live_checked,US,7974,https://github.com/sTechLab/local-news-dataset,swvatoday.com/news/bland_county
+EXT000647,St. Albans Messenger,https://samessenger.com,unknown,historical_us_local_news,not_live_checked,US,8137,https://github.com/sTechLab/local-news-dataset,samessenger.com
+EXT000648,Northern Light,https://thenorthernlight.com,unknown,historical_us_local_news,not_live_checked,US,8177,https://github.com/sTechLab/local-news-dataset,thenorthernlight.com
+EXT000649,Burlington Standard Press,https://myracinecounty.com,unknown,historical_us_local_news,not_live_checked,US,8344,https://github.com/sTechLab/local-news-dataset,myracinecounty.com
+EXT000650,The Fairmont News,https://fairmontnews.com,unknown,historical_us_local_news,not_live_checked,US,8494,https://github.com/sTechLab/local-news-dataset,fairmontnews.com
+EXT000651,Capital City Weekly,https://capitalcityweekly.com,unknown,historical_us_local_news,not_live_checked,US,21,https://github.com/sTechLab/local-news-dataset,capitalcityweekly.com
+EXT000652,About Town Magazine: Birminghams Social Scene,https://linktr.ee/abouttownmag,unknown,historical_us_local_news,not_live_checked,US,64,https://github.com/sTechLab/local-news-dataset,linktr.ee/abouttownmag
+EXT000653,Brinkley News Network,https://brinkleytv.com,unknown,historical_us_local_news,not_live_checked,US,225,https://github.com/sTechLab/local-news-dataset,brinkleytv.com
+EXT000654,Verde Independent,https://verdenews.com,unknown,historical_us_local_news,not_live_checked,US,395,https://github.com/sTechLab/local-news-dataset,verdenews.com
+EXT000655,Atascadero News,https://atascaderonews.com,unknown,historical_us_local_news,not_live_checked,US,523,https://github.com/sTechLab/local-news-dataset,atascaderonews.com
+EXT000656,BizWest,https://bizwest.com,unknown,historical_us_local_news,not_live_checked,US,1247,https://github.com/sTechLab/local-news-dataset,bizwest.com
+EXT000657,Darien Times,https://darientimes.com,unknown,historical_us_local_news,not_live_checked,US,1462,https://github.com/sTechLab/local-news-dataset,darientimes.com
+EXT000658,The Hill,https://thehill.com,unknown,historical_us_local_news,not_live_checked,US,1606,https://github.com/sTechLab/local-news-dataset,thehill.com
+EXT000659,Delaware Online,https://delawareonline.com,unknown,historical_us_local_news,not_live_checked,US,1634,https://github.com/sTechLab/local-news-dataset,delawareonline.com
+EXT000660,Del Ray Newspaper,https://delraynewspaper.com,unknown,historical_us_local_news,not_live_checked,US,1662,https://github.com/sTechLab/local-news-dataset,delraynewspaper.com
+EXT000661,Atlanta Daily World,https://atlantadailyworld.com,unknown,historical_us_local_news,not_live_checked,US,1924,https://github.com/sTechLab/local-news-dataset,atlantadailyworld.com
+EXT000662,Bettendorf News,https://qctimes.com/news/local/bettendorf,unknown,historical_us_local_news,not_live_checked,US,2221,https://github.com/sTechLab/local-news-dataset,qctimes.com/news/local/bettendorf
+EXT000663,Eagle Independent News,https://theindnews.com,unknown,historical_us_local_news,not_live_checked,US,2452,https://github.com/sTechLab/local-news-dataset,theindnews.com
+EXT000664,Beacon News,https://chicagotribune.com/suburbs/aurora-beacon-news,unknown,historical_us_local_news,not_live_checked,US,2515,https://github.com/sTechLab/local-news-dataset,chicagotribune.com/suburbs/aurora-beacon-news
+EXT000665,Brazil Times,https://thebraziltimes.com,unknown,historical_us_local_news,not_live_checked,US,2967,https://github.com/sTechLab/local-news-dataset,thebraziltimes.com
+EXT000666,Saint Marys Star,https://thesmstar.com,unknown,historical_us_local_news,not_live_checked,US,3200,https://github.com/sTechLab/local-news-dataset,thesmstar.com
+EXT000667,Calvert City Lake News,https://thelakenews.com,unknown,historical_us_local_news,not_live_checked,US,3349,https://github.com/sTechLab/local-news-dataset,thelakenews.com
+EXT000668,The St. Tammany Farmer,https://sttammanyfarmer.net,unknown,historical_us_local_news,not_live_checked,US,3550,https://github.com/sTechLab/local-news-dataset,sttammanyfarmer.net
+EXT000669,Bedford Minuteman,https://bedford.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3668,https://github.com/sTechLab/local-news-dataset,bedford.wickedlocal.com
+EXT000670,The Crisis Magazine,https://thecrisismagazine.com,unknown,historical_us_local_news,not_live_checked,US,4030,https://github.com/sTechLab/local-news-dataset,thecrisismagazine.com
+EXT000671,Calais Advertiser,https://thecalaisadvertiser.com,unknown,historical_us_local_news,not_live_checked,US,4120,https://github.com/sTechLab/local-news-dataset,thecalaisadvertiser.com
+EXT000672,Battle Creek Enquirer,https://battlecreekenquirer.com,unknown,historical_us_local_news,not_live_checked,US,4198,https://github.com/sTechLab/local-news-dataset,battlecreekenquirer.com
+EXT000673,Belle Plaine Herald,https://belleplaineherald.com,unknown,historical_us_local_news,not_live_checked,US,4456,https://github.com/sTechLab/local-news-dataset,belleplaineherald.com
+EXT000674,Cabool Enterprise,https://caboolenterprise.com,unknown,historical_us_local_news,not_live_checked,US,4771,https://github.com/sTechLab/local-news-dataset,caboolenterprise.com
+EXT000675,Commercial Dispatch,https://cdispatch.com,unknown,historical_us_local_news,not_live_checked,US,5039,https://github.com/sTechLab/local-news-dataset,cdispatch.com
+EXT000676,Stillwater County News,https://stillwatercountynews.com,unknown,historical_us_local_news,not_live_checked,US,5167,https://github.com/sTechLab/local-news-dataset,stillwatercountynews.com
+EXT000677,Pender Post,https://post-voice.com,unknown,historical_us_local_news,not_live_checked,US,5248,https://github.com/sTechLab/local-news-dataset,post-voice.com
+EXT000678,Minot Daily News,https://minotdailynews.com,unknown,historical_us_local_news,not_live_checked,US,5485,https://github.com/sTechLab/local-news-dataset,minotdailynews.com
+EXT000679,Clearwater Record-Ewing News,https://nelighnews.com/clearwater_ewing,unknown,historical_us_local_news,not_live_checked,US,5522,https://github.com/sTechLab/local-news-dataset,nelighnews.com/clearwater_ewing
+EXT000680,Carriage Towne News,https://carriagetownenews.com,unknown,historical_us_local_news,not_live_checked,US,5666,https://github.com/sTechLab/local-news-dataset,carriagetownenews.com
+EXT000681,West Essex Now,https://westessexnow.com,unknown,historical_us_local_news,not_live_checked,US,5740,https://github.com/sTechLab/local-news-dataset,westessexnow.com
+EXT000682,Gallup Independent,https://gallupindependent.com,unknown,historical_us_local_news,not_live_checked,US,5938,https://github.com/sTechLab/local-news-dataset,gallupindependent.com
+EXT000683,Nevada Business Magazine,https://nevadabusiness.com,unknown,historical_us_local_news,not_live_checked,US,5990,https://github.com/sTechLab/local-news-dataset,nevadabusiness.com
+EXT000684,Amityville Record,https://amityvillerecord.com,unknown,historical_us_local_news,not_live_checked,US,6041,https://github.com/sTechLab/local-news-dataset,amityvillerecord.com
+EXT000685,Barnesville Enterprise,https://barnesville-enterprise.com,unknown,historical_us_local_news,not_live_checked,US,6451,https://github.com/sTechLab/local-news-dataset,barnesville-enterprise.com
+EXT000686,The Davis News,https://davisnewspaper.net,unknown,historical_us_local_news,not_live_checked,US,6697,https://github.com/sTechLab/local-news-dataset,davisnewspaper.net
+EXT000687,Illinois Valley News,https://illinois-valley-news.com,unknown,historical_us_local_news,not_live_checked,US,6799,https://github.com/sTechLab/local-news-dataset,illinois-valley-news.com
+EXT000688,Abington Journal,https://theabingtonjournal.com,unknown,historical_us_local_news,not_live_checked,US,6914,https://github.com/sTechLab/local-news-dataset,theabingtonjournal.com
+EXT000689,Southern Rhode Island Newspapers,https://ricentral.com,unknown,historical_us_local_news,not_live_checked,US,7107,https://github.com/sTechLab/local-news-dataset,ricentral.com
+EXT000690,Charleston Scene,https://charlestonscene.com,unknown,historical_us_local_news,not_live_checked,US,7135,https://github.com/sTechLab/local-news-dataset,charlestonscene.com
+EXT000691,Miller Press,https://themillerpress.com,unknown,historical_us_local_news,not_live_checked,US,7233,https://github.com/sTechLab/local-news-dataset,themillerpress.com
+EXT000692,Cleveland Daily Banner,https://clevelandbanner.com,unknown,historical_us_local_news,not_live_checked,US,7280,https://github.com/sTechLab/local-news-dataset,clevelandbanner.com
+EXT000693,Texas Tribune,https://texastribune.org,unknown,historical_us_local_news,not_live_checked,US,7451,https://github.com/sTechLab/local-news-dataset,texastribune.org
+EXT000694,The Times-Independent,https://moabtimes.com,unknown,historical_us_local_news,not_live_checked,US,7920,https://github.com/sTechLab/local-news-dataset,moabtimes.com
+EXT000695,Chesterfield Observer,https://chesterfieldobserver.com,unknown,historical_us_local_news,not_live_checked,US,7975,https://github.com/sTechLab/local-news-dataset,chesterfieldobserver.com
+EXT000696,The Vermont Journal  The Shopper,https://vermontjournal.com,unknown,historical_us_local_news,not_live_checked,US,8138,https://github.com/sTechLab/local-news-dataset,vermontjournal.com
+EXT000697,Camas-Washougal Post-Record,https://camaspostrecord.com,unknown,historical_us_local_news,not_live_checked,US,8181,https://github.com/sTechLab/local-news-dataset,camaspostrecord.com
+EXT000698,The Campbellsport News,https://thecampbellsportnews.com,unknown,historical_us_local_news,not_live_checked,US,8345,https://github.com/sTechLab/local-news-dataset,thecampbellsportnews.com
+EXT000699,Times West Virginian,https://timeswv.com,unknown,historical_us_local_news,not_live_checked,US,8495,https://github.com/sTechLab/local-news-dataset,timeswv.com
+EXT000700,Juneau Empire,https://juneauempire.com,unknown,historical_us_local_news,not_live_checked,US,22,https://github.com/sTechLab/local-news-dataset,juneauempire.com
+EXT000701,Alabama Press Association,https://alabamapress.org,unknown,historical_us_local_news,not_live_checked,US,66,https://github.com/sTechLab/local-news-dataset,alabamapress.org
+EXT000702,Central Delta Argus Sun,https://argussunonline.com,unknown,historical_us_local_news,not_live_checked,US,226,https://github.com/sTechLab/local-news-dataset,argussunonline.com
+EXT000703,Douglas Dispatch,https://douglasdispatch.com,unknown,historical_us_local_news,not_live_checked,US,396,https://github.com/sTechLab/local-news-dataset,douglasdispatch.com
+EXT000704,Auburn Journal,https://auburnjournal.com,unknown,historical_us_local_news,not_live_checked,US,524,https://github.com/sTechLab/local-news-dataset,auburnjournal.com
+EXT000705,Colorado Daily,https://coloradodaily.com,unknown,historical_us_local_news,not_live_checked,US,1249,https://github.com/sTechLab/local-news-dataset,coloradodaily.com
+EXT000706,CTNow,https://ctnow.com,unknown,historical_us_local_news,not_live_checked,US,1463,https://github.com/sTechLab/local-news-dataset,ctnow.com
+EXT000707,The Situation Room,https://cnn.com/sitroom,unknown,historical_us_local_news,not_live_checked,US,1607,https://github.com/sTechLab/local-news-dataset,cnn.com/sitroom
+EXT000708,First State Update,https://firststateupdate.com,unknown,historical_us_local_news,not_live_checked,US,1635,https://github.com/sTechLab/local-news-dataset,firststateupdate.com
+EXT000709,Happy Herald,https://happyherald.com,unknown,historical_us_local_news,not_live_checked,US,1663,https://github.com/sTechLab/local-news-dataset,happyherald.com
+EXT000710,Atlanta INtown,https://atlantaintownpaper.com,unknown,historical_us_local_news,not_live_checked,US,1925,https://github.com/sTechLab/local-news-dataset,atlantaintownpaper.com
+EXT000711,Bloomfield Democrat,https://bdemo.com,unknown,historical_us_local_news,not_live_checked,US,2222,https://github.com/sTechLab/local-news-dataset,bdemo.com
+EXT000712,Messenger Index,https://messenger-index.com,unknown,historical_us_local_news,not_live_checked,US,2453,https://github.com/sTechLab/local-news-dataset,messenger-index.com
+EXT000713,The Voice,https://thevoice.us,unknown,historical_us_local_news,not_live_checked,US,2517,https://github.com/sTechLab/local-news-dataset,thevoice.us
+EXT000714,Brookville American-Democrat,https://whitewaterpub.com,unknown,historical_us_local_news,not_live_checked,US,2968,https://github.com/sTechLab/local-news-dataset,whitewaterpub.com
+EXT000715,Coffey County Republican,https://coffeycountyonline.com,unknown,historical_us_local_news,not_live_checked,US,3202,https://github.com/sTechLab/local-news-dataset,coffeycountyonline.com
+EXT000716,Central Kentucky News-Journal,https://cknj.com,unknown,historical_us_local_news,not_live_checked,US,3351,https://github.com/sTechLab/local-news-dataset,cknj.com
+EXT000717,Crowley Post-Signal,https://crowleypostsignal.com,unknown,historical_us_local_news,not_live_checked,US,3551,https://github.com/sTechLab/local-news-dataset,crowleypostsignal.com
+EXT000718,Country Gazette,https://bellingham.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3669,https://github.com/sTechLab/local-news-dataset,bellingham.wickedlocal.com
+EXT000719,Bayside Gazette,https://baysideoc.com,unknown,historical_us_local_news,not_live_checked,US,4032,https://github.com/sTechLab/local-news-dataset,baysideoc.com
+EXT000720,Penobscot Bay Pilot,https://penbaypilot.com,unknown,historical_us_local_news,not_live_checked,US,4122,https://github.com/sTechLab/local-news-dataset,penbaypilot.com
+EXT000721,Bay Mills News,https://baymillsnews.com,unknown,historical_us_local_news,not_live_checked,US,4200,https://github.com/sTechLab/local-news-dataset,baymillsnews.com
+EXT000722,Bemidji Pioneer,https://bemidjipioneer.com,unknown,historical_us_local_news,not_live_checked,US,4457,https://github.com/sTechLab/local-news-dataset,bemidjipioneer.com
+EXT000723,California Democrat,https://californiademocrat.com,unknown,historical_us_local_news,not_live_checked,US,4772,https://github.com/sTechLab/local-news-dataset,californiademocrat.com
+EXT000724,Daily Corinthian,https://dailycorinthian.com,unknown,historical_us_local_news,not_live_checked,US,5042,https://github.com/sTechLab/local-news-dataset,dailycorinthian.com
+EXT000725,Cut Bank Pioneer Press,https://cutbankpioneerpress.com/cut_bank_pioneer_press,unknown,historical_us_local_news,not_live_checked,US,5169,https://github.com/sTechLab/local-news-dataset,cutbankpioneerpress.com/cut_bank_pioneer_press
+EXT000726,The Times-News,https://thetimesnews.com,unknown,historical_us_local_news,not_live_checked,US,5249,https://github.com/sTechLab/local-news-dataset,thetimesnews.com
+EXT000727,Tioga Tribune,https://journaltrib.com,unknown,historical_us_local_news,not_live_checked,US,5490,https://github.com/sTechLab/local-news-dataset,journaltrib.com
+EXT000728,Summerland Advocate-Messenger,https://summerlandadvocate.com,unknown,historical_us_local_news,not_live_checked,US,5523,https://github.com/sTechLab/local-news-dataset,summerlandadvocate.com
+EXT000729,Derry News,https://derrynews.com,unknown,historical_us_local_news,not_live_checked,US,5667,https://github.com/sTechLab/local-news-dataset,derrynews.com
+EXT000730,Cape May Star and Wave,https://starandwave.com,unknown,historical_us_local_news,not_live_checked,US,5742,https://github.com/sTechLab/local-news-dataset,starandwave.com
+EXT000731,Gallup Sun Publishing,https://gallupsun.com,unknown,historical_us_local_news,not_live_checked,US,5939,https://github.com/sTechLab/local-news-dataset,gallupsun.com
+EXT000732,Tahoe Daily Tribune,https://tahoedailytribune.com,unknown,historical_us_local_news,not_live_checked,US,5991,https://github.com/sTechLab/local-news-dataset,tahoedailytribune.com
+EXT000733,Massapequa Post Newspaper,https://massapequapost.com,unknown,historical_us_local_news,not_live_checked,US,6043,https://github.com/sTechLab/local-news-dataset,massapequapost.com
+EXT000734,Clermont Sun,https://clermontsun.com,unknown,historical_us_local_news,not_live_checked,US,6452,https://github.com/sTechLab/local-news-dataset,clermontsun.com
+EXT000735,Duncan Banner,https://duncanbanner.com,unknown,historical_us_local_news,not_live_checked,US,6698,https://github.com/sTechLab/local-news-dataset,duncanbanner.com
+EXT000736,Clatskanie Chief,https://thechiefnews.com,unknown,historical_us_local_news,not_live_checked,US,6800,https://github.com/sTechLab/local-news-dataset,thechiefnews.com
+EXT000737,Gant Daily,https://gantdaily.com,unknown,historical_us_local_news,not_live_checked,US,6915,https://github.com/sTechLab/local-news-dataset,gantdaily.com
+EXT000738,Johnston Sun Rise,https://johnstonsunrise.net,unknown,historical_us_local_news,not_live_checked,US,7109,https://github.com/sTechLab/local-news-dataset,johnstonsunrise.net
+EXT000739,Post and Courier,https://postandcourier.com,unknown,historical_us_local_news,not_live_checked,US,7137,https://github.com/sTechLab/local-news-dataset,postandcourier.com
+EXT000740,Mitchell Republic,https://mitchellrepublic.com,unknown,historical_us_local_news,not_live_checked,US,7235,https://github.com/sTechLab/local-news-dataset,mitchellrepublic.com
+EXT000741,Columbia Daily Herald,https://c-dh.net,unknown,historical_us_local_news,not_live_checked,US,7281,https://github.com/sTechLab/local-news-dataset,c-dh.net
+EXT000742,The Villager   Black Registry Company,https://theaustinvillager.com,unknown,historical_us_local_news,not_live_checked,US,7452,https://github.com/sTechLab/local-news-dataset,theaustinvillager.com
+EXT000743,Murray Journal,https://murrayjournal.com,unknown,historical_us_local_news,not_live_checked,US,7922,https://github.com/sTechLab/local-news-dataset,murrayjournal.com
+EXT000744,WCYB StormTrack 5,https://wcyb.com/weather,unknown,historical_us_local_news,not_live_checked,US,7976,https://github.com/sTechLab/local-news-dataset,wcyb.com/weather
+EXT000745,Manchester Journal,https://manchesterjournal.com,unknown,historical_us_local_news,not_live_checked,US,8139,https://github.com/sTechLab/local-news-dataset,manchesterjournal.com
+EXT000746,LACAMAS MAGAZINE,https://lacamasmagazine.com,unknown,historical_us_local_news,not_live_checked,US,8182,https://github.com/sTechLab/local-news-dataset,lacamasmagazine.com
+EXT000747,News Graphic,https://gmtoday.com,unknown,historical_us_local_news,not_live_checked,US,8346,https://github.com/sTechLab/local-news-dataset,gmtoday.com
+EXT000748,Mountain Statesman,https://mountainstatesman.com,unknown,historical_us_local_news,not_live_checked,US,8496,https://github.com/sTechLab/local-news-dataset,mountainstatesman.com
+EXT000749,Clarion Dispatch,https://peninsulaclarion.com/dispatch,unknown,historical_us_local_news,not_live_checked,US,23,https://github.com/sTechLab/local-news-dataset,peninsulaclarion.com/dispatch
+EXT000750,Bham Now  - Birmingham’s modern media,https://bhamnow.com,unknown,historical_us_local_news,not_live_checked,US,67,https://github.com/sTechLab/local-news-dataset,bhamnow.com
+EXT000751,Bryant Daily,https://bryantdaily.com,unknown,historical_us_local_news,not_live_checked,US,228,https://github.com/sTechLab/local-news-dataset,bryantdaily.com
+EXT000752,Arizona Silver Belt,https://silverbelt.com,unknown,historical_us_local_news,not_live_checked,US,397,https://github.com/sTechLab/local-news-dataset,silverbelt.com
+EXT000753,Placer Sentinel,https://placersentinel.com,unknown,historical_us_local_news,not_live_checked,US,525,https://github.com/sTechLab/local-news-dataset,placersentinel.com
+EXT000754,Daily Camera,https://dailycamera.com,unknown,historical_us_local_news,not_live_checked,US,1250,https://github.com/sTechLab/local-news-dataset,dailycamera.com
+EXT000755,Hartford Business Journal,https://hartfordbusiness.com,unknown,historical_us_local_news,not_live_checked,US,1465,https://github.com/sTechLab/local-news-dataset,hartfordbusiness.com
+EXT000756,The Washington Times,https://washingtontimes.com,unknown,historical_us_local_news,not_live_checked,US,1608,https://github.com/sTechLab/local-news-dataset,washingtontimes.com
+EXT000757,Newark Post,https://newarkpostonline.com,unknown,historical_us_local_news,not_live_checked,US,1636,https://github.com/sTechLab/local-news-dataset,newarkpostonline.com
+EXT000758,West Boca News,https://westbocanews.com,unknown,historical_us_local_news,not_live_checked,US,1664,https://github.com/sTechLab/local-news-dataset,westbocanews.com
+EXT000759,Atlanta Journal-Constitution,https://ajc.com,unknown,historical_us_local_news,not_live_checked,US,1926,https://github.com/sTechLab/local-news-dataset,ajc.com
+EXT000760,Boone News-Republican,https://newsrepublican.com,unknown,historical_us_local_news,not_live_checked,US,2223,https://github.com/sTechLab/local-news-dataset,newsrepublican.com
+EXT000761,Sho-Ban News,https://shobannews.com,unknown,historical_us_local_news,not_live_checked,US,2455,https://github.com/sTechLab/local-news-dataset,shobannews.com
+EXT000762,Quintessential Barrington,https://qbarrington.com,unknown,historical_us_local_news,not_live_checked,US,2519,https://github.com/sTechLab/local-news-dataset,qbarrington.com
+EXT000763,Jackson County Banner,https://thebanner.com,unknown,historical_us_local_news,not_live_checked,US,2970,https://github.com/sTechLab/local-news-dataset,thebanner.com
+EXT000764,Montgomery County Chronicle,https://taylornews.org/newsm,unknown,historical_us_local_news,not_live_checked,US,3204,https://github.com/sTechLab/local-news-dataset,taylornews.org/newsm
+EXT000765,The News-Democrat,https://mycarrollnews.com,unknown,historical_us_local_news,not_live_checked,US,3353,https://github.com/sTechLab/local-news-dataset,mycarrollnews.com
+EXT000766,Beauregard Daily News,https://beauregarddailynews.net,unknown,historical_us_local_news,not_live_checked,US,3554,https://github.com/sTechLab/local-news-dataset,beauregarddailynews.net
+EXT000767,Belmont Citizen-Herald,https://belmont.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3670,https://github.com/sTechLab/local-news-dataset,belmont.wickedlocal.com
+EXT000768,The Dispatch,https://mdcoastdispatch.com,unknown,historical_us_local_news,not_live_checked,US,4033,https://github.com/sTechLab/local-news-dataset,mdcoastdispatch.com
+EXT000769,Cape Courier,https://capecourier.com,unknown,historical_us_local_news,not_live_checked,US,4124,https://github.com/sTechLab/local-news-dataset,capecourier.com
+EXT000770,Antrim Review,https://antrimreview.net,unknown,historical_us_local_news,not_live_checked,US,4201,https://github.com/sTechLab/local-news-dataset,antrimreview.net
+EXT000771,Lakeland News,https://lptv.org/lakeland-news,unknown,historical_us_local_news,not_live_checked,US,4458,https://github.com/sTechLab/local-news-dataset,lptv.org/lakeland-news
+EXT000772,Lake News Online,https://lakenewsonline.com,unknown,historical_us_local_news,not_live_checked,US,4773,https://github.com/sTechLab/local-news-dataset,lakenewsonline.com
+EXT000773,Kemper County Messenger,https://kempercountymessenger.com,unknown,historical_us_local_news,not_live_checked,US,5044,https://github.com/sTechLab/local-news-dataset,kempercountymessenger.com
+EXT000774,Dillon Tribune,https://dillontribune.com,unknown,historical_us_local_news,not_live_checked,US,5171,https://github.com/sTechLab/local-news-dataset,dillontribune.com
+EXT000775,Island Gazette,https://islandgazette.net,unknown,historical_us_local_news,not_live_checked,US,5250,https://github.com/sTechLab/local-news-dataset,islandgazette.net
+EXT000776,NewsDakota,https://newsdakota.com,unknown,historical_us_local_news,not_live_checked,US,5492,https://github.com/sTechLab/local-news-dataset,newsdakota.com
+EXT000777,Columbus Telegram,https://columbustelegram.com,unknown,historical_us_local_news,not_live_checked,US,5524,https://github.com/sTechLab/local-news-dataset,columbustelegram.com
+EXT000778,Nutfield News,https://nutfieldnews.net,unknown,historical_us_local_news,not_live_checked,US,5668,https://github.com/sTechLab/local-news-dataset,nutfieldnews.net
+EXT000779,Courier-Post,https://courierpostonline.com,unknown,historical_us_local_news,not_live_checked,US,5746,https://github.com/sTechLab/local-news-dataset,courierpostonline.com
+EXT000780,Cibola Beacon,https://cibolabeacon.over-blog.com,unknown,historical_us_local_news,not_live_checked,US,5940,https://github.com/sTechLab/local-news-dataset,cibolabeacon.over-blog.com
+EXT000781,El Mundo Las Vegas,https://elmundo.net,unknown,historical_us_local_news,not_live_checked,US,5992,https://github.com/sTechLab/local-news-dataset,elmundo.net
+EXT000782,AmsterdamRecorder,https://recordernews.com,unknown,historical_us_local_news,not_live_checked,US,6044,https://github.com/sTechLab/local-news-dataset,recordernews.com
+EXT000783,News Current,https://beavercreeknewscurrent.com,unknown,historical_us_local_news,not_live_checked,US,6455,https://github.com/sTechLab/local-news-dataset,beavercreeknewscurrent.com
+EXT000784,Durant Daily Democrat,https://durantdemocrat.com,unknown,historical_us_local_news,not_live_checked,US,6700,https://github.com/sTechLab/local-news-dataset,durantdemocrat.com
+EXT000785,St. Helens Chronicle,https://thechronicleonline.com,unknown,historical_us_local_news,not_live_checked,US,6801,https://github.com/sTechLab/local-news-dataset,thechronicleonline.com
+EXT000786,Endeavor News,https://endeavornews.com,unknown,historical_us_local_news,not_live_checked,US,6916,https://github.com/sTechLab/local-news-dataset,endeavornews.com
+EXT000787,Warwick Beacon,https://warwickonline.com,unknown,historical_us_local_news,not_live_checked,US,7110,https://github.com/sTechLab/local-news-dataset,warwickonline.com
+EXT000788,Regional Bus. Journal,https://charlestonbusiness.com,unknown,historical_us_local_news,not_live_checked,US,7138,https://github.com/sTechLab/local-news-dataset,charlestonbusiness.com
+EXT000789,Mobridge Tribune,https://mobridgetribune.com,unknown,historical_us_local_news,not_live_checked,US,7236,https://github.com/sTechLab/local-news-dataset,mobridgetribune.com
+EXT000790,Herald-Citizen,https://herald-citizen.com,unknown,historical_us_local_news,not_live_checked,US,7282,https://github.com/sTechLab/local-news-dataset,herald-citizen.com
+EXT000791,Bandera Bulletin,https://banderabulletin.com,unknown,historical_us_local_news,not_live_checked,US,7453,https://github.com/sTechLab/local-news-dataset,banderabulletin.com
+EXT000792,Sentinel News,https://sentinelnews.net,unknown,historical_us_local_news,not_live_checked,US,7923,https://github.com/sTechLab/local-news-dataset,sentinelnews.net
+EXT000793,Northern Virginia Magazine,https://northernvirginiamag.com,unknown,historical_us_local_news,not_live_checked,US,7980,https://github.com/sTechLab/local-news-dataset,northernvirginiamag.com
+EXT000794,VTDigger,https://vtdigger.org,unknown,historical_us_local_news,not_live_checked,US,8141,https://github.com/sTechLab/local-news-dataset,vtdigger.org
+EXT000795,Cashmere Valley Record,https://cashmerevalleyrecord.com,unknown,historical_us_local_news,not_live_checked,US,8183,https://github.com/sTechLab/local-news-dataset,cashmerevalleyrecord.com
+EXT000796,Chetek Alert,https://chetekalert.com,unknown,historical_us_local_news,not_live_checked,US,8347,https://github.com/sTechLab/local-news-dataset,chetekalert.com
+EXT000797,WV Living Magazine,https://wvliving.com,unknown,historical_us_local_news,not_live_checked,US,8500,https://github.com/sTechLab/local-news-dataset,wvliving.com
+EXT000798,Ketchikan Daily News,https://ketchikandailynews.com,unknown,historical_us_local_news,not_live_checked,US,25,https://github.com/sTechLab/local-news-dataset,ketchikandailynews.com
+EXT000799,Birmingham News,https://al.com/birmingham,unknown,historical_us_local_news,not_live_checked,US,68,https://github.com/sTechLab/local-news-dataset,al.com/birmingham
+EXT000800,Cabot Star-Herald,https://lonokenews.net/cabot-star-herald,unknown,historical_us_local_news,not_live_checked,US,229,https://github.com/sTechLab/local-news-dataset,lonokenews.net/cabot-star-herald
+EXT000801,East Valley Tribune,https://eastvalleytribune.com/local/mesa,unknown,historical_us_local_news,not_live_checked,US,401,https://github.com/sTechLab/local-news-dataset,eastvalleytribune.com/local/mesa
+EXT000802,Catalina Islander,https://thecatalinaislander.com,unknown,historical_us_local_news,not_live_checked,US,526,https://github.com/sTechLab/local-news-dataset,thecatalinaislander.com
+EXT000803,Longmont Times-Call,https://timescall.com,unknown,historical_us_local_news,not_live_checked,US,1251,https://github.com/sTechLab/local-news-dataset,timescall.com
+EXT000804,Hartford Courant,https://courant.com,unknown,historical_us_local_news,not_live_checked,US,1466,https://github.com/sTechLab/local-news-dataset,courant.com
+EXT000805,Town Hall,https://townhall.com,unknown,historical_us_local_news,not_live_checked,US,1609,https://github.com/sTechLab/local-news-dataset,townhall.com
+EXT000806,Coastal Point,https://coastalpoint.com,unknown,historical_us_local_news,not_live_checked,US,1637,https://github.com/sTechLab/local-news-dataset,coastalpoint.com
+EXT000807,Pine Island Eagle,https://pineisland-eagle.com,unknown,historical_us_local_news,not_live_checked,US,1666,https://github.com/sTechLab/local-news-dataset,pineisland-eagle.com
+EXT000808,Atlanta Magazine,https://atlantamagazine.com,unknown,historical_us_local_news,not_live_checked,US,1927,https://github.com/sTechLab/local-news-dataset,atlantamagazine.com
+EXT000809,Britt News Tribune,https://globegazette.com/brittnewstribune,unknown,historical_us_local_news,not_live_checked,US,2224,https://github.com/sTechLab/local-news-dataset,globegazette.com/brittnewstribune
+EXT000810,Idaho County Free Press,https://idahocountyfreepress.com,unknown,historical_us_local_news,not_live_checked,US,2456,https://github.com/sTechLab/local-news-dataset,idahocountyfreepress.com
+EXT000811,Cass County Star-Gazette,https://beardstownnewspapers.com,unknown,historical_us_local_news,not_live_checked,US,2522,https://github.com/sTechLab/local-news-dataset,beardstownnewspapers.com
+EXT000812,Current in Carmel,https://currentincarmel.com,unknown,historical_us_local_news,not_live_checked,US,2973,https://github.com/sTechLab/local-news-dataset,currentincarmel.com
+EXT000813,Chanute Tribune,https://chanute.com,unknown,historical_us_local_news,not_live_checked,US,3205,https://github.com/sTechLab/local-news-dataset,chanute.com
+EXT000814,Adair County Community Voice,https://adairvoice.com,unknown,historical_us_local_news,not_live_checked,US,3356,https://github.com/sTechLab/local-news-dataset,adairvoice.com
+EXT000815,Livingston Parish News,https://livingstonparishnews.com,unknown,historical_us_local_news,not_live_checked,US,3555,https://github.com/sTechLab/local-news-dataset,livingstonparishnews.com
+EXT000816,The Belmontonian,https://belmontonian.com,unknown,historical_us_local_news,not_live_checked,US,3671,https://github.com/sTechLab/local-news-dataset,belmontonian.com
+EXT000817,Worcester County Times,https://worcestercountytimes.com,unknown,historical_us_local_news,not_live_checked,US,4034,https://github.com/sTechLab/local-news-dataset,worcestercountytimes.com
+EXT000818,Aroostook Republican,https://republican-me.com,unknown,historical_us_local_news,not_live_checked,US,4126,https://github.com/sTechLab/local-news-dataset,republican-me.com
+EXT000819,Benton Spirit,https://bentonspiritnews.com,unknown,historical_us_local_news,not_live_checked,US,4203,https://github.com/sTechLab/local-news-dataset,bentonspiritnews.com
+EXT000820,Swift County Monitor News,https://swiftcountymonitor.com,unknown,historical_us_local_news,not_live_checked,US,4462,https://github.com/sTechLab/local-news-dataset,swiftcountymonitor.com
+EXT000821,Press-News Journal,https://lewispnj.com,unknown,historical_us_local_news,not_live_checked,US,4775,https://github.com/sTechLab/local-news-dataset,lewispnj.com
+EXT000822,Webster Progress Times,https://websterprogresstimes.com,unknown,historical_us_local_news,not_live_checked,US,5046,https://github.com/sTechLab/local-news-dataset,websterprogresstimes.com
+EXT000823,Independent Record,https://helenair.com,unknown,historical_us_local_news,not_live_checked,US,5172,https://github.com/sTechLab/local-news-dataset,helenair.com
+EXT000824,Cary Citizen,https://carycitizen.com,unknown,historical_us_local_news,not_live_checked,US,5252,https://github.com/sTechLab/local-news-dataset,carycitizen.com
+EXT000825,Valley City Times-Record,https://times-online.com,unknown,historical_us_local_news,not_live_checked,US,5493,https://github.com/sTechLab/local-news-dataset,times-online.com
+EXT000826,Creighton News,https://creightonnews.com,unknown,historical_us_local_news,not_live_checked,US,5526,https://github.com/sTechLab/local-news-dataset,creightonnews.com
+EXT000827,Exeter News-Letter,https://seacoastonline.com/exeternewsletter,unknown,historical_us_local_news,not_live_checked,US,5671,https://github.com/sTechLab/local-news-dataset,seacoastonline.com/exeternewsletter
+EXT000828,Jewish Community Voice,https://jewishvoicesnj.org,unknown,historical_us_local_news,not_live_checked,US,5747,https://github.com/sTechLab/local-news-dataset,jewishvoicesnj.org
+EXT000829,Cibola Citizen,https://cibolacitizen.com,unknown,historical_us_local_news,not_live_checked,US,5941,https://github.com/sTechLab/local-news-dataset,cibolacitizen.com
+EXT000830,El Tiempo Las Vegas,https://eltiempolv.com,unknown,historical_us_local_news,not_live_checked,US,5994,https://github.com/sTechLab/local-news-dataset,eltiempolv.com
+EXT000831,Catskill Mountain News,https://catskillmountainnews.com,unknown,historical_us_local_news,not_live_checked,US,6046,https://github.com/sTechLab/local-news-dataset,catskillmountainnews.com
+EXT000832,Bellefontaine Examiner,https://examiner.org,unknown,historical_us_local_news,not_live_checked,US,6456,https://github.com/sTechLab/local-news-dataset,examiner.org
+EXT000833,The Country Connection News,https://countryconnectionnews.com,unknown,historical_us_local_news,not_live_checked,US,6701,https://github.com/sTechLab/local-news-dataset,countryconnectionnews.com
+EXT000834,The World Newspaper,https://theworldlink.com,unknown,historical_us_local_news,not_live_checked,US,6802,https://github.com/sTechLab/local-news-dataset,theworldlink.com
+EXT000835,Potter Leader-Enterprise,https://potterleaderenterprise.com,unknown,historical_us_local_news,not_live_checked,US,6917,https://github.com/sTechLab/local-news-dataset,potterleaderenterprise.com
+EXT000836,Westerly Sun,https://thewesterlysun.com,unknown,historical_us_local_news,not_live_checked,US,7113,https://github.com/sTechLab/local-news-dataset,thewesterlysun.com
+EXT000837,The Daniel Island News,https://thedanielislandnews.com,unknown,historical_us_local_news,not_live_checked,US,7139,https://github.com/sTechLab/local-news-dataset,thedanielislandnews.com
+EXT000838,Black Hills Pioneer,https://bhpioneer.com,unknown,historical_us_local_news,not_live_checked,US,7237,https://github.com/sTechLab/local-news-dataset,bhpioneer.com
+EXT000839,Covington Leader,https://covingtonleader.com,unknown,historical_us_local_news,not_live_checked,US,7283,https://github.com/sTechLab/local-news-dataset,covingtonleader.com
+EXT000840,The Bastrop Advertiser,https://bastropadvertiser.com,unknown,historical_us_local_news,not_live_checked,US,7456,https://github.com/sTechLab/local-news-dataset,bastropadvertiser.com
+EXT000841,Standard-Examiner,https://standard.net,unknown,historical_us_local_news,not_live_checked,US,7924,https://github.com/sTechLab/local-news-dataset,standard.net
+EXT000842,Daily Progress,https://dailyprogress.com,unknown,historical_us_local_news,not_live_checked,US,7981,https://github.com/sTechLab/local-news-dataset,dailyprogress.com
+EXT000843,News & Citizen,https://newsandcitizen.com,unknown,historical_us_local_news,not_live_checked,US,8142,https://github.com/sTechLab/local-news-dataset,newsandcitizen.com
+EXT000844,The Wahkiakum County Eagle,https://waheagle.com,unknown,historical_us_local_news,not_live_checked,US,8185,https://github.com/sTechLab/local-news-dataset,waheagle.com
+EXT000845,Chippewa Herald,https://chippewa.com,unknown,historical_us_local_news,not_live_checked,US,8349,https://github.com/sTechLab/local-news-dataset,chippewa.com
+EXT000846,93.7 The DAWG,https://937thedawg.com,unknown,historical_us_local_news,not_live_checked,US,8501,https://github.com/sTechLab/local-news-dataset,937thedawg.com
+EXT000847,Local Paper,https://thelocalpaper.com,unknown,historical_us_local_news,not_live_checked,US,27,https://github.com/sTechLab/local-news-dataset,thelocalpaper.com
+EXT000848,Birmingham Times,https://birminghamtimes.com,unknown,historical_us_local_news,not_live_checked,US,69,https://github.com/sTechLab/local-news-dataset,birminghamtimes.com
+EXT000849,Camden News,https://camdenarknews.com,unknown,historical_us_local_news,not_live_checked,US,231,https://github.com/sTechLab/local-news-dataset,camdenarknews.com
+EXT000850,Arizona Daily Sun,https://azdailysun.com,unknown,historical_us_local_news,not_live_checked,US,402,https://github.com/sTechLab/local-news-dataset,azdailysun.com
+EXT000851,SGV CityWatch,https://sgvcitywatch.com,unknown,historical_us_local_news,not_live_checked,US,527,https://github.com/sTechLab/local-news-dataset,sgvcitywatch.com
+EXT000852,Mountain Town Magazine,https://mountaintownmagazine.com,unknown,historical_us_local_news,not_live_checked,US,1252,https://github.com/sTechLab/local-news-dataset,mountaintownmagazine.com
+EXT000853,Identidad Latina,https://identidadlatina.com,unknown,historical_us_local_news,not_live_checked,US,1467,https://github.com/sTechLab/local-news-dataset,identidadlatina.com
+EXT000854,Washington City Paper,https://washingtoncitypaper.com,unknown,historical_us_local_news,not_live_checked,US,1611,https://github.com/sTechLab/local-news-dataset,washingtoncitypaper.com
+EXT000855,Delaware Beach Life,https://delawarebeachlife.com,unknown,historical_us_local_news,not_live_checked,US,1639,https://github.com/sTechLab/local-news-dataset,delawarebeachlife.com
+EXT000856,Holmes County Times Advertiser,https://chipleypaper.com,unknown,historical_us_local_news,not_live_checked,US,1668,https://github.com/sTechLab/local-news-dataset,chipleypaper.com
+EXT000857,Atlanta Tribune: The Magazine,https://atlantatribune.com,unknown,historical_us_local_news,not_live_checked,US,1928,https://github.com/sTechLab/local-news-dataset,atlantatribune.com
+EXT000858,The Leader,https://theleaderonline.net,unknown,historical_us_local_news,not_live_checked,US,2225,https://github.com/sTechLab/local-news-dataset,theleaderonline.net
+EXT000859,Owyhee Avalanche,https://owyheepublishing.com,unknown,historical_us_local_news,not_live_checked,US,2457,https://github.com/sTechLab/local-news-dataset,owyheepublishing.com
+EXT000860,News-Democrat,https://bnd.com,unknown,historical_us_local_news,not_live_checked,US,2523,https://github.com/sTechLab/local-news-dataset,bnd.com
+EXT000861,Current in Geist,https://geistcurrent.com,unknown,historical_us_local_news,not_live_checked,US,2974,https://github.com/sTechLab/local-news-dataset,geistcurrent.com
+EXT000862,Haysville Sun-Times,https://tsnews.com,unknown,historical_us_local_news,not_live_checked,US,3207,https://github.com/sTechLab/local-news-dataset,tsnews.com
+EXT000863,Adair Progress,https://adairprogress.com,unknown,historical_us_local_news,not_live_checked,US,3357,https://github.com/sTechLab/local-news-dataset,adairprogress.com
+EXT000864,The DeQuincy News,https://dequincynews.com,unknown,historical_us_local_news,not_live_checked,US,3557,https://github.com/sTechLab/local-news-dataset,dequincynews.com
+EXT000865,Beverly Citizen,https://beverly.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3673,https://github.com/sTechLab/local-news-dataset,beverly.wickedlocal.com
+EXT000866,Dorchester Banner,https://dorchesterbanner.com,unknown,historical_us_local_news,not_live_checked,US,4035,https://github.com/sTechLab/local-news-dataset,dorchesterbanner.com
+EXT000867,The Town Line Community Newspaper,https://townline.org,unknown,historical_us_local_news,not_live_checked,US,4127,https://github.com/sTechLab/local-news-dataset,townline.org
+EXT000868,Herald-Palladium,https://heraldpalladium.com,unknown,historical_us_local_news,not_live_checked,US,4204,https://github.com/sTechLab/local-news-dataset,heraldpalladium.com
+EXT000869,West Sherburne Tribune,https://westsherburnetribune.com,unknown,historical_us_local_news,not_live_checked,US,4463,https://github.com/sTechLab/local-news-dataset,westsherburnetribune.com
+EXT000870,Southeast Missourian,https://semissourian.com,unknown,historical_us_local_news,not_live_checked,US,4776,https://github.com/sTechLab/local-news-dataset,semissourian.com
+EXT000871,Scott County Times,https://sctonline.net,unknown,historical_us_local_news,not_live_checked,US,5049,https://github.com/sTechLab/local-news-dataset,sctonline.net
+EXT000872,Ennis Madisonian,https://madisoniannews.com,unknown,historical_us_local_news,not_live_checked,US,5175,https://github.com/sTechLab/local-news-dataset,madisoniannews.com
+EXT000873,Cary Magazine,https://carymagazine.com,unknown,historical_us_local_news,not_live_checked,US,5253,https://github.com/sTechLab/local-news-dataset,carymagazine.com
+EXT000874,Wahpeton Daily News,https://wahpetondailynews.com,unknown,historical_us_local_news,not_live_checked,US,5494,https://github.com/sTechLab/local-news-dataset,wahpetondailynews.com
+EXT000875,Crofton Journal,https://croftonjournal.com,unknown,historical_us_local_news,not_live_checked,US,5527,https://github.com/sTechLab/local-news-dataset,croftonjournal.com
+EXT000876,Goffstown News,https://newhampshire.com/section/newhampshire1409,unknown,historical_us_local_news,not_live_checked,US,5672,https://github.com/sTechLab/local-news-dataset,newhampshire.com/section/newhampshire1409
+EXT000877,South Philly Review,https://southphillyreview.com,unknown,historical_us_local_news,not_live_checked,US,5748,https://github.com/sTechLab/local-news-dataset,southphillyreview.com
+EXT000878,Hobbs News-Sun,https://hobbsnews.com,unknown,historical_us_local_news,not_live_checked,US,5943,https://github.com/sTechLab/local-news-dataset,hobbsnews.com
+EXT000879,Guardian Liberty Voice,https://guardianlv.com,unknown,historical_us_local_news,not_live_checked,US,5995,https://github.com/sTechLab/local-news-dataset,guardianlv.com
+EXT000880,Daily Voice Bergen County,https://dailyvoice.com,unknown,historical_us_local_news,not_live_checked,US,6048,https://github.com/sTechLab/local-news-dataset,dailyvoice.com
+EXT000881,The Hub Auction Newspaper,https://atticahub.com,unknown,historical_us_local_news,not_live_checked,US,6457,https://github.com/sTechLab/local-news-dataset,atticahub.com
+EXT000882,Edmond Evening Sun,https://edmondsun.com,unknown,historical_us_local_news,not_live_checked,US,6702,https://github.com/sTechLab/local-news-dataset,edmondsun.com
+EXT000883,Corvallis Gazette Times,https://gazettetimes.com,unknown,historical_us_local_news,not_live_checked,US,6803,https://github.com/sTechLab/local-news-dataset,gazettetimes.com
+EXT000884,Dallas Post,https://mydallaspost.com,unknown,historical_us_local_news,not_live_checked,US,6921,https://github.com/sTechLab/local-news-dataset,mydallaspost.com
+EXT000885,The Woonsocket Call,https://woonsocketcall.com,unknown,historical_us_local_news,not_live_checked,US,7114,https://github.com/sTechLab/local-news-dataset,woonsocketcall.com
+EXT000886,The Link,https://thelinkpaper.com,unknown,historical_us_local_news,not_live_checked,US,7142,https://github.com/sTechLab/local-news-dataset,thelinkpaper.com
+EXT000887,Parkston Advance,https://parkstonadvance.com,unknown,historical_us_local_news,not_live_checked,US,7238,https://github.com/sTechLab/local-news-dataset,parkstonadvance.com
+EXT000888,Crossville Chronicle,https://crossville-chronicle.com,unknown,historical_us_local_news,not_live_checked,US,7284,https://github.com/sTechLab/local-news-dataset,crossville-chronicle.com
+EXT000889,The Smithville Times,https://smithvilletimes.com,unknown,historical_us_local_news,not_live_checked,US,7457,https://github.com/sTechLab/local-news-dataset,smithvilletimes.com
+EXT000890,Park Record,https://parkrecord.com,unknown,historical_us_local_news,not_live_checked,US,7925,https://github.com/sTechLab/local-news-dataset,parkrecord.com
+EXT000891,Chatham Star-Tribune,https://chathamstartribune.com,unknown,historical_us_local_news,not_live_checked,US,7983,https://github.com/sTechLab/local-news-dataset,chathamstartribune.com
+EXT000892,The Northfield News,https://thenorthfieldnews.com,unknown,historical_us_local_news,not_live_checked,US,8144,https://github.com/sTechLab/local-news-dataset,thenorthfieldnews.com
+EXT000893,Lewis County Sports,https://chronline.com/sports/prep,unknown,historical_us_local_news,not_live_checked,US,8186,https://github.com/sTechLab/local-news-dataset,chronline.com/sports/prep
+EXT000894,SLN Walworth County,https://mywalworthcounty.com,unknown,historical_us_local_news,not_live_checked,US,8352,https://github.com/sTechLab/local-news-dataset,mywalworthcounty.com
+EXT000895,Herald-Dispatch,https://herald-dispatch.com,unknown,historical_us_local_news,not_live_checked,US,8502,https://github.com/sTechLab/local-news-dataset,herald-dispatch.com
+EXT000896,Sitnews,https://sitnews.us,unknown,historical_us_local_news,not_live_checked,US,28,https://github.com/sTechLab/local-news-dataset,sitnews.us
+EXT000897,Over the Mountain Journal,https://otmj.com,unknown,historical_us_local_news,not_live_checked,US,71,https://github.com/sTechLab/local-news-dataset,otmj.com
+EXT000898,Charleston Express,https://charlestonexpress.com,unknown,historical_us_local_news,not_live_checked,US,233,https://github.com/sTechLab/local-news-dataset,charlestonexpress.com
+EXT000899,Navajo Hopi Observer,https://nhonews.com,unknown,historical_us_local_news,not_live_checked,US,403,https://github.com/sTechLab/local-news-dataset,nhonews.com
+EXT000900,BVarsity Live,https://bakersfield.com/bvarsity,unknown,historical_us_local_news,not_live_checked,US,528,https://github.com/sTechLab/local-news-dataset,bakersfield.com/bvarsity
+EXT000901,Brighton Standard Blade,https://thebrightonblade.com,unknown,historical_us_local_news,not_live_checked,US,1254,https://github.com/sTechLab/local-news-dataset,thebrightonblade.com
+EXT000902,Fairfield Citizen-News,https://fairfieldcitizenonline.com,unknown,historical_us_local_news,not_live_checked,US,1471,https://github.com/sTechLab/local-news-dataset,fairfieldcitizenonline.com
+EXT000903,Washington Examiner,https://washingtonexaminer.com,unknown,historical_us_local_news,not_live_checked,US,1612,https://github.com/sTechLab/local-news-dataset,washingtonexaminer.com
+EXT000904,Seaford Star,https://seafordstar.com,unknown,historical_us_local_news,not_live_checked,US,1641,https://github.com/sTechLab/local-news-dataset,seafordstar.com
+EXT000905,Banner,https://naplesnews.com/community/banner,unknown,historical_us_local_news,not_live_checked,US,1669,https://github.com/sTechLab/local-news-dataset,naplesnews.com/community/banner
+EXT000906,Buckhead Reporter,https://reporternewspapers.net/category/buckhead,unknown,historical_us_local_news,not_live_checked,US,1930,https://github.com/sTechLab/local-news-dataset,reporternewspapers.net/category/buckhead
+EXT000907,Buffalo Center Tribune,https://thebuffalocentertribune.com,unknown,historical_us_local_news,not_live_checked,US,2226,https://github.com/sTechLab/local-news-dataset,thebuffalocentertribune.com
+EXT000908,Post Register,https://postregister.com,unknown,historical_us_local_news,not_live_checked,US,2458,https://github.com/sTechLab/local-news-dataset,postregister.com
+EXT000909,Benton News,https://bentoneveningnews.com,unknown,historical_us_local_news,not_live_checked,US,2525,https://github.com/sTechLab/local-news-dataset,bentoneveningnews.com
+EXT000910,Chesterton Tribune,https://chestertontribune.com,unknown,historical_us_local_news,not_live_checked,US,2976,https://github.com/sTechLab/local-news-dataset,chestertontribune.com
+EXT000911,Blade-Empire,https://bladeempire.com,unknown,historical_us_local_news,not_live_checked,US,3212,https://github.com/sTechLab/local-news-dataset,bladeempire.com
+EXT000912,ColumbiaMagazine.com,https://columbiamagazine.com,unknown,historical_us_local_news,not_live_checked,US,3358,https://github.com/sTechLab/local-news-dataset,columbiamagazine.com
+EXT000913,Donaldsonville Chief,https://donaldsonvillechief.com,unknown,historical_us_local_news,not_live_checked,US,3558,https://github.com/sTechLab/local-news-dataset,donaldsonvillechief.com
+EXT000914,Billerica Minuteman,https://billerica.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3676,https://github.com/sTechLab/local-news-dataset,billerica.wickedlocal.com
+EXT000915,Dorchester Star,https://myeasternshoremd.com,unknown,historical_us_local_news,not_live_checked,US,4036,https://github.com/sTechLab/local-news-dataset,myeasternshoremd.com
+EXT000916,Lincoln County News,https://lcnme.com,unknown,historical_us_local_news,not_live_checked,US,4128,https://github.com/sTechLab/local-news-dataset,lcnme.com
+EXT000917,The Herald Review,https://theheraldreview.com,unknown,historical_us_local_news,not_live_checked,US,4207,https://github.com/sTechLab/local-news-dataset,theheraldreview.com
+EXT000918,Steele County Times,https://bloomingprairieonline.com/steele-county-times-0,unknown,historical_us_local_news,not_live_checked,US,4467,https://github.com/sTechLab/local-news-dataset,bloomingprairieonline.com/steele-county-times-0
+EXT000919,Carthage Press,https://carthagepress.com,unknown,historical_us_local_news,not_live_checked,US,4777,https://github.com/sTechLab/local-news-dataset,carthagepress.com
+EXT000920,Itawamba County Times,https://djournal.com/itawamba,unknown,historical_us_local_news,not_live_checked,US,5051,https://github.com/sTechLab/local-news-dataset,djournal.com/itawamba
+EXT000921,Fort Benton River Press,https://riverpressnews.com,unknown,historical_us_local_news,not_live_checked,US,5179,https://github.com/sTechLab/local-news-dataset,riverpressnews.com
+EXT000922,Cary News,https://newsobserver.com/news/local/community/cary-news,unknown,historical_us_local_news,not_live_checked,US,5254,https://github.com/sTechLab/local-news-dataset,newsobserver.com/news/local/community/cary-news
+EXT000923,McKenzie County Farmer,https://watfordcitynd.com,unknown,historical_us_local_news,not_live_checked,US,5497,https://github.com/sTechLab/local-news-dataset,watfordcitynd.com
+EXT000924,David City Banner-Press,https://thebanner-press.com,unknown,historical_us_local_news,not_live_checked,US,5529,https://github.com/sTechLab/local-news-dataset,thebanner-press.com
+EXT000925,Hudson-Litchfield News,https://areanewsgroup.com,unknown,historical_us_local_news,not_live_checked,US,5676,https://github.com/sTechLab/local-news-dataset,areanewsgroup.com
+EXT000926,The Haddonfield Sun,https://haddonfieldsun.com,unknown,historical_us_local_news,not_live_checked,US,5749,https://github.com/sTechLab/local-news-dataset,haddonfieldsun.com
+EXT000927,KRWG,https://krwg.org,unknown,historical_us_local_news,not_live_checked,US,5945,https://github.com/sTechLab/local-news-dataset,krwg.org
+EXT000928,Las Vegas CityLife,https://lvcitylife.com,unknown,historical_us_local_news,not_live_checked,US,5997,https://github.com/sTechLab/local-news-dataset,lvcitylife.com
+EXT000929,Give Me Astoria,https://givemeastoria.com,unknown,historical_us_local_news,not_live_checked,US,6049,https://github.com/sTechLab/local-news-dataset,givemeastoria.com
+EXT000930,Record Herald,https://recordherald.com,unknown,historical_us_local_news,not_live_checked,US,6458,https://github.com/sTechLab/local-news-dataset,recordherald.com
+EXT000931,El Reno Tribune,https://elrenotribune.com,unknown,historical_us_local_news,not_live_checked,US,6704,https://github.com/sTechLab/local-news-dataset,elrenotribune.com
+EXT000932,The Corvallis Advocate,https://corvallisadvocate.com,unknown,historical_us_local_news,not_live_checked,US,6804,https://github.com/sTechLab/local-news-dataset,corvallisadvocate.com
+EXT000933,Intelligencer,https://theintell.com,unknown,historical_us_local_news,not_live_checked,US,6923,https://github.com/sTechLab/local-news-dataset,theintell.com
+EXT000934,The Clinton Chronicle,https://myclintonnews.com,unknown,historical_us_local_news,not_live_checked,US,7145,https://github.com/sTechLab/local-news-dataset,myclintonnews.com
+EXT000935,NewsCenter1 Media Group,https://newscenter1.tv,unknown,historical_us_local_news,not_live_checked,US,7241,https://github.com/sTechLab/local-news-dataset,newscenter1.tv
+EXT000936,The Jefferson County Post,https://jeffersoncountypost.com,unknown,historical_us_local_news,not_live_checked,US,7285,https://github.com/sTechLab/local-news-dataset,jeffersoncountypost.com
+EXT000937,Bay City Tribune,https://baycitytribune.com,unknown,historical_us_local_news,not_live_checked,US,7458,https://github.com/sTechLab/local-news-dataset,baycitytribune.com
+EXT000938,Sun Advocate,https://sunad.com,unknown,historical_us_local_news,not_live_checked,US,7926,https://github.com/sTechLab/local-news-dataset,sunad.com
+EXT000939,Prince George Journal,https://theprincegeorgejournal.com,unknown,historical_us_local_news,not_live_checked,US,7984,https://github.com/sTechLab/local-news-dataset,theprincegeorgejournal.com
+EXT000940,Herald of Randolph,https://ourherald.com,unknown,historical_us_local_news,not_live_checked,US,8145,https://github.com/sTechLab/local-news-dataset,ourherald.com
+EXT000941,Lake Chelan Mirror,https://lakechelanmirror.com,unknown,historical_us_local_news,not_live_checked,US,8187,https://github.com/sTechLab/local-news-dataset,lakechelanmirror.com
+EXT000942,Courier-Wedge,https://gmdmedia.net/courier-wedge,unknown,historical_us_local_news,not_live_checked,US,8353,https://github.com/sTechLab/local-news-dataset,gmdmedia.net/courier-wedge
+EXT000943,HuntingtonNews.Net,https://huntingtonnews.net,unknown,historical_us_local_news,not_live_checked,US,8503,https://github.com/sTechLab/local-news-dataset,huntingtonnews.net
+EXT000944,Arctic Sounder,https://thearcticsounder.com,unknown,historical_us_local_news,not_live_checked,US,31,https://github.com/sTechLab/local-news-dataset,thearcticsounder.com
+EXT000945,This is Alabama,https://thisisalabama.org,unknown,historical_us_local_news,not_live_checked,US,73,https://github.com/sTechLab/local-news-dataset,thisisalabama.org
+EXT000946,Area Wide News,https://areawidenews.com,unknown,historical_us_local_news,not_live_checked,US,234,https://github.com/sTechLab/local-news-dataset,areawidenews.com
+EXT000947,Noise,https://thenoise.us,unknown,historical_us_local_news,not_live_checked,US,405,https://github.com/sTechLab/local-news-dataset,thenoise.us
+EXT000948,El Popular,https://elpopularnews.com,unknown,historical_us_local_news,not_live_checked,US,530,https://github.com/sTechLab/local-news-dataset,elpopularnews.com
+EXT000949,Commerce City Sentinel Express,https://commercecitysentinel.com,unknown,historical_us_local_news,not_live_checked,US,1255,https://github.com/sTechLab/local-news-dataset,commercecitysentinel.com
+EXT000950,Fairfield County Business Journal,https://westfaironline.com/fairfield-news_1,unknown,historical_us_local_news,not_live_checked,US,1472,https://github.com/sTechLab/local-news-dataset,westfaironline.com/fairfield-news_1
+EXT000951,Washington Post,https://washingtonpost.com,unknown,historical_us_local_news,not_live_checked,US,1613,https://github.com/sTechLab/local-news-dataset,washingtonpost.com
+EXT000952,WDEL,https://wdel.com,unknown,historical_us_local_news,not_live_checked,US,1644,https://github.com/sTechLab/local-news-dataset,wdel.com
+EXT000953,Gulfshore Business,https://gulfshorebusiness.com,unknown,historical_us_local_news,not_live_checked,US,1671,https://github.com/sTechLab/local-news-dataset,gulfshorebusiness.com
+EXT000954,Creative Loafing Atlanta,https://clatl.com,unknown,historical_us_local_news,not_live_checked,US,1931,https://github.com/sTechLab/local-news-dataset,clatl.com
+EXT000955,Hawk Eye,https://thehawkeye.com,unknown,historical_us_local_news,not_live_checked,US,2227,https://github.com/sTechLab/local-news-dataset,thehawkeye.com
+EXT000956,Clearwater Progress,https://clearwaterprogress.com,unknown,historical_us_local_news,not_live_checked,US,2459,https://github.com/sTechLab/local-news-dataset,clearwaterprogress.com
+EXT000957,El Dia Newspaper,https://eldianewschicago.com,unknown,historical_us_local_news,not_live_checked,US,2530,https://github.com/sTechLab/local-news-dataset,eldianewschicago.com
+EXT000958,Churubusco News,https://busconews.com,unknown,historical_us_local_news,not_live_checked,US,2977,https://github.com/sTechLab/local-news-dataset,busconews.com
+EXT000959,Derby Informer,https://derbyinformer.com,unknown,historical_us_local_news,not_live_checked,US,3216,https://github.com/sTechLab/local-news-dataset,derbyinformer.com
+EXT000960,Corbin News Journal,https://thenewsjournal.net,unknown,historical_us_local_news,not_live_checked,US,3360,https://github.com/sTechLab/local-news-dataset,thenewsjournal.net
+EXT000961,Eunice News,https://eunicetoday.com,unknown,historical_us_local_news,not_live_checked,US,3560,https://github.com/sTechLab/local-news-dataset,eunicetoday.com
+EXT000962,Bolton Common,https://bolton.wickedlocal.com,unknown,historical_us_local_news,not_live_checked,US,3677,https://github.com/sTechLab/local-news-dataset,bolton.wickedlocal.com
+EXT000963,The Chestertown Spy,https://chestertownspy.org,unknown,historical_us_local_news,not_live_checked,US,4041,https://github.com/sTechLab/local-news-dataset,chestertownspy.org
+EXT000964,Machias Valley News Observer,https://machiasnews.com,unknown,historical_us_local_news,not_live_checked,US,4131,https://github.com/sTechLab/local-news-dataset,machiasnews.com
+EXT000965,Birmingham Eccentric,https://hometownlife.com/news/eccentric-birmingham,unknown,historical_us_local_news,not_live_checked,US,4208,https://github.com/sTechLab/local-news-dataset,hometownlife.com/news/eccentric-birmingham
+EXT000966,Minnesota Monthly,https://minnesotamonthly.com,unknown,historical_us_local_news,not_live_checked,US,4468,https://github.com/sTechLab/local-news-dataset,minnesotamonthly.com
+EXT000967,Cassville Democrat,https://cassville-democrat.com,unknown,historical_us_local_news,not_live_checked,US,4780,https://github.com/sTechLab/local-news-dataset,cassville-democrat.com
+EXT000968,Delta Democrat Times,https://ddtonline.com,unknown,historical_us_local_news,not_live_checked,US,5053,https://github.com/sTechLab/local-news-dataset,ddtonline.com
+EXT000969,Glasgow Courier,https://glasgowcourier.com,unknown,historical_us_local_news,not_live_checked,US,5181,https://github.com/sTechLab/local-news-dataset,glasgowcourier.com
+EXT000970,Southwest Wake News,https://southwestwakenews.com,unknown,historical_us_local_news,not_live_checked,US,5255,https://github.com/sTechLab/local-news-dataset,southwestwakenews.com
+EXT000971,The Packer Newspaper,https://westfargopacker.org,unknown,historical_us_local_news,not_live_checked,US,5498,https://github.com/sTechLab/local-news-dataset,westfargopacker.org
+EXT000972,Elgin Review,https://elginreview.com,unknown,historical_us_local_news,not_live_checked,US,5531,https://github.com/sTechLab/local-news-dataset,elginreview.com
+EXT000973,Keene Sentinel,https://sentinelsource.com,unknown,historical_us_local_news,not_live_checked,US,5678,https://github.com/sTechLab/local-news-dataset,sentinelsource.com
+EXT000974,Observer-Tribune,https://observer-tribune.com,unknown,historical_us_local_news,not_live_checked,US,5751,https://github.com/sTechLab/local-news-dataset,observer-tribune.com
+EXT000975,Las Cruces Bulletin,https://lascrucesbulletin.com,unknown,historical_us_local_news,not_live_checked,US,5946,https://github.com/sTechLab/local-news-dataset,lascrucesbulletin.com
+EXT000976,Las Vegas Informer,https://lasvegas.informermg.com,unknown,historical_us_local_news,not_live_checked,US,5998,https://github.com/sTechLab/local-news-dataset,lasvegas.informermg.com
+EXT000977,The Advertiser,https://vernonpublishing.com,unknown,historical_us_local_news,not_live_checked,US,6050,https://github.com/sTechLab/local-news-dataset,vernonpublishing.com
+EXT000978,Ada Icon,https://adaicon.com,unknown,historical_us_local_news,not_live_checked,US,6459,https://github.com/sTechLab/local-news-dataset,adaicon.com
+EXT000979,The Elk City News,https://elkcityoknews.com,unknown,historical_us_local_news,not_live_checked,US,6705,https://github.com/sTechLab/local-news-dataset,elkcityoknews.com
+EXT000980,Cottage Grove Sentinel,https://cgsentinel.com,unknown,historical_us_local_news,not_live_checked,US,6805,https://github.com/sTechLab/local-news-dataset,cgsentinel.com
+EXT000981,Perry County Times,https://pennlive.com/perry-county-times,unknown,historical_us_local_news,not_live_checked,US,6926,https://github.com/sTechLab/local-news-dataset,pennlive.com/perry-county-times
+EXT000982,Cola Daily,https://coladaily.com,unknown,historical_us_local_news,not_live_checked,US,7146,https://github.com/sTechLab/local-news-dataset,coladaily.com
+EXT000983,Redfield Press,https://redfieldpress.com,unknown,historical_us_local_news,not_live_checked,US,7243,https://github.com/sTechLab/local-news-dataset,redfieldpress.com
+EXT000984,Herald-News,https://rheaheraldnews.com,unknown,historical_us_local_news,not_live_checked,US,7286,https://github.com/sTechLab/local-news-dataset,rheaheraldnews.com
+EXT000985,The Bay City Sentinel,https://baycitysentinel.com,unknown,historical_us_local_news,not_live_checked,US,7459,https://github.com/sTechLab/local-news-dataset,baycitysentinel.com
+EXT000986,Richfield Reaper,https://richfieldreaper.com,unknown,historical_us_local_news,not_live_checked,US,7927,https://github.com/sTechLab/local-news-dataset,richfieldreaper.com
+EXT000987,Radford News Journal,https://ourvalley.org,unknown,historical_us_local_news,not_live_checked,US,7985,https://github.com/sTechLab/local-news-dataset,ourvalley.org
+EXT000988,Rutland Herald,https://rutlandherald.com,unknown,historical_us_local_news,not_live_checked,US,8147,https://github.com/sTechLab/local-news-dataset,rutlandherald.com
+EXT000989,Lake Chelan Sports and Recreation,https://richarduhlhorn.photoshelter.com,unknown,historical_us_local_news,not_live_checked,US,8188,https://github.com/sTechLab/local-news-dataset,richarduhlhorn.photoshelter.com
+EXT000990,Vilas County News-Review,https://vcnewsreview.com,unknown,historical_us_local_news,not_live_checked,US,8354,https://github.com/sTechLab/local-news-dataset,vcnewsreview.com
+EXT000991,Daily News-Tribune,https://newstribune.info,unknown,historical_us_local_news,not_live_checked,US,8504,https://github.com/sTechLab/local-news-dataset,newstribune.info
+EXT000992,Nome Nugget,https://nomenugget.net,unknown,historical_us_local_news,not_live_checked,US,32,https://github.com/sTechLab/local-news-dataset,nomenugget.net
+EXT000993,Vestavia Voice,https://vestaviavoice.com,unknown,historical_us_local_news,not_live_checked,US,74,https://github.com/sTechLab/local-news-dataset,vestaviavoice.com
+EXT000994,Van Buren County Democrat,https://vanburencountydem.com,unknown,historical_us_local_news,not_live_checked,US,236,https://github.com/sTechLab/local-news-dataset,vanburencountydem.com
+EXT000995,Fountain Hills Times,https://fhtimes.com,unknown,historical_us_local_news,not_live_checked,US,409,https://github.com/sTechLab/local-news-dataset,fhtimes.com
+EXT000996,Record Gazette,https://recordgazette.net,unknown,historical_us_local_news,not_live_checked,US,533,https://github.com/sTechLab/local-news-dataset,recordgazette.net
+EXT000997,Fort Lupton Press,https://ftluptonpress.com,unknown,historical_us_local_news,not_live_checked,US,1256,https://github.com/sTechLab/local-news-dataset,ftluptonpress.com
+EXT000998,The Lakeville Journal,https://tricornernews.com,unknown,historical_us_local_news,not_live_checked,US,1476,https://github.com/sTechLab/local-news-dataset,tricornernews.com
+EXT000999,Bradenton Herald,https://bradenton.com,unknown,historical_us_local_news,not_live_checked,US,1672,https://github.com/sTechLab/local-news-dataset,bradenton.com
+EXT001000,El Nuevo Georgia,https://elnuevogeorgia.com,unknown,historical_us_local_news,not_live_checked,US,1933,https://github.com/sTechLab/local-news-dataset,elnuevogeorgia.com
