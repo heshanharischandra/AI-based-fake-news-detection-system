@@ -1,4 +1,178 @@
-.env
+# =============================================================================
+# ImageVerificationSystem — .gitignore
+# Python · FastAPI · HuggingFace · Tesseract OCR · Windows
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Python
+# -----------------------------------------------------------------------------
 __pycache__/
 *.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.egg-info/
+.eggs/
+
+# Unit test / coverage
 .pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+
+# -----------------------------------------------------------------------------
+# Virtual Environments
+# -----------------------------------------------------------------------------
+.venv*/
+venv*/
+env*/
+ENV/
+.env.bak
+
+# -----------------------------------------------------------------------------
+# Environment / Secrets
+# -----------------------------------------------------------------------------
+.env
+.env.*
+!.env.example         # Allow a safe template to be committed
+*.pem
+*.key
+secrets/
+credentials.json
+
+# -----------------------------------------------------------------------------
+# ML Models & Large Binary Artifacts
+# (Commit model configs / cards only; download weights at runtime)
+# -----------------------------------------------------------------------------
+models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+*.pb
+*.h5
+*.pkl
+*.joblib
+
+# HuggingFace cache
+.cache/
+~/.cache/huggingface/
+
+# -----------------------------------------------------------------------------
+# Datasets  (large — ship via DVC / HuggingFace Hub instead)
+# -----------------------------------------------------------------------------
+dataset/
+dataset_setup/
+
+# Keep the dataset metadata file if you have one
+# !dataset/README.md
+
+# -----------------------------------------------------------------------------
+# Data directory — keep structure, ignore large blobs
+# -----------------------------------------------------------------------------
+data/evidence/
+data/training/
+data/reference_images/
+data/sinhala_ocr/
+data/sinhala_translation/
+
+# But keep the news context JSON (small, version-controlled)
+!data/news_context.json
+
+# -----------------------------------------------------------------------------
+# Runtime Uploads
+# -----------------------------------------------------------------------------
+uploads/
+
+# -----------------------------------------------------------------------------
+# Reports (auto-generated — regenerate with evaluate_system.py)
+# -----------------------------------------------------------------------------
+reports/
+
+# -----------------------------------------------------------------------------
+# Test images (binary assets — use Git LFS if you need to track them)
+# -----------------------------------------------------------------------------
+test_images/*.png
+test_images/*.jpg
+test_images/*.jpeg
+test_images/*.webp
+test_images/*.gif
+# Keep the ground truth annotation file
+!test_images/ground_truth.json
+
+# -----------------------------------------------------------------------------
+# Logs
+# -----------------------------------------------------------------------------
+*.log
+logs/
+*.log.*
+
+# -----------------------------------------------------------------------------
+# Databases & Local Storage
+# -----------------------------------------------------------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# -----------------------------------------------------------------------------
+# VS Code
+# -----------------------------------------------------------------------------
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/*.code-workspace
+# Allow shared extension recommendations
+!.vscode/extensions.json
+
+# -----------------------------------------------------------------------------
+# Windows
+# -----------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# -----------------------------------------------------------------------------
+# macOS (if collaborating cross-platform)
+# -----------------------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -----------------------------------------------------------------------------
+# JetBrains IDEs
+# -----------------------------------------------------------------------------
+.idea/
+
+# -----------------------------------------------------------------------------
+# Jupyter Notebooks (optional — remove if you want to commit notebooks)
+# -----------------------------------------------------------------------------
+.ipynb_checkpoints/
+
+# -----------------------------------------------------------------------------
+# Temporary / scratch files
+# -----------------------------------------------------------------------------
+*.tmp
+*.bak
+*.swp
+*.orig
+*~
