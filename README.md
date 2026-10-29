@@ -1,74 +1,166 @@
-# Cross-Platform Source Credibility Verification System
+# SourceLens
 
-This branch contains my contribution to the AI-based fake-news detection
-project. It focuses on checking the credibility and identity signals of news
-publishers across websites and social platforms.
+## Cross-Platform Source Credibility Verification System
 
-## Main features
+SourceLens is a research-oriented system for evaluating the credibility signals
+of online news publishers. It analyzes a publisher's website, extracts
+transparency and identity indicators, discovers related social profiles and
+coverage, and returns an evidence-based assessment in English or Sinhala.
 
-- Publisher website and source-profile assessment
-- Publisher identity and metadata analysis
+> **Scope:** SourceLens evaluates source credibility signals. It does not
+> determine whether an article is factually true or false, and an observed
+> social-media association does not independently prove account ownership.
+
+## Highlights
+
+- Website security, identity, ownership, contact, and editorial-policy checks
+- Publisher metadata and domain analysis
 - Discovery of linked Facebook pages and YouTube channels
-- Cross-platform source association checks
-- Related news-coverage discovery
-- English and Sinhala response support
-- FastAPI backend and Streamlit user interface
-- Identity-matching pilot data, model, and evaluation results
+- Cross-platform publisher identity matching
+- Related coverage discovery for an article or publisher
+- Historical assessment storage and retrieval with MongoDB
+- English (`en`) and Sinhala (`si`) output support
+- FastAPI service with an interactive Streamlit interface
+- Identity-matching pilot data, model artifacts, and evaluation results
 
-## Project structure
+## Architecture
 
 ```text
-main.py                    FastAPI backend
-streamlit_app.py           Streamlit interface
-services/                  Analysis, scoring, and verification services
-data/                      Publisher and identity datasets
-models/                    Model artifacts
-results/                   Evaluation results
-test_*.py                  Project tests
+Streamlit UI
+     |
+     v
+FastAPI API
+     |
+     +--> Website and article analysis
+     +--> Source credibility assessment
+     +--> Social-profile discovery and scoring
+     +--> Related coverage discovery
+     |
+     +--> MongoDB assessment history (optional)
 ```
+
+### Repository layout
+
+| Path | Purpose |
+| --- | --- |
+| `main.py` | Primary FastAPI application |
+| `streamlit_app.py` | Streamlit user interface |
+| `services/` | Analysis, discovery, scoring, and verification services |
+| `data/` | Publisher, identity, and evaluation datasets |
+| `models/` | Trained model artifacts |
+| `results/` | Evaluation outputs and reports |
+| `test_*.py` | Automated tests |
+| `requirements.txt` | Python dependency constraints |
 
 ## Requirements
 
 - Python 3.11 or newer
-- Internet access for public website analysis
-- A configured database when assessment history is needed
+- Internet access for public website and coverage analysis
+- MongoDB connection string for assessment history
+- Optional third-party credentials for integrations that require them
 
-Install the dependencies:
+## Installation
 
 ```powershell
+git clone https://github.com/heshanharischandra/AI-based-fake-news-detection-system.git
+cd AI-based-fake-news-detection-system
+
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Run the project
+Create a local `.env` file when database-backed history or optional
+integrations are required. Never commit this file.
 
-Start the backend:
-
-```powershell
-uvicorn main:app --host 127.0.0.1 --port 8002
+```dotenv
+MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>/<database>
+MONGODB_DB=source_credibility_db
+SOURCE_API_URL=http://127.0.0.1:8002
 ```
 
-In another terminal, start the interface:
+`MONGODB_DB` defaults to `source_credibility_db`, and the Streamlit interface
+uses `http://127.0.0.1:8002` when `SOURCE_API_URL` is not set.
+
+## Running locally
+
+Start the API in one terminal:
+
+```powershell
+uvicorn main:app --host 127.0.0.1 --port 8002 --reload
+```
+
+Start the interface in a second terminal:
 
 ```powershell
 streamlit run streamlit_app.py
 ```
 
-The application will display the local web address in the terminal.
+The API is available at `http://127.0.0.1:8002`. Interactive API
+documentation is available at `/docs`.
 
-## Important note
+## API quick start
 
-This system provides source-credibility signals and does not automatically
-decide whether an article is true or false. A social-media link found on a
-publisher website shows an observed association; it does not independently
-prove account ownership or article publication.
+Check service status:
+
+```powershell
+curl http://127.0.0.1:8002/health
+```
+
+Assess a publisher source:
+
+```powershell
+curl -X POST http://127.0.0.1:8002/assess `
+  -H "Content-Type: application/json" `
+  -d '{\"url\":\"https://example.com/news/article\",\"output_language\":\"en\"}'
+```
+
+The main API endpoints are:
+
+| Method | Endpoint | Description |
+| --- | --- | --- |
+| `GET` | `/` | Service metadata and supported languages |
+| `GET` | `/health` | API and database health status |
+| `POST` | `/assess` | Analyze a publisher source |
+| `POST` | `/coverage` | Discover related news coverage |
+| `GET` | `/history/{domain}` | Retrieve recent assessments for a domain |
+
+OpenAPI documentation is generated automatically by FastAPI at
+`http://127.0.0.1:8002/docs`.
 
 ## Testing
+
+Run the focused assessment and identity test suites:
 
 ```powershell
 python -m pytest test_source_assessment.py test_identity_model.py
 ```
 
-This README describes my work on the
-`cross-platform-source-credibility-verification-system` branch.
+Run all repository tests:
+
+```powershell
+python -m pytest
+```
+
+## Responsible use and limitations
+
+- Results are indicators intended to support human review, not final
+  fact-checking decisions.
+- Website content can change, become unavailable, or block automated requests.
+- Public profile links and matching signals should be independently verified.
+- Do not use the system as the sole basis for reputational, legal, employment,
+  safety, or other high-impact decisions.
+- Respect the terms of service, robots directives, rate limits, and applicable
+  privacy laws for every data source.
+
+## Development notes
+
+The project is currently a research prototype. Changes to scoring logic,
+identity matching, datasets, or model artifacts should be accompanied by
+updated tests and evaluation results where applicable.
+
+## License
+
+No license file is currently included in this repository. Add an appropriate
+license before distributing the project or accepting external contributions.
